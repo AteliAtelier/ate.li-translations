@@ -1,0 +1,65 @@
+# Korean translations for PROJECT.
+# Copyright (C) 2015 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2015-11-24 03:23+0900\n"
+"PO-Revision-Date: 2015-11-24 01:47+0900\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ko\n"
+"Language-Team: ko <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.1.1\n"
+
+#: ateli/templates/skeleton.html:26
+msgid "@AteliAtelier"
+msgstr "@AteliAtelier"
+
+#: ateli/templates/skeleton.html:9 ateli/templates/skeleton.html:24
+#: ateli/templates/skeleton.html:30 ateli/templates/skeleton.html:33
+msgid "Ateli"
+msgstr "아트리"
+
+#: ateli/templates/skeleton.html:25
+msgid "Creative together"
+msgstr "함께하는 창작"
+
+#: ateli/home/templates/home/base.html:109
+#: ateli/home/templates/home/ranking.html:10
+msgid "Failed to load posts."
+msgstr "게시물을 불러오지 못했어요. :("
+
+#: ateli/home/templates/home/base.html:94
+msgid "Hello! Ateli"
+msgstr "Hello! 아트리"
+
+#: ateli/home/templates/home/base.html:70
+msgid "Recent posts"
+msgstr "최신 게시물"
+
+#: ateli/home/templates/home/base.html:80
+msgid "Tags"
+msgstr "태그"
+
+#: ateli/home/templates/home/base.html:59
+#, fuzzy
+msgid "Timeline"
+msgstr "아트리"
+
+#: ateli/home/templates/home/base.html:75
+msgid "Total commissions"
+msgstr "종합 커미션"
+
+#: ateli/home/templates/home/base.html:65
+#: ateli/home/templates/home/ranking.html:3
+#, fuzzy
+msgid "Total ranking"
+msgstr "종합 랭킹"
+

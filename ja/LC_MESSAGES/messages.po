@@ -1,0 +1,65 @@
+# Japanese translations for PROJECT.
+# Copyright (C) 2015 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2015-11-24 03:23+0900\n"
+"PO-Revision-Date: 2015-11-24 01:47+0900\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.1.1\n"
+
+#: ateli/templates/skeleton.html:26
+msgid "@AteliAtelier"
+msgstr "@AteliJP"
+
+#: ateli/templates/skeleton.html:9 ateli/templates/skeleton.html:24
+#: ateli/templates/skeleton.html:30 ateli/templates/skeleton.html:33
+msgid "Ateli"
+msgstr "アトリ"
+
+#: ateli/templates/skeleton.html:25
+msgid "Creative together"
+msgstr "いっしょに作りましょう。"
+
+#: ateli/home/templates/home/base.html:109
+#: ateli/home/templates/home/ranking.html:10
+msgid "Failed to load posts."
+msgstr ""
+
+#: ateli/home/templates/home/base.html:94
+msgid "Hello! Ateli"
+msgstr ""
+
+#: ateli/home/templates/home/base.html:70
+msgid "Recent posts"
+msgstr ""
+
+#: ateli/home/templates/home/base.html:80
+msgid "Tags"
+msgstr ""
+
+#: ateli/home/templates/home/base.html:59
+#, fuzzy
+msgid "Timeline"
+msgstr "アトリ"
+
+#: ateli/home/templates/home/base.html:75
+msgid "Total commissions"
+msgstr ""
+
+#: ateli/home/templates/home/base.html:65
+#: ateli/home/templates/home/ranking.html:3
+#, fuzzy
+msgid "Total ranking"
+msgstr "トータルランキング"
+
