@@ -7,51 +7,105 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2015-11-24 03:23+0900\n"
-"PO-Revision-Date: 2015-11-24 01:47+0900\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2015-11-25 02:47+0900\n"
+"PO-Revision-Date: 2015-11-25 02:53+0900\n"
 "Language: ko\n"
 "Language-Team: ko <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.1.1\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 1.8.6\n"
 
-#: ateli/templates/skeleton.html:26
+#: ateli/templates/base_web.html:120 ateli/templates/skeleton.html:26
 msgid "@AteliAtelier"
-msgstr "@AteliAtelier"
+msgstr "@AteliKR"
 
+#: ateli/templates/base_web.html:30 ateli/templates/base_web.html:31
+#: ateli/templates/base_web.html:115 ateli/templates/base_web.html:118
 #: ateli/templates/skeleton.html:9 ateli/templates/skeleton.html:24
 #: ateli/templates/skeleton.html:30 ateli/templates/skeleton.html:33
 msgid "Ateli"
 msgstr "아트리"
 
-#: ateli/templates/skeleton.html:25
+#: ateli/templates/base_web.html:71
+msgid "Ateliers"
+msgstr "아틀리에"
+
+#: ateli/templates/base_web.html:83
+msgid "Back to top"
+msgstr "맨 위로 가기"
+
+#: ateli/templates/base_web.html:35
+msgid "Beta"
+msgstr "베타"
+
+#: ateli/templates/base_web.html:121
+msgid "Contact us"
+msgstr "문의"
+
+#: ateli/templates/base_web.html:114 ateli/templates/skeleton.html:25
 msgid "Creative together"
 msgstr "함께하는 창작"
+
+#: ateli/templates/base_web.html:43
+msgid "Edit profile"
+msgstr "프로필 수정"
 
 #: ateli/home/templates/home/base.html:109
 #: ateli/home/templates/home/ranking.html:10
 msgid "Failed to load posts."
-msgstr "게시물을 불러오지 못했어요. :("
+msgstr "게시물을 불러오지 못했어요."
 
-#: ateli/home/templates/home/base.html:94
+#: ateli/home/templates/home/base.html:94 ateli/templates/base_web.html:119
 msgid "Hello! Ateli"
 msgstr "Hello! 아트리"
+
+#: ateli/templates/base_web.html:66
+msgid "Illust"
+msgstr "일러스트"
+
+#: ateli/templates/base_web.html:68
+msgid "Music"
+msgstr "음악"
+
+#: ateli/templates/base_web.html:47 ateli/templates/base_web.html:48
+msgid "My atelier"
+msgstr "내 아틀리에"
+
+#: ateli/templates/base_web.html:67
+msgid "Photo"
+msgstr "사진"
 
 #: ateli/home/templates/home/base.html:70
 msgid "Recent posts"
 msgstr "최신 게시물"
 
+#: ateli/templates/base_web.html:34
+msgid "Release notes"
+msgstr "릴리스 노트"
+
+#: ateli/templates/base_web.html:61
+msgid "Sign in"
+msgstr "로그인"
+
+#: ateli/templates/base_web.html:55 ateli/templates/base_web.html:56
+msgid "Sign out"
+msgstr "로그아웃"
+
 #: ateli/home/templates/home/base.html:80
 msgid "Tags"
 msgstr "태그"
 
+#: ateli/templates/base_web.html:70
+msgid "Text"
+msgstr "문학"
+
 #: ateli/home/templates/home/base.html:59
-#, fuzzy
 msgid "Timeline"
-msgstr "아트리"
+msgstr "타임라인"
 
 #: ateli/home/templates/home/base.html:75
 msgid "Total commissions"
@@ -59,7 +113,17 @@ msgstr "종합 커미션"
 
 #: ateli/home/templates/home/base.html:65
 #: ateli/home/templates/home/ranking.html:3
-#, fuzzy
 msgid "Total ranking"
 msgstr "종합 랭킹"
 
+#: ateli/templates/base_web.html:120
+msgid "Twitter"
+msgstr "트위터"
+
+#: ateli/templates/base_web.html:50 ateli/templates/base_web.html:51
+msgid "Upload"
+msgstr "업로드"
+
+#: ateli/templates/base_web.html:69
+msgid "Video"
+msgstr "동영상"
