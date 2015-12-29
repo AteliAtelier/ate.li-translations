@@ -7,8 +7,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2015-11-25 02:47+0900\n"
-"PO-Revision-Date: 2015-11-25 02:53+0900\n"
+"POT-Creation-Date: 2015-12-30 00:13+0900\n"
+"PO-Revision-Date: 2015-12-30 00:14+0900\n"
+"Last-Translator: \n"
 "Language: ko\n"
 "Language-Team: ko <LL@li.org>\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -16,17 +17,17 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.1.1\n"
-"Last-Translator: \n"
 "X-Generator: Poedit 1.8.6\n"
 
-#: ateli/templates/base_web.html:120 ateli/templates/skeleton.html:26
+#: ateli/home/templates/home/base.html:117 ateli/templates/base_web.html:133
+#: ateli/templates/skeleton.html:26
 msgid "@AteliAtelier"
 msgstr "@AteliKR"
 
 #: ateli/templates/base_web.html:30 ateli/templates/base_web.html:31
-#: ateli/templates/base_web.html:115 ateli/templates/base_web.html:118
-#: ateli/templates/skeleton.html:9 ateli/templates/skeleton.html:24
-#: ateli/templates/skeleton.html:30 ateli/templates/skeleton.html:33
+#: ateli/templates/base_web.html:131 ateli/templates/skeleton.html:9
+#: ateli/templates/skeleton.html:24 ateli/templates/skeleton.html:30
+#: ateli/templates/skeleton.html:33
 msgid "Ateli"
 msgstr "아트리"
 
@@ -42,11 +43,11 @@ msgstr "맨 위로 가기"
 msgid "Beta"
 msgstr "베타"
 
-#: ateli/templates/base_web.html:121
+#: ateli/templates/base_web.html:134
 msgid "Contact us"
 msgstr "문의"
 
-#: ateli/templates/base_web.html:114 ateli/templates/skeleton.html:25
+#: ateli/templates/skeleton.html:25
 msgid "Creative together"
 msgstr "함께하는 창작"
 
@@ -59,13 +60,17 @@ msgstr "프로필 수정"
 msgid "Failed to load posts."
 msgstr "게시물을 불러오지 못했어요."
 
-#: ateli/home/templates/home/base.html:94 ateli/templates/base_web.html:119
+#: ateli/home/templates/home/base.html:94 ateli/templates/base_web.html:132
 msgid "Hello! Ateli"
 msgstr "Hello! 아트리"
 
 #: ateli/templates/base_web.html:66
 msgid "Illust"
 msgstr "일러스트"
+
+#: ateli/helpers/template.py:91
+msgid "Language was changed."
+msgstr "언어가 변경되었습니다."
 
 #: ateli/templates/base_web.html:68
 msgid "Music"
@@ -116,7 +121,7 @@ msgstr "종합 커미션"
 msgid "Total ranking"
 msgstr "종합 랭킹"
 
-#: ateli/templates/base_web.html:120
+#: ateli/templates/base_web.html:133
 msgid "Twitter"
 msgstr "트위터"
 

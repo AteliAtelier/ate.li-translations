@@ -7,26 +7,26 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2015-11-25 02:47+0900\n"
+"POT-Creation-Date: 2015-12-30 00:13+0900\n"
 "PO-Revision-Date: 2015-11-25 02:49+0900\n"
+"Last-Translator: \n"
 "Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Plural-Forms: nplurals=1; plural=0\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.1.1\n"
-"Last-Translator: \n"
-"X-Generator: Poedit 1.8.6\n"
 
-#: ateli/templates/base_web.html:120 ateli/templates/skeleton.html:26
+#: ateli/home/templates/home/base.html:117 ateli/templates/base_web.html:133
+#: ateli/templates/skeleton.html:26
 msgid "@AteliAtelier"
 msgstr "@AteliJP"
 
 #: ateli/templates/base_web.html:30 ateli/templates/base_web.html:31
-#: ateli/templates/base_web.html:115 ateli/templates/base_web.html:118
-#: ateli/templates/skeleton.html:9 ateli/templates/skeleton.html:24
-#: ateli/templates/skeleton.html:30 ateli/templates/skeleton.html:33
+#: ateli/templates/base_web.html:131 ateli/templates/skeleton.html:9
+#: ateli/templates/skeleton.html:24 ateli/templates/skeleton.html:30
+#: ateli/templates/skeleton.html:33
 msgid "Ateli"
 msgstr "アトリ"
 
@@ -42,11 +42,11 @@ msgstr ""
 msgid "Beta"
 msgstr ""
 
-#: ateli/templates/base_web.html:121
+#: ateli/templates/base_web.html:134
 msgid "Contact us"
 msgstr ""
 
-#: ateli/templates/base_web.html:114 ateli/templates/skeleton.html:25
+#: ateli/templates/skeleton.html:25
 msgid "Creative together"
 msgstr "一緒に作りましょう。"
 
@@ -59,12 +59,16 @@ msgstr ""
 msgid "Failed to load posts."
 msgstr ""
 
-#: ateli/home/templates/home/base.html:94 ateli/templates/base_web.html:119
+#: ateli/home/templates/home/base.html:94 ateli/templates/base_web.html:132
 msgid "Hello! Ateli"
 msgstr "ハーロー！ アトリ"
 
 #: ateli/templates/base_web.html:66
 msgid "Illust"
+msgstr ""
+
+#: ateli/helpers/template.py:91
+msgid "Language was changed."
 msgstr ""
 
 #: ateli/templates/base_web.html:68
@@ -116,7 +120,7 @@ msgstr ""
 msgid "Total ranking"
 msgstr "トータルランキング"
 
-#: ateli/templates/base_web.html:120
+#: ateli/templates/base_web.html:133
 msgid "Twitter"
 msgstr ""
 
