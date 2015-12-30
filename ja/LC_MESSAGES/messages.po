@@ -8,15 +8,16 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2015-12-30 00:13+0900\n"
-"PO-Revision-Date: 2015-11-25 02:49+0900\n"
+"PO-Revision-Date: 2015-12-30 18:03+0900\n"
 "Last-Translator: \n"
 "Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.1.1\n"
+"X-Generator: Poedit 1.8.6\n"
 
 #: ateli/home/templates/home/base.html:117 ateli/templates/base_web.html:133
 #: ateli/templates/skeleton.html:26
@@ -36,15 +37,15 @@ msgstr "アトリエ"
 
 #: ateli/templates/base_web.html:83
 msgid "Back to top"
-msgstr ""
+msgstr "トップへ戻る"
 
 #: ateli/templates/base_web.html:35
 msgid "Beta"
-msgstr ""
+msgstr "ベータ"
 
 #: ateli/templates/base_web.html:134
 msgid "Contact us"
-msgstr ""
+msgstr "お問い合せ／ヘルプ"
 
 #: ateli/templates/skeleton.html:25
 msgid "Creative together"
@@ -52,7 +53,7 @@ msgstr "一緒に作りましょう。"
 
 #: ateli/templates/base_web.html:43
 msgid "Edit profile"
-msgstr ""
+msgstr "プロフィール編集"
 
 #: ateli/home/templates/home/base.html:109
 #: ateli/home/templates/home/ranking.html:10
@@ -65,7 +66,7 @@ msgstr "ハーロー！ アトリ"
 
 #: ateli/templates/base_web.html:66
 msgid "Illust"
-msgstr ""
+msgstr "イラスト"
 
 #: ateli/helpers/template.py:91
 msgid "Language was changed."
@@ -73,7 +74,7 @@ msgstr ""
 
 #: ateli/templates/base_web.html:68
 msgid "Music"
-msgstr ""
+msgstr "音楽"
 
 #: ateli/templates/base_web.html:47 ateli/templates/base_web.html:48
 msgid "My atelier"
@@ -81,7 +82,7 @@ msgstr ""
 
 #: ateli/templates/base_web.html:67
 msgid "Photo"
-msgstr ""
+msgstr "写真"
 
 #: ateli/home/templates/home/base.html:70
 msgid "Recent posts"
@@ -93,19 +94,19 @@ msgstr ""
 
 #: ateli/templates/base_web.html:61
 msgid "Sign in"
-msgstr ""
+msgstr "ログイン"
 
 #: ateli/templates/base_web.html:55 ateli/templates/base_web.html:56
 msgid "Sign out"
-msgstr ""
+msgstr "ログアウト"
 
 #: ateli/home/templates/home/base.html:80
 msgid "Tags"
-msgstr ""
+msgstr "タグ"
 
 #: ateli/templates/base_web.html:70
 msgid "Text"
-msgstr ""
+msgstr "小説"
 
 #: ateli/home/templates/home/base.html:59
 msgid "Timeline"
@@ -122,12 +123,12 @@ msgstr "トータルランキング"
 
 #: ateli/templates/base_web.html:133
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #: ateli/templates/base_web.html:50 ateli/templates/base_web.html:51
 msgid "Upload"
-msgstr ""
+msgstr "投稿"
 
 #: ateli/templates/base_web.html:69
 msgid "Video"
-msgstr ""
+msgstr "動画"
