@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2015-12-30 00:13+0900\n"
-"PO-Revision-Date: 2016-01-07 16:29+0900\n"
+"PO-Revision-Date: 2016-01-07 16:40+0900\n"
 "Last-Translator: \n"
 "Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
@@ -70,7 +70,7 @@ msgstr "イラスト"
 
 #: ateli/helpers/template.py:91
 msgid "Language was changed."
-msgstr "言語を変形しました。"
+msgstr "言語を変えました。"
 
 #: ateli/templates/base_web.html:68
 msgid "Music"
