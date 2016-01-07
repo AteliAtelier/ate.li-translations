@@ -8,15 +8,16 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2016-01-07 18:05+0900\n"
-"PO-Revision-Date: 2015-12-30 00:14+0900\n"
+"PO-Revision-Date: 2016-01-07 22:28+0900\n"
 "Last-Translator: \n"
 "Language: ko\n"
 "Language-Team: ko <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.1.1\n"
+"X-Generator: Poedit 1.8.6\n"
 
 #: ateli/filters.py:97
 #, fuzzy
@@ -30,7 +31,7 @@ msgstr "@AteliKR"
 
 #: ateli/templates/_event_types.html:8
 msgid "A new piece of work has been uploaded."
-msgstr ""
+msgstr "작품을 업로드했습니다."
 
 #: ateli/user/models.py:52
 msgid "Admin user"
@@ -42,7 +43,7 @@ msgstr ""
 
 #: ateli/user/templates/user/logout.html:8
 msgid "Are you sure you want to sign out?"
-msgstr ""
+msgstr "정말 로그아웃할까요?"
 
 #: ateli/models.py:49
 msgid "Assigned"
@@ -87,23 +88,24 @@ msgstr ""
 
 #: ateli/atelier/models.py:795 ateli/atelier/templates/atelier/profile.html:30
 msgid "Blood type"
-msgstr ""
+msgstr "혈액형"
 
 #: ateli/templates/_helpers.html:262 ateli/templates/_helpers.html:294
 msgid "Cancel"
-msgstr ""
+msgstr "취소"
 
 #: ateli/models.py:53
 msgid "Cancelled"
-msgstr ""
+msgstr "취소됨"
 
 #: ateli/atelier/views.py:490
 msgid "Cannot add the tag \"{name}\"."
-msgstr ""
+msgstr "\"{name}\" 태그는 추가할 수 없습니다."
 
 #: ateli/user/helpers.py:156
 msgid "Cannot send password reset verification mail. Please try again later."
 msgstr ""
+"​비밀번호 재설정 인증 메일을 발송할 수 없습니다. 나중에 다시 시도해 주세요."
 
 #: ateli/forms.py:53
 msgid "Captcha verification failed, please try again."
@@ -117,21 +119,23 @@ msgstr ""
 #: ateli/atelier/templates/atelier/base.html:192
 #: ateli/atelier/templates/atelier/cheers.html:4
 msgid "Cheers"
-msgstr ""
+msgstr "응원"
 
 #: ateli/atelier/templates/atelier/upload-draft.html:91
 msgid "Click here or drag the file here with your mouse."
 msgstr ""
+"여기를 클릭하거나\n"
+"파일을 마우스로 끌어와 내려놓으세요."
 
 #: ateli/atelier/templates/post/clouds.html:4
 #: ateli/atelier/templates/post/show.html:204
 msgid "Cloud Comments"
-msgstr ""
+msgstr "구름"
 
 #: ateli/atelier/templates/post/comments.html:4
 #: ateli/atelier/templates/post/show.html:197
 msgid "Comments"
-msgstr ""
+msgstr "댓글"
 
 #: ateli/atelier/helpers.py:114
 #, fuzzy
@@ -150,7 +154,7 @@ msgstr "종합 커미션"
 
 #: ateli/templates/_helpers.html:268 ateli/templates/_helpers.html:299
 msgid "Confirm"
-msgstr ""
+msgstr "확인"
 
 #: ateli/templates/base_web.html:134
 msgid "Contact us"
@@ -164,7 +168,7 @@ msgstr ""
 #: ateli/atelier/models.py:782 ateli/atelier/models.py:820
 #: ateli/atelier/models.py:837 ateli/atelier/models.py:859
 msgid "Cover image"
-msgstr ""
+msgstr "커버 이미지"
 
 #: ateli/atelier/templates/atelier/profile.html:23
 msgid "Created at"
@@ -172,11 +176,11 @@ msgstr ""
 
 #: ateli/templates/_helpers.html:149
 msgid "Current page"
-msgstr ""
+msgstr "현재 페이지"
 
 #: ateli/atelier/helpers.py:123
 msgid "Date"
-msgstr ""
+msgstr "날짜"
 
 #: ateli/atelier/templates/atelier/cheer-delete.html:4
 #: ateli/atelier/templates/atelier/cheers.html:61
@@ -186,24 +190,24 @@ msgstr ""
 #: ateli/atelier/templates/post/show.html:142
 #: ateli/atelier/templates/post/tag-delete.html:4
 msgid "Delete"
-msgstr ""
+msgstr "삭제"
 
 #: ateli/atelier/templates/post/cloud-delete.html:20
 msgid "Delete all Cloud comments of {name}."
-msgstr ""
+msgstr "{name} 님의 구름을 모두 삭제"
 
 #: ateli/atelier/templates/post/cloud-delete.html:18
 msgid "Delete all of my Cloud comments"
-msgstr ""
+msgstr "내 구름을 모두 삭제"
 
 #: ateli/atelier/templates/post/tag-delete.html:8
 msgid "Delete the tag \"{name}\"?"
-msgstr ""
+msgstr "\"{name}\" 태그를 삭제하시겠습니까?​"
 
 #: ateli/models.py:44 ateli/atelier/models.py:187 ateli/atelier/models.py:483
 #: ateli/atelier/models.py:681 ateli/atelier/models.py:741
 msgid "Deleted"
-msgstr ""
+msgstr "삭제됨"
 
 #: ateli/models.py:47
 msgid "Deleted by another user"
@@ -227,11 +231,11 @@ msgstr ""
 
 #: ateli/atelier/templates/atelier/upload-draft.html:51
 msgid "Do not upload other people's work without their consent!"
-msgstr ""
+msgstr "다른 사람의 작품을 허락 없이 올리지 마세요!"
 
 #: ateli/models.py:51
 msgid "Done"
-msgstr ""
+msgstr "완료"
 
 #: ateli/models.py:43
 msgid "Draft"
@@ -243,7 +247,7 @@ msgstr ""
 #: ateli/atelier/templates/post/edit.html:4
 #: ateli/atelier/templates/post/show.html:140
 msgid "Edit"
-msgstr ""
+msgstr "수정"
 
 #: ateli/atelier/templates/atelier/profile-edit.html:4
 #: ateli/templates/base_web.html:43 ateli/user/templates/user/profile.html:4
@@ -253,7 +257,7 @@ msgstr "프로필 수정"
 #: ateli/user/models.py:32 ateli/user/models.py:227 ateli/user/models.py:237
 #: ateli/user/templates/user/login.html:21
 msgid "Email address"
-msgstr ""
+msgstr "이메일"
 
 #: ateli/models.py:52
 msgid "Failed"
@@ -265,39 +269,39 @@ msgstr "게시물을 불러오지 못했어요."
 
 #: ateli/atelier/models.py:771
 msgid "Failed to post on Twitter."
-msgstr ""
+msgstr "트위터에 게시하지 못했습니다."
 
 #: ateli/atelier/templates/atelier/base.html:185
 msgid "Fans"
-msgstr ""
+msgstr "팬"
 
 #: ateli/atelier/templates/post/favorite.html:4
+#, fuzzy
 msgid "Favorite"
-msgstr ""
+msgstr "찜, 찜통, 찜한 작품"
 
 #: ateli/atelier/helpers.py:126 ateli/atelier/templates/atelier/base.html:171
 #: ateli/atelier/templates/atelier/favorites.html:4
 #: ateli/atelier/templates/post/show.html:211
+#, fuzzy
 msgid "Favorites"
-msgstr ""
+msgstr "찜, 찜통, 찜한 작품"
 
 #: ateli/atelier/models.py:793
 msgid "Female"
-msgstr ""
+msgstr "여성"
 
 #: ateli/models.py:527 ateli/models.py:534
 msgid "File not found."
 msgstr ""
 
 #: ateli/home/templates/home/search.html:46
-#, fuzzy
 msgid "Filter"
-msgstr "트위터"
-
-#: ateli/atelier/templates/atelier/watch.html:4
-#: ateli/templates/_helpers.html:674
-msgid "Follow"
 msgstr ""
+
+#: ateli/atelier/templates/atelier/watch.html:4 ateli/templates/_helpers.html:674
+msgid "Follow"
+msgstr "주시"
 
 #: ateli/atelier/templates/atelier/fans.html:4
 msgid "Followers"
@@ -314,7 +318,7 @@ msgstr ""
 
 #: ateli/user/templates/user/login.html:33
 msgid "Forgot your password?"
-msgstr ""
+msgstr "비밀번호를 잊으셨다면 클릭하세요"
 
 #: ateli/models.py:470 ateli/models.py:587
 msgid "Format not supported."
@@ -322,7 +326,7 @@ msgstr ""
 
 #: ateli/atelier/models.py:790 ateli/atelier/templates/atelier/profile.html:29
 msgid "Gender"
-msgstr ""
+msgstr "성별"
 
 #: ateli/atelier/models.py:785 ateli/atelier/templates/atelier/profile.html:27
 msgid "Greeting"
@@ -334,7 +338,7 @@ msgstr "Hello! 아트리"
 
 #: ateli/atelier/helpers.py:125 ateli/atelier/templates/post/show.html:136
 msgid "Hits"
-msgstr ""
+msgstr "조회"
 
 #: ateli/atelier/helpers.py:109 ateli/atelier/models.py:165
 #: ateli/templates/base_web.html:66
@@ -342,21 +346,20 @@ msgid "Illust"
 msgstr "일러스트"
 
 #: ateli/atelier/models.py:171
-#, fuzzy
 msgid "Illustration Commission"
-msgstr "종합 커미션"
+msgstr "그림 커미션"
 
 #: ateli/templates/_helpers.html:21
 msgid "Install the latest version to browse through Ateli more conveniently!"
-msgstr ""
+msgstr "최신 브라우저를 설치해서 아트리를 좀 더 편하게 이용해보세요!"
 
 #: ateli/atelier/models.py:803 ateli/atelier/templates/atelier/profile.html:32
 msgid "Interest"
-msgstr ""
+msgstr "관심사"
 
 #: ateli/user/models.py:233
 msgid "Keep me signed in"
-msgstr ""
+msgstr "자동 로그인"
 
 #: ateli/home/templates/home/search.html:28 ateli/templates/_helpers.html:102
 msgid "Keyword"
@@ -372,7 +375,7 @@ msgstr ""
 
 #: ateli/user/templates/user/profile.html:53
 msgid "Link with Twitter account"
-msgstr ""
+msgstr "계정 연동하기"
 
 #: ateli/atelier/templates/post/show.html:218
 msgid "Load comments"
@@ -384,20 +387,20 @@ msgstr ""
 
 #: ateli/atelier/models.py:802 ateli/atelier/templates/atelier/profile.html:31
 msgid "Location"
-msgstr ""
+msgstr "거주지"
 
 #: ateli/atelier/models.py:300 ateli/atelier/views.py:405
 msgid "Log in to post a Cloud comment!"
-msgstr ""
+msgstr "구름을 띄우려면 먼저 로그인하세요!"
 
 #: ateli/atelier/models.py:815 ateli/atelier/models.py:833
 #: ateli/atelier/models.py:850
 msgid "Make it only viewable by myself."
-msgstr ""
+msgstr "나만 볼 수 있도록 설정합니다."
 
 #: ateli/atelier/models.py:792
 msgid "Male"
-msgstr ""
+msgstr "남성"
 
 #: ateli/atelier/models.py:857
 msgid "Maximum Slots"
@@ -413,12 +416,11 @@ msgid "Music"
 msgstr "음악"
 
 #: ateli/atelier/models.py:173
-#, fuzzy
 msgid "Music Commission"
-msgstr "종합 커미션"
+msgstr "음악 커미션"
 
-#: ateli/atelier/templates/atelier/base.html:123
-#: ateli/templates/base_web.html:47 ateli/templates/base_web.html:48
+#: ateli/atelier/templates/atelier/base.html:123 ateli/templates/base_web.html:47
+#: ateli/templates/base_web.html:48
 msgid "My atelier"
 msgstr "내 아틀리에"
 
@@ -428,16 +430,16 @@ msgstr ""
 
 #: ateli/home/templates/home/timeline.html:17
 msgid ""
-"No content to display on the Timeline. Add more Ateliers to see what's "
-"going on!"
-msgstr ""
+"No content to display on the Timeline. Add more Ateliers to see what's going "
+"on!"
+msgstr "타임라인에 표시할 내용이 없습니다. 지켜보는 아틀리에를 늘려보세요!"
 
 #: ateli/atelier/templates/atelier/posts.html:11
 #: ateli/home/templates/home/commissions.html:20
 #: ateli/home/templates/home/show_tag.html:28
 #: ateli/section/templates/section/commissions.html:20
 msgid "No results."
-msgstr ""
+msgstr "검색 결과가 없습니다."
 
 #: ateli/home/templates/home/search.html:46
 msgid "None"
@@ -453,20 +455,20 @@ msgstr ""
 
 #: ateli/atelier/templates/atelier/upload-draft.html:97
 msgid "Now let it go!"
-msgstr ""
+msgstr "이제 파일을 내려놓으세요!"
 
 #: ateli/templates/_helpers.html:216
 msgid "Open"
-msgstr ""
+msgstr "열기"
 
 #: ateli/user/models.py:35 ateli/user/models.py:36 ateli/user/models.py:230
 #: ateli/user/models.py:270 ateli/user/templates/user/login.html:25
 msgid "Password"
-msgstr ""
+msgstr "비밀번호"
 
 #: ateli/user/helpers.py:158
 msgid "Password reset verification mail sent. Please check your inbox."
-msgstr ""
+msgstr "​비밀번호 재설정 인증 메일을 발송했습니다. 이메이을 확인해주세요."
 
 #: ateli/models.py:50
 msgid "Pending"
@@ -478,13 +480,12 @@ msgid "Photo"
 msgstr "사진"
 
 #: ateli/atelier/models.py:172
-#, fuzzy
 msgid "Photography Commission"
-msgstr "종합 커미션"
+msgstr "사진 커미션"
 
 #: ateli/user/helpers.py:84
 msgid "Please finish your e-mail verification first."
-msgstr ""
+msgstr "먼저 이메일 인증을 마쳐야 합니다."
 
 #: ateli/atelier/templates/atelier/base.html:164
 #: ateli/atelier/templates/atelier/posts.html:4
@@ -499,21 +500,20 @@ msgstr ""
 
 #: ateli/atelier/models.py:327
 msgid "Processing in Progress"
-msgstr ""
+msgstr "처리 중입니다."
 
 #: ateli/atelier/templates/atelier/upload-edit.html:55
 msgid "Processing your work. When this is finished, your work will be posted."
-msgstr ""
+msgstr "작품을 처리 중입니다. 처리가 완료되면 작품이 게시됩니다."
 
 #: ateli/atelier/templates/atelier/base.html:151
 #: ateli/atelier/templates/atelier/profile.html:3
-#, fuzzy
 msgid "Profile"
-msgstr "프로필 수정"
+msgstr "프로필"
 
 #: ateli/user/templates/user/profile.html:34
 msgid "Profile image"
-msgstr ""
+msgstr "프로필 이미지"
 
 #: ateli/atelier/models.py:185 ateli/atelier/models.py:481
 #: ateli/atelier/models.py:739
@@ -522,7 +522,7 @@ msgstr ""
 
 #: ateli/user/models.py:240 ateli/user/models.py:259
 msgid "RECAPTCHA_LABEL"
-msgstr ""
+msgstr "자동 가입 방지 (captcha image 앞에 뜨는 label)"
 
 #: ateli/section/templates/section/base.html:9
 #: ateli/section/templates/section/ranking.html:3
@@ -530,8 +530,7 @@ msgstr ""
 msgid "Ranking"
 msgstr "종합 랭킹"
 
-#: ateli/home/templates/home/base.html:70
-#: ateli/home/templates/home/recent.html:4
+#: ateli/home/templates/home/base.html:70 ateli/home/templates/home/recent.html:4
 #: ateli/section/templates/section/base.html:14
 #: ateli/section/templates/section/recent.html:4
 msgid "Recent posts"
@@ -587,37 +586,37 @@ msgstr ""
 #: ateli/atelier/templates/post/viewer.html:55
 #: ateli/atelier/templates/post/viewer.html:56
 msgid "Share on Facebook"
-msgstr ""
+msgstr "페이스북으로 공유하기"
 
 #: ateli/atelier/templates/post/show.html:117
 #: ateli/atelier/templates/post/viewer.html:60
 #: ateli/atelier/templates/post/viewer.html:61
 msgid "Share on Google+"
-msgstr ""
+msgstr "구글플러스로 공유하기"
 
 #: ateli/atelier/templates/post/show.html:121
 #: ateli/atelier/templates/post/viewer.html:65
 #: ateli/atelier/templates/post/viewer.html:66
 msgid "Share on KakaoStory"
-msgstr ""
+msgstr "카카오스토리로 공유하기"
 
 #: ateli/atelier/templates/post/show.html:125
 #: ateli/atelier/templates/post/viewer.html:70
 #: ateli/atelier/templates/post/viewer.html:71
 msgid "Share on KakaoTalk"
-msgstr ""
+msgstr "카카오톡으로 공유하기"
 
 #: ateli/atelier/templates/post/show.html:129
 #: ateli/atelier/templates/post/viewer.html:75
 #: ateli/atelier/templates/post/viewer.html:76
 msgid "Share on LINE"
-msgstr ""
+msgstr "라인으로 공유하기"
 
 #: ateli/atelier/templates/post/show.html:109
 #: ateli/atelier/templates/post/viewer.html:50
 #: ateli/atelier/templates/post/viewer.html:51
 msgid "Share on Twitter"
-msgstr ""
+msgstr "트위터로 공유하기"
 
 #: ateli/templates/base_web.html:61 ateli/user/templates/user/login.html:4
 #: ateli/user/templates/user/login.html:27
@@ -626,7 +625,7 @@ msgstr "로그인"
 
 #: ateli/user/templates/user/login.html:32
 msgid "Sign in with Twitter"
-msgstr ""
+msgstr "트위터 계정으로 바로 로그인하기!"
 
 #: ateli/templates/base_web.html:55 ateli/templates/base_web.html:56
 #: ateli/user/templates/user/logout.html:4
@@ -635,11 +634,11 @@ msgstr "로그아웃"
 
 #: ateli/user/templates/user/logout.html:12
 msgid "Sign out on all devices."
-msgstr ""
+msgstr "모든 장치에서 로그아웃"
 
 #: ateli/user/templates/user/login.html:31
 msgid "Sign up for a new account"
-msgstr ""
+msgstr "아트리 회원가입"
 
 #: ateli/atelier/models.py:39
 msgid "Slug"
@@ -657,8 +656,7 @@ msgstr ""
 msgid "Successfully posted on Twitter."
 msgstr ""
 
-#: ateli/atelier/views.py:119 ateli/atelier/views.py:298
-#: ateli/user/views.py:169
+#: ateli/atelier/views.py:119 ateli/atelier/views.py:298 ateli/user/views.py:169
 msgid "Successfully saved."
 msgstr ""
 
@@ -668,253 +666,260 @@ msgstr ""
 
 #: ateli/atelier/helpers.py:21
 msgid "TEMP_ATELIER_ADMIN_ONLY"
-msgstr ""
+msgstr "아틀리에 구성원 전용 기능입니다."
 
 #: ateli/atelier/templates/atelier/cheers.html:81
 msgid "TEMP_CHEER_CANNOT_SEE_OTHERS"
-msgstr ""
+msgstr "응원 내용은 다른 사람이 볼 수 없습니다."
 
 #: ateli/atelier/templates/atelier/cheer-write.html:8
 msgid "TEMP_CHEER_DIALOG_INFO"
 msgstr ""
+"응원한 사람과 내용은 본인과 아틀리에 주인만 볼 수 있으며 답글 내용은 모두에게 "
+"공개됩니다."
 
 #: ateli/atelier/templates/atelier/cheers.html:93
 msgid "TEMP_CHEER_NOT_FOUND"
-msgstr ""
+msgstr "아직 응원한 사람이 없습니다."
 
 #: ateli/atelier/templates/atelier/cheers.html:84
 msgid "TEMP_CHEER_NOT_REPLIED"
-msgstr ""
+msgstr "아직 답변되지 않은 응원입니다."
 
 #: ateli/atelier/models.py:427
 msgid "TEMP_COMMISSION_AUTO_TWEET_MESSAGE"
-msgstr ""
+msgstr "#아트리 #커미션 {title}{slot} {url}"
 
 #: ateli/atelier/models.py:423
 msgid "TEMP_COMMISSION_AUTO_TWEET_SLOT"
-msgstr ""
+msgstr "[슬롯 {current}/{max}]"
 
 #: ateli/atelier/models.py:856
 msgid "TEMP_COMMISSION_CURRENT_SLOT"
-msgstr ""
+msgstr "현재 작업 중인 슬롯"
 
 #: ateli/atelier/templates/atelier/commissions.html:20
 msgid "TEMP_COMMISSION_NOT_FOUND"
-msgstr ""
+msgstr "의뢰를 받지 않고 있습니다."
 
 #: ateli/atelier/templates/post/commission-show.html:25
 msgid "TEMP_COMMISSION_SHOW_GO_LIST"
-msgstr ""
+msgstr "커미션 목록으로 돌아가기"
 
 #: ateli/atelier/models.py:174
 msgid "TEMP_COMMISSION_VIDEO"
-msgstr ""
+msgstr "영상 커미션"
 
 #: ateli/atelier/templates/atelier/commissions.html:12
 #: ateli/atelier/templates/post/commission-write.html:4
 #: ateli/home/templates/home/commissions.html:12
 #: ateli/section/templates/section/commissions.html:12
 msgid "TEMP_COMMISSION_WRITE"
-msgstr ""
+msgstr "새로운 커미션 정보 등록하기"
 
 #: ateli/atelier/views.py:107 ateli/atelier/views.py:285
 #: ateli/atelier/views.py:580 ateli/atelier/views.py:715
 msgid "TEMP_COVER_CHANGE_FAILED"
-msgstr ""
+msgstr "커버 가져오기 실패"
 
 #: ateli/atelier/models.py:821 ateli/atelier/models.py:838
 #: ateli/atelier/models.py:860
 msgid "TEMP_COVER_DELETE"
-msgstr ""
+msgstr "현재 커버 이미지 삭제"
 
 #: ateli/user/views.py:257 ateli/user/templates/user/profile.html:21
 msgid "TEMP_EMAIL_ADDRESS_NOT_SAVED"
-msgstr ""
+msgstr "트위터 계정이나 비밀번호 분실에 대비하려면 이메일 주소를 저장해주세요! "
 
 #: ateli/user/templates/user/profile.html:16
 msgid "TEMP_EMAIL_ADDRESS_NOT_VERIFIED"
-msgstr ""
+msgstr "인증되지 않아 일부 기능이 제한됩니다."
 
 #: ateli/user/views.py:140
 msgid "TEMP_EMAIL_ALREADY_VERIFIED"
-msgstr ""
+msgstr "이미 이메일 주소가 인증되어 있습니다."
 
 #: ateli/user/views.py:86
 msgid "TEMP_EMAIL_UNREGISTERED"
-msgstr ""
+msgstr "등록되지 않은 이메일 주소입니다."
 
 #: ateli/templates/error.html:26
 msgid "TEMP_ERROR_403"
-msgstr ""
+msgstr "이 페이지를 사용할 권한이 없습니다."
 
 #: ateli/templates/error.html:24
 msgid "TEMP_ERROR_404"
-msgstr ""
+msgstr "원하시는 페이지가 삭제되었거나 주소를 잘못 입력하셨습니다."
 
 #: ateli/templates/error.html:28
 msgid "TEMP_ERROR_500"
-msgstr ""
+msgstr "서버 처리 중 오류가 발생하여 운영 팀에 자동으로 보고되었습니다."
 
 #: ateli/templates/_event_types.html:10
 msgid "TEMP_EVENT_COMMISSION_WRITE"
-msgstr ""
+msgstr "커미션 정보를 작성했습니다."
 
 #: ateli/templates/_event_types.html:14
 msgid "TEMP_EVENT_POST_DELETE"
-msgstr ""
+msgstr "작품을 삭제했습니다."
 
 #: ateli/atelier/templates/atelier/favorites.html:11
 msgid "TEMP_FAVORITES_NOT_FOUND"
-msgstr ""
+msgstr "찜통이 비어 있습니다."
 
 #: ateli/atelier/templates/atelier/fans.html:36
 msgid "TEMP_FOLLOWER_NOT_FOUND"
-msgstr ""
+msgstr "팔로워가 없습니다"
 
 #: ateli/atelier/templates/atelier/watching.html:37
 msgid "TEMP_FOLLOWING_NOT_FOUND"
-msgstr ""
+msgstr "팔로우 중인 아틀리에가 없습니다"
 
 #: ateli/user/views.py:55
 msgid "TEMP_INVALID_CREDENTIALS"
-msgstr ""
+msgstr "아이디나 비밀번호가 틀렸습니다."
 
 #: ateli/atelier/views.py:193 ateli/atelier/views.py:371
 msgid "TEMP_NULL_CONTENT_SUBMITTED"
-msgstr ""
+msgstr "내용을 입력해 주세요."
 
 #: ateli/user/views.py:218
 msgid "TEMP_OAUTH_UNAUTHORIZED"
-msgstr ""
+msgstr "아트리 앱이 연동되지 않았습니다.​ 해당 서비스 연동을 동의하셔야 합니다."
 
 #: ateli/user/views.py:111
 msgid "TEMP_PASSWORD_CHANGED"
-msgstr ""
+msgstr "비밀번호가 변경되었습니다."
 
 #: ateli/user/models.py:270
 msgid "TEMP_PASSWORD_CHANGE_TEXT"
-msgstr ""
+msgstr "변경할 경우에만 입력하세요."
 
 #: ateli/atelier/models.py:415
 msgid "TEMP_POST_AUTO_TWEET_MESSAGE"
-msgstr ""
+msgstr "#아트리 '{title}' 업로드! {url}"
 
 #: ateli/atelier/templates/atelier/upload-edit.html:37
 #: ateli/atelier/templates/post/edit.html:31
 msgid "TEMP_POST_EDIT_COVER_INFO"
-msgstr ""
+msgstr "목록에서 기본 섬네일 대신 표시할 이미지를 선택할 수 있습니다."
 
 #: ateli/atelier/models.py:194 ateli/atelier/models.py:497
 #: ateli/atelier/templates/post/edit.html:17
 msgid "TEMP_POST_EDIT_LOCK_TAGS"
-msgstr ""
+msgstr "태그 잠금"
 
 #: ateli/atelier/models.py:195 ateli/atelier/models.py:498
 msgid "TEMP_POST_EDIT_LOCK_TAGS_TEXT"
-msgstr ""
+msgstr "다른 사람이 변경할 수 없도록 합니다."
 
 #: ateli/atelier/templates/post/edit.html:23
 msgid "TEMP_POST_EDIT_TAGS_TEXT"
-msgstr ""
+msgstr "개별 태그는 작품 감상 페이지에서 관리할 수 있습니다."
 
 #: ateli/atelier/templates/post/favorites.html:43
 msgid "TEMP_POST_FAVORITE_USERS_NOT_FOUND"
-msgstr ""
+msgstr "(작품을) 찜한 사람이 없습니다."
 
 #: ateli/atelier/templates/post/favorites.html:4
 msgid "TEMP_POST_FAVORITE_USERS_TITLE"
-msgstr ""
+msgstr "(작품을) 찜한 사람"
 
 #: ateli/atelier/templates/atelier/upload-edit.html:22
 msgid "TEMP_POST_SHOW"
-msgstr ""
+msgstr "바로가기 (작품으로)"
 
 #: ateli/templates/_helpers.html:1247
 msgid "TEMP_POST_SHOW_NO_BODY"
-msgstr ""
+msgstr "설명이 없습니다."
 
 #: ateli/atelier/templates/post/show.html:96
 #: ateli/atelier/templates/post/viewer.html:45
 #: ateli/atelier/templates/post/viewer.html:46
 msgid "TEMP_POST_SHOW_SHORTCUT_URL"
-msgstr ""
+msgstr "이 작품의 주소"
 
 #: ateli/atelier/models.py:816 ateli/atelier/models.py:851
 msgid "TEMP_POST_TAGS_TEXT"
-msgstr ""
+msgstr "업로드 시에는 최대 5개까지 입력할 수 있으며 각 태그는 30자 제한입니다."
 
 #: ateli/atelier/views.py:503
 msgid "TEMP_POST_TAG_EDIT_BLOCKED"
-msgstr ""
+msgstr "태그 수정이 금지된 게시물입니다."
 
 #: ateli/atelier/templates/atelier/profile-edit.html:26
 msgid "TEMP_PROFILE_EDIT_DIALOG_INFO"
 msgstr ""
+"\"트위터 주소는 연동 시 자동으로 표시됩니다.<br>\n"
+"닉네임, 이메일, 비밀번호, 트위터 연동은 <a href=\"\"{{ url_for('user."
+"profile') }}\"\">회원 프로필</a>에서 관리하실 수 있습니다.\""
 
 #: ateli/user/models.py:275
 msgid "TEMP_PROFILE_TWEET_ON_COMMENT"
-msgstr ""
+msgstr "댓글 자동 트윗"
 
 #: ateli/user/models.py:274
 msgid "TEMP_PROFILE_TWEET_ON_POST"
-msgstr ""
+msgstr "작품/커미션 자동 트윗"
 
 #: ateli/home/templates/home/ranking.html:10
 #: ateli/section/templates/section/ranking.html:10
 msgid "TEMP_RANKING_PROCESSING"
-msgstr ""
+msgstr "랭킹 집계 중입니다. 잠시 후 다시 확인해 주세요."
 
 #: ateli/templates/_helpers.html:114
 msgid "TEMP_RENDER_SEARCH_ONLY_ATELIER"
-msgstr ""
+msgstr "이 아틀리에 작품만"
 
 #: ateli/templates/_helpers.html:120
 msgid "TEMP_RENDER_SEARCH_ONLY_SECTION"
-msgstr ""
+msgstr "이 섹션에서만"
 
 #: ateli/templates/error.html:32
 msgid "TEMP_RETURN_TO_LAST_PAGE"
-msgstr ""
+msgstr "이전 페이지로"
 
 #: ateli/user/helpers.py:138
 msgid "TEMP_SEND_RESET_PASSWORD_EMAIL_TITLE﻿"
-msgstr ""
+msgstr "[아트리] 비밀번호 재설정 인증"
 
 #: ateli/user/helpers.py:125
 msgid "TEMP_SEND_VERIFY_EMAIL_ERROR"
-msgstr ""
+msgstr "인증 메일을 발송할 수 없습니다. 나중에 다시 시도해 주세요."
 
 #: ateli/user/helpers.py:127
 msgid "TEMP_SEND_VERIFY_EMAIL_SENT"
-msgstr ""
+msgstr "인증 메일을 발송했습니다. 편지함을 확인해주세요."
 
 #: ateli/user/helpers.py:107
 msgid "TEMP_SEND_VERIFY_EMAIL_TITLE"
-msgstr ""
+msgstr "[아트리] 이메일 인증이 필요합니다."
 
 #: ateli/user/views.py:228
 msgid "TEMP_TWITTER_ACCOUNT_CONFLICT"
-msgstr ""
+msgstr "트위터 계정이 다른 계정과 연동되어 있습니다!"
 
 #: ateli/user/views.py:279
 msgid "TEMP_TWITTER_DISCONNECTED"
-msgstr ""
+msgstr "트위터 연동을 해제했습니다."
 
 #: ateli/user/views.py:268
 msgid "TEMP_TWITTER_EXCLUSIVE_ACCOUNT_CANNOT_DISCONNECT"
-msgstr ""
+msgstr "트위터 로그인 전용 계정입니다. 먼저 이메일을 등록해주세요."
 
 #: ateli/atelier/templates/atelier/upload-draft.html:26
 msgid "TEMP_UPLOAD_BROWSER_ALERT"
 msgstr ""
+"파일 드래그, 진행 상황 등 일부 정보가 표시가 안되거나 업로드가 안 될 수도 있습"
+"니다!"
 
 #: ateli/atelier/templates/atelier/upload-draft.html:54
 msgid "TEMP_UPLOAD_WARNING_DURATION_LIMIT"
-msgstr ""
+msgstr "재생시간은 {limit}보다 길면 잘릴 수 있어요."
 
 #: ateli/atelier/templates/atelier/upload-draft.html:56
 msgid "TEMP_UPLOAD_WARNING_FORMAT"
-msgstr ""
+msgstr "JPEG, PNG, GIF, WebP 형식을 지원해요."
 
 #: ateli/atelier/templates/atelier/upload-draft.html:49
 msgid "TEMP_UPLOAD_WARNING_TITLE"
@@ -922,15 +927,15 @@ msgstr ""
 
 #: ateli/user/views.py:97 ateli/user/views.py:123
 msgid "TEMP_USER_MISMATCHED"
-msgstr ""
+msgstr "다른 계정으로 진행할 수 없습니다."
 
 #: ateli/user/views.py:102 ateli/user/views.py:128
 msgid "TEMP_USER_TOKEN_INVALID"
-msgstr ""
+msgstr "이미 인증했거나 유효기간이 지났습니다."
 
 #: ateli/atelier/helpers.py:120 ateli/home/templates/home/show_tag.html:4
 msgid "Tag"
-msgstr ""
+msgstr "태그"
 
 #: ateli/atelier/models.py:816 ateli/atelier/models.py:851
 #: ateli/atelier/templates/post/tags.html:4
@@ -945,23 +950,23 @@ msgstr "문학"
 
 #: ateli/atelier/views.py:488
 msgid "The \"{name}\" tag already exists."
-msgstr ""
+msgstr "\"{name}\" 태그는 이미 존재합니다."
 
 #: ateli/atelier/templates/post/show.html:171
 msgid "The player may not behave properly!"
-msgstr ""
+msgstr "플레이어가 정상적으로 동작하지 않을 수 있습니다!"
 
 #: ateli/atelier/templates/atelier/timeline.html:20
 msgid "There are no new activities in this atelier."
-msgstr ""
+msgstr "아틀리에의 변화가 없습니다."
 
 #: ateli/atelier/templates/post/clouds.html:59
 msgid "There is no Cloud comment yet. Post the first Cloud comment of this work!"
-msgstr ""
+msgstr "아직 구름이 없습니다. 첫 구름을 남겨보세요!"
 
 #: ateli/atelier/templates/post/show.html:155
 msgid "There is no explanation."
-msgstr ""
+msgstr "설명이 없습니다."
 
 #: ateli/atelier/templates/atelier/base.html:145
 #: ateli/atelier/templates/atelier/timeline.html:9
@@ -973,7 +978,7 @@ msgstr "타임라인"
 #: ateli/atelier/helpers.py:118 ateli/atelier/models.py:42
 #: ateli/atelier/models.py:151 ateli/atelier/models.py:492
 msgid "Title"
-msgstr ""
+msgstr "제목"
 
 #: ateli/home/templates/home/base.html:75
 msgid "Total commissions"
@@ -1001,18 +1006,18 @@ msgstr ""
 #: ateli/atelier/templates/atelier/upload-draft.html:4
 #: ateli/atelier/templates/atelier/upload-draft.html:79
 #: ateli/atelier/templates/atelier/upload-status.html:10
-#: ateli/atelier/templates/atelier/upload.html:3
-#: ateli/templates/base_web.html:50 ateli/templates/base_web.html:51
+#: ateli/atelier/templates/atelier/upload.html:3 ateli/templates/base_web.html:50
+#: ateli/templates/base_web.html:51
 msgid "Upload"
 msgstr "업로드"
 
 #: ateli/atelier/templates/atelier/upload-edit.html:20
 msgid "Upload Successful."
-msgstr ""
+msgstr "작품이 업로드되었습니다."
 
 #: ateli/atelier/templates/atelier/upload-draft.html:30
 msgid "Upload is temporarily unavailable due to server issues."
-msgstr ""
+msgstr "서버 장애로 잠시 업로드가 불가능합니다."
 
 #: ateli/atelier/templates/atelier/upload-draft.html:40
 #: ateli/atelier/templates/atelier/upload-edit.html:15
@@ -1023,7 +1028,7 @@ msgstr ""
 
 #: ateli/atelier/helpers.py:115 ateli/user/views.py:235
 msgid "User"
-msgstr ""
+msgstr "유저"
 
 #: ateli/atelier/helpers.py:112 ateli/atelier/models.py:168
 #: ateli/templates/base_web.html:69
@@ -1044,11 +1049,11 @@ msgstr ""
 
 #: ateli/atelier/templates/atelier/upload-draft.html:31
 msgid "We apologize for the inconvenience caused. Please try again later."
-msgstr ""
+msgstr "불편을 드려 죄송합니다. 잠시 후 다시 시도해주세요."
 
 #: ateli/atelier/models.py:786 ateli/atelier/templates/atelier/profile.html:28
 msgid "Website URL"
-msgstr ""
+msgstr "이 글의 URL"
 
 #: ateli/atelier/templates/post/comment-write.html:4
 msgid "Write a comment"
@@ -1056,35 +1061,34 @@ msgstr ""
 
 #: ateli/templates/_helpers.html:18
 msgid "You are using an old version of Internet Explorer."
-msgstr ""
+msgstr "구 버전의 Internet Explorer를 사용하고 있습니다."
 
 #: ateli/atelier/templates/atelier/upload-draft.html:52
 msgid "You can upload up to {mb}MB."
-msgstr ""
+msgstr "파일은 {mb}MB까지 올릴 수 있어요."
 
 #: ateli/atelier/views.py:501
 msgid "You cannot add more tags."
-msgstr ""
+msgstr "태그를 더 이상 추가할 수 없습니다."
 
 #: ateli/forms.py:160
 msgid "You may use the alphabet, numbers, and the underbar (_)."
-msgstr ""
+msgstr "영문자, 숫자, 언더바(_)만 가능합니다."
 
 #: ateli/user/helpers.py:62
 msgid "You need to be logged in."
-msgstr ""
+msgstr "로그인이 필요합니다."
 
 #: ateli/atelier/templates/atelier/cheer-delete.html:15
 msgid "Your replies will also be deleted!"
-msgstr ""
+msgstr "답글까지 같이 삭제됩니다!"
 
 #: ateli/home/templates/home/search.html:101
 #: ateli/home/templates/home/search.html:110
 msgid "Your search brought no results."
-msgstr ""
+msgstr "​결과가 없습니다. (검색, 목록 등에서)"
 
 #: ateli/user/views.py:37
 #, fuzzy
 msgid "{name}'s Atelier"
 msgstr "내 아틀리에"
-
