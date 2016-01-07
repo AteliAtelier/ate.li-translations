@@ -7,35 +7,68 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2015-12-30 00:13+0900\n"
+"POT-Creation-Date: 2016-01-07 18:05+0900\n"
 "PO-Revision-Date: 2016-01-07 16:40+0900\n"
 "Last-Translator: \n"
 "Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Plural-Forms: nplurals=1; plural=0\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.1.1\n"
-"X-Generator: Poedit 1.8.6\n"
+
+#: ateli/filters.py:97
+#, fuzzy
+msgid "#Ateli"
+msgstr "アトリ"
 
 #: ateli/home/templates/home/base.html:117 ateli/templates/base_web.html:133
-#: ateli/templates/skeleton.html:26
+#: ateli/templates/skeleton.html:25
 msgid "@AteliAtelier"
 msgstr "@AteliJP"
 
-#: ateli/templates/base_web.html:30 ateli/templates/base_web.html:31
-#: ateli/templates/base_web.html:131 ateli/templates/skeleton.html:9
-#: ateli/templates/skeleton.html:24 ateli/templates/skeleton.html:30
-#: ateli/templates/skeleton.html:33
+#: ateli/templates/_event_types.html:8
+msgid "A new piece of work has been uploaded."
+msgstr ""
+
+#: ateli/user/models.py:52
+msgid "Admin user"
+msgstr ""
+
+#: ateli/atelier/helpers.py:108 ateli/home/templates/home/show_tag.html:10
+msgid "All types"
+msgstr ""
+
+#: ateli/user/templates/user/logout.html:8
+msgid "Are you sure you want to sign out?"
+msgstr ""
+
+#: ateli/models.py:49
+msgid "Assigned"
+msgstr ""
+
+#: ateli/atelier/templates/atelier/base.html:38
+#: ateli/atelier/templates/post/show.html:51 ateli/templates/base_web.html:30
+#: ateli/templates/base_web.html:31 ateli/templates/base_web.html:131
+#: ateli/templates/base_xhr.html:1 ateli/templates/skeleton.html:11
+#: ateli/templates/skeleton.html:23 ateli/templates/skeleton.html:29
+#: ateli/templates/skeleton.html:32
 msgid "Ateli"
 msgstr "アトリ"
 
-#: ateli/templates/base_web.html:71
+#: ateli/filters.py:90 ateli/atelier/templates/atelier/base.html:28
+#: ateli/atelier/templates/post/commission-show.html:12
+#: ateli/atelier/templates/post/show.html:37 ateli/templates/skeleton.html:24
+#, fuzzy
+msgid "Ateli - Creative together."
+msgstr "一緒に作りましょう。"
+
+#: ateli/home/templates/home/ateliers.html:4 ateli/templates/base_web.html:71
 msgid "Ateliers"
 msgstr "アトリエ"
 
-#: ateli/templates/base_web.html:83
+#: ateli/templates/base_web.html:83 ateli/user/templates/user/base.html:7
 msgid "Back to top"
 msgstr "トップへ戻る"
 
@@ -43,64 +76,866 @@ msgstr "トップへ戻る"
 msgid "Beta"
 msgstr "ベータ"
 
+#: ateli/atelier/models.py:188 ateli/atelier/models.py:484
+#: ateli/atelier/models.py:682 ateli/atelier/models.py:742
+msgid "Blinded"
+msgstr ""
+
+#: ateli/user/models.py:50
+msgid "Blocked user"
+msgstr ""
+
+#: ateli/atelier/models.py:795 ateli/atelier/templates/atelier/profile.html:30
+msgid "Blood type"
+msgstr ""
+
+#: ateli/templates/_helpers.html:262 ateli/templates/_helpers.html:294
+msgid "Cancel"
+msgstr ""
+
+#: ateli/models.py:53
+msgid "Cancelled"
+msgstr ""
+
+#: ateli/atelier/views.py:490
+msgid "Cannot add the tag \"{name}\"."
+msgstr ""
+
+#: ateli/user/helpers.py:156
+msgid "Cannot send password reset verification mail. Please try again later."
+msgstr ""
+
+#: ateli/forms.py:53
+msgid "Captcha verification failed, please try again."
+msgstr ""
+
+#: ateli/atelier/models.py:835 ateli/atelier/models.py:855
+#: ateli/home/templates/home/search.html:37
+msgid "Category"
+msgstr ""
+
+#: ateli/atelier/templates/atelier/base.html:192
+#: ateli/atelier/templates/atelier/cheers.html:4
+msgid "Cheers"
+msgstr ""
+
+#: ateli/atelier/templates/atelier/upload-draft.html:91
+msgid "Click here or drag the file here with your mouse."
+msgstr ""
+
+#: ateli/atelier/templates/post/clouds.html:4
+#: ateli/atelier/templates/post/show.html:204
+msgid "Cloud Comments"
+msgstr ""
+
+#: ateli/atelier/templates/post/comments.html:4
+#: ateli/atelier/templates/post/show.html:197
+msgid "Comments"
+msgstr ""
+
+#: ateli/atelier/helpers.py:114
+#, fuzzy
+msgid "Commission"
+msgstr "総合コミッション"
+
+#: ateli/atelier/templates/atelier/base.html:157
+#: ateli/atelier/templates/atelier/commissions.html:4
+#: ateli/atelier/templates/post/commission-show.html:23
+#: ateli/home/templates/home/commissions.html:4
+#: ateli/section/templates/section/base.html:19
+#: ateli/section/templates/section/commissions.html:4
+#, fuzzy
+msgid "Commissions"
+msgstr "総合コミッション"
+
+#: ateli/templates/_helpers.html:268 ateli/templates/_helpers.html:299
+msgid "Confirm"
+msgstr ""
+
 #: ateli/templates/base_web.html:134
 msgid "Contact us"
 msgstr "お問い合せ・ヘルプ"
 
-#: ateli/templates/skeleton.html:25
-msgid "Creative together"
-msgstr "一緒に作りましょう。"
+#: ateli/atelier/helpers.py:119 ateli/atelier/models.py:199
+#: ateli/atelier/models.py:502
+msgid "Content"
+msgstr ""
 
-#: ateli/templates/base_web.html:43
+#: ateli/atelier/models.py:782 ateli/atelier/models.py:820
+#: ateli/atelier/models.py:837 ateli/atelier/models.py:859
+msgid "Cover image"
+msgstr ""
+
+#: ateli/atelier/templates/atelier/profile.html:23
+msgid "Created at"
+msgstr ""
+
+#: ateli/templates/_helpers.html:149
+msgid "Current page"
+msgstr ""
+
+#: ateli/atelier/helpers.py:123
+msgid "Date"
+msgstr ""
+
+#: ateli/atelier/templates/atelier/cheer-delete.html:4
+#: ateli/atelier/templates/atelier/cheers.html:61
+#: ateli/atelier/templates/post/cloud-delete.html:4
+#: ateli/atelier/templates/post/clouds.html:30
+#: ateli/atelier/templates/post/delete.html:4
+#: ateli/atelier/templates/post/show.html:142
+#: ateli/atelier/templates/post/tag-delete.html:4
+msgid "Delete"
+msgstr ""
+
+#: ateli/atelier/templates/post/cloud-delete.html:20
+msgid "Delete all Cloud comments of {name}."
+msgstr ""
+
+#: ateli/atelier/templates/post/cloud-delete.html:18
+msgid "Delete all of my Cloud comments"
+msgstr ""
+
+#: ateli/atelier/templates/post/tag-delete.html:8
+msgid "Delete the tag \"{name}\"?"
+msgstr ""
+
+#: ateli/models.py:44 ateli/atelier/models.py:187 ateli/atelier/models.py:483
+#: ateli/atelier/models.py:681 ateli/atelier/models.py:741
+msgid "Deleted"
+msgstr ""
+
+#: ateli/models.py:47
+msgid "Deleted by another user"
+msgstr ""
+
+#: ateli/models.py:45
+msgid "Deleted by moderator"
+msgstr ""
+
+#: ateli/models.py:46
+msgid "Deleted due to spam"
+msgstr ""
+
+#: ateli/home/templates/home/search.html:56
+msgid "Descending"
+msgstr ""
+
+#: ateli/user/templates/user/profile.html:45
+msgid "Disconnect"
+msgstr ""
+
+#: ateli/atelier/templates/atelier/upload-draft.html:51
+msgid "Do not upload other people's work without their consent!"
+msgstr ""
+
+#: ateli/models.py:51
+msgid "Done"
+msgstr ""
+
+#: ateli/models.py:43
+msgid "Draft"
+msgstr ""
+
+#: ateli/atelier/templates/atelier/profile.html:15
+#: ateli/atelier/templates/atelier/upload-draft.html:109
+#: ateli/atelier/templates/atelier/upload-edit.html:4
+#: ateli/atelier/templates/post/edit.html:4
+#: ateli/atelier/templates/post/show.html:140
+msgid "Edit"
+msgstr ""
+
+#: ateli/atelier/templates/atelier/profile-edit.html:4
+#: ateli/templates/base_web.html:43 ateli/user/templates/user/profile.html:4
 msgid "Edit profile"
 msgstr "プロフィール編集"
 
+#: ateli/user/models.py:32 ateli/user/models.py:227 ateli/user/models.py:237
+#: ateli/user/templates/user/login.html:21
+msgid "Email address"
+msgstr ""
+
+#: ateli/models.py:52
+msgid "Failed"
+msgstr ""
+
 #: ateli/home/templates/home/base.html:109
-#: ateli/home/templates/home/ranking.html:10
 msgid "Failed to load posts."
 msgstr "作品の読み込みに失敗しました。"
+
+#: ateli/atelier/models.py:771
+msgid "Failed to post on Twitter."
+msgstr ""
+
+#: ateli/atelier/templates/atelier/base.html:185
+msgid "Fans"
+msgstr ""
+
+#: ateli/atelier/templates/post/favorite.html:4
+msgid "Favorite"
+msgstr ""
+
+#: ateli/atelier/helpers.py:126 ateli/atelier/templates/atelier/base.html:171
+#: ateli/atelier/templates/atelier/favorites.html:4
+#: ateli/atelier/templates/post/show.html:211
+msgid "Favorites"
+msgstr ""
+
+#: ateli/atelier/models.py:793
+msgid "Female"
+msgstr ""
+
+#: ateli/models.py:527 ateli/models.py:534
+msgid "File not found."
+msgstr ""
+
+#: ateli/home/templates/home/search.html:46
+#, fuzzy
+msgid "Filter"
+msgstr "Twitter"
+
+#: ateli/atelier/templates/atelier/watch.html:4
+#: ateli/templates/_helpers.html:674
+msgid "Follow"
+msgstr ""
+
+#: ateli/atelier/templates/atelier/fans.html:4
+msgid "Followers"
+msgstr ""
+
+#: ateli/atelier/templates/atelier/watching.html:4
+#: ateli/templates/_helpers.html:672
+msgid "Following"
+msgstr ""
+
+#: ateli/user/templates/user/forgot-password.html:4
+msgid "Forgot password"
+msgstr ""
+
+#: ateli/user/templates/user/login.html:33
+msgid "Forgot your password?"
+msgstr ""
+
+#: ateli/models.py:470 ateli/models.py:587
+msgid "Format not supported."
+msgstr ""
+
+#: ateli/atelier/models.py:790 ateli/atelier/templates/atelier/profile.html:29
+msgid "Gender"
+msgstr ""
+
+#: ateli/atelier/models.py:785 ateli/atelier/templates/atelier/profile.html:27
+msgid "Greeting"
+msgstr ""
 
 #: ateli/home/templates/home/base.html:94 ateli/templates/base_web.html:132
 msgid "Hello! Ateli"
 msgstr "ハーロー！ アトリ"
 
+#: ateli/atelier/helpers.py:125 ateli/atelier/templates/post/show.html:136
+msgid "Hits"
+msgstr ""
+
+#: ateli/atelier/helpers.py:109 ateli/atelier/models.py:165
 #: ateli/templates/base_web.html:66
 msgid "Illust"
 msgstr "イラスト"
 
-#: ateli/helpers/template.py:91
+#: ateli/atelier/models.py:171
+#, fuzzy
+msgid "Illustration Commission"
+msgstr "総合コミッション"
+
+#: ateli/templates/_helpers.html:21
+msgid "Install the latest version to browse through Ateli more conveniently!"
+msgstr ""
+
+#: ateli/atelier/models.py:803 ateli/atelier/templates/atelier/profile.html:32
+msgid "Interest"
+msgstr ""
+
+#: ateli/user/models.py:233
+msgid "Keep me signed in"
+msgstr ""
+
+#: ateli/home/templates/home/search.html:28 ateli/templates/_helpers.html:102
+msgid "Keyword"
+msgstr ""
+
+#: ateli/helpers/template.py:93
 msgid "Language was changed."
 msgstr "言語を変えました。"
 
+#: ateli/atelier/templates/atelier/cheers.html:34
+msgid "Leave a message"
+msgstr ""
+
+#: ateli/user/templates/user/profile.html:53
+msgid "Link with Twitter account"
+msgstr ""
+
+#: ateli/atelier/templates/post/show.html:218
+msgid "Load comments"
+msgstr ""
+
+#: ateli/atelier/templates/atelier/upload-status.html:20
+msgid "Load more"
+msgstr ""
+
+#: ateli/atelier/models.py:802 ateli/atelier/templates/atelier/profile.html:31
+msgid "Location"
+msgstr ""
+
+#: ateli/atelier/models.py:300 ateli/atelier/views.py:405
+msgid "Log in to post a Cloud comment!"
+msgstr ""
+
+#: ateli/atelier/models.py:815 ateli/atelier/models.py:833
+#: ateli/atelier/models.py:850
+msgid "Make it only viewable by myself."
+msgstr ""
+
+#: ateli/atelier/models.py:792
+msgid "Male"
+msgstr ""
+
+#: ateli/atelier/models.py:857
+msgid "Maximum Slots"
+msgstr ""
+
+#: ateli/user/templates/user/messages.html:3
+msgid "Messages"
+msgstr ""
+
+#: ateli/atelier/helpers.py:111 ateli/atelier/models.py:167
 #: ateli/templates/base_web.html:68
 msgid "Music"
 msgstr "音楽"
 
+#: ateli/atelier/models.py:173
+#, fuzzy
+msgid "Music Commission"
+msgstr "総合コミッション"
+
+#: ateli/atelier/templates/atelier/base.html:123
 #: ateli/templates/base_web.html:47 ateli/templates/base_web.html:48
 msgid "My atelier"
 msgstr "私のアトリエ"
 
+#: ateli/user/models.py:41
+msgid "Name"
+msgstr ""
+
+#: ateli/home/templates/home/timeline.html:17
+msgid ""
+"No content to display on the Timeline. Add more Ateliers to see what's "
+"going on!"
+msgstr ""
+
+#: ateli/atelier/templates/atelier/posts.html:11
+#: ateli/home/templates/home/commissions.html:20
+#: ateli/home/templates/home/show_tag.html:28
+#: ateli/section/templates/section/commissions.html:20
+msgid "No results."
+msgstr ""
+
+#: ateli/home/templates/home/search.html:46
+msgid "None"
+msgstr ""
+
+#: ateli/models.py:42
+msgid "Normal"
+msgstr ""
+
+#: ateli/user/models.py:51
+msgid "Normal user"
+msgstr ""
+
+#: ateli/atelier/templates/atelier/upload-draft.html:97
+msgid "Now let it go!"
+msgstr ""
+
+#: ateli/templates/_helpers.html:216
+msgid "Open"
+msgstr ""
+
+#: ateli/user/models.py:35 ateli/user/models.py:36 ateli/user/models.py:230
+#: ateli/user/models.py:270 ateli/user/templates/user/login.html:25
+msgid "Password"
+msgstr ""
+
+#: ateli/user/helpers.py:158
+msgid "Password reset verification mail sent. Please check your inbox."
+msgstr ""
+
+#: ateli/models.py:50
+msgid "Pending"
+msgstr ""
+
+#: ateli/atelier/helpers.py:110 ateli/atelier/models.py:166
 #: ateli/templates/base_web.html:67
 msgid "Photo"
 msgstr "写真"
 
+#: ateli/atelier/models.py:172
+#, fuzzy
+msgid "Photography Commission"
+msgstr "総合コミッション"
+
+#: ateli/user/helpers.py:84
+msgid "Please finish your e-mail verification first."
+msgstr ""
+
+#: ateli/atelier/templates/atelier/base.html:164
+#: ateli/atelier/templates/atelier/posts.html:4
+msgid "Posts"
+msgstr ""
+
+#: ateli/atelier/models.py:186 ateli/atelier/models.py:482
+#: ateli/atelier/models.py:740 ateli/atelier/models.py:815
+#: ateli/atelier/models.py:833 ateli/atelier/models.py:850
+msgid "Private"
+msgstr ""
+
+#: ateli/atelier/models.py:327
+msgid "Processing in Progress"
+msgstr ""
+
+#: ateli/atelier/templates/atelier/upload-edit.html:55
+msgid "Processing your work. When this is finished, your work will be posted."
+msgstr ""
+
+#: ateli/atelier/templates/atelier/base.html:151
+#: ateli/atelier/templates/atelier/profile.html:3
+#, fuzzy
+msgid "Profile"
+msgstr "プロフィール編集"
+
+#: ateli/user/templates/user/profile.html:34
+msgid "Profile image"
+msgstr ""
+
+#: ateli/atelier/models.py:185 ateli/atelier/models.py:481
+#: ateli/atelier/models.py:739
+msgid "Public"
+msgstr ""
+
+#: ateli/user/models.py:240 ateli/user/models.py:259
+msgid "RECAPTCHA_LABEL"
+msgstr ""
+
+#: ateli/section/templates/section/base.html:9
+#: ateli/section/templates/section/ranking.html:3
+#, fuzzy
+msgid "Ranking"
+msgstr "トータルランキング"
+
 #: ateli/home/templates/home/base.html:70
+#: ateli/home/templates/home/recent.html:4
+#: ateli/section/templates/section/base.html:14
+#: ateli/section/templates/section/recent.html:4
 msgid "Recent posts"
+msgstr "最近の作品"
+
+#: ateli/atelier/templates/post/show.html:224
+#, fuzzy
+msgid "Related posts"
 msgstr "最近の作品"
 
 #: ateli/templates/base_web.html:34
 msgid "Release notes"
 msgstr "お知らせ・リリースノート"
 
-#: ateli/templates/base_web.html:61
+#: ateli/atelier/helpers.py:124
+msgid "Relevance"
+msgstr ""
+
+#: ateli/atelier/models.py:679
+msgid "Replied"
+msgstr ""
+
+#: ateli/atelier/templates/atelier/cheers.html:55
+msgid "Reply"
+msgstr ""
+
+#: ateli/user/templates/user/profile.html:18
+msgid "Resend"
+msgstr ""
+
+#: ateli/user/templates/user/reset-password.html:4
+msgid "Reset password"
+msgstr ""
+
+#: ateli/home/templates/home/search.html:4
+#: ateli/home/templates/home/search.html:30 ateli/templates/_helpers.html:96
+msgid "Search"
+msgstr ""
+
+#: ateli/atelier/models.py:791 ateli/atelier/models.py:796
+msgid "Secret"
+msgstr ""
+
+#: ateli/templates/_helpers.html:267
+msgid "Sending..."
+msgstr ""
+
+#: ateli/atelier/templates/post/viewer.html:41
+msgid "Share"
+msgstr ""
+
+#: ateli/atelier/templates/post/show.html:113
+#: ateli/atelier/templates/post/viewer.html:55
+#: ateli/atelier/templates/post/viewer.html:56
+msgid "Share on Facebook"
+msgstr ""
+
+#: ateli/atelier/templates/post/show.html:117
+#: ateli/atelier/templates/post/viewer.html:60
+#: ateli/atelier/templates/post/viewer.html:61
+msgid "Share on Google+"
+msgstr ""
+
+#: ateli/atelier/templates/post/show.html:121
+#: ateli/atelier/templates/post/viewer.html:65
+#: ateli/atelier/templates/post/viewer.html:66
+msgid "Share on KakaoStory"
+msgstr ""
+
+#: ateli/atelier/templates/post/show.html:125
+#: ateli/atelier/templates/post/viewer.html:70
+#: ateli/atelier/templates/post/viewer.html:71
+msgid "Share on KakaoTalk"
+msgstr ""
+
+#: ateli/atelier/templates/post/show.html:129
+#: ateli/atelier/templates/post/viewer.html:75
+#: ateli/atelier/templates/post/viewer.html:76
+msgid "Share on LINE"
+msgstr ""
+
+#: ateli/atelier/templates/post/show.html:109
+#: ateli/atelier/templates/post/viewer.html:50
+#: ateli/atelier/templates/post/viewer.html:51
+msgid "Share on Twitter"
+msgstr ""
+
+#: ateli/templates/base_web.html:61 ateli/user/templates/user/login.html:4
+#: ateli/user/templates/user/login.html:27
 msgid "Sign in"
 msgstr "ログイン"
 
+#: ateli/user/templates/user/login.html:32
+msgid "Sign in with Twitter"
+msgstr ""
+
 #: ateli/templates/base_web.html:55 ateli/templates/base_web.html:56
+#: ateli/user/templates/user/logout.html:4
 msgid "Sign out"
 msgstr "ログアウト"
 
-#: ateli/home/templates/home/base.html:80
+#: ateli/user/templates/user/logout.html:12
+msgid "Sign out on all devices."
+msgstr ""
+
+#: ateli/user/templates/user/login.html:31
+msgid "Sign up for a new account"
+msgstr ""
+
+#: ateli/atelier/models.py:39
+msgid "Slug"
+msgstr ""
+
+#: ateli/user/views.py:26
+msgid "Sorry, we can't connect to your account. Please try again later."
+msgstr ""
+
+#: ateli/home/templates/home/search.html:53
+msgid "Sorting"
+msgstr ""
+
+#: ateli/atelier/models.py:434 ateli/atelier/models.py:769
+msgid "Successfully posted on Twitter."
+msgstr ""
+
+#: ateli/atelier/views.py:119 ateli/atelier/views.py:298
+#: ateli/user/views.py:169
+msgid "Successfully saved."
+msgstr ""
+
+#: ateli/user/views.py:130 ateli/user/templates/user/profile.html:13
+msgid "Successfully validated."
+msgstr ""
+
+#: ateli/atelier/helpers.py:21
+msgid "TEMP_ATELIER_ADMIN_ONLY"
+msgstr ""
+
+#: ateli/atelier/templates/atelier/cheers.html:81
+msgid "TEMP_CHEER_CANNOT_SEE_OTHERS"
+msgstr ""
+
+#: ateli/atelier/templates/atelier/cheer-write.html:8
+msgid "TEMP_CHEER_DIALOG_INFO"
+msgstr ""
+
+#: ateli/atelier/templates/atelier/cheers.html:93
+msgid "TEMP_CHEER_NOT_FOUND"
+msgstr ""
+
+#: ateli/atelier/templates/atelier/cheers.html:84
+msgid "TEMP_CHEER_NOT_REPLIED"
+msgstr ""
+
+#: ateli/atelier/models.py:427
+msgid "TEMP_COMMISSION_AUTO_TWEET_MESSAGE"
+msgstr ""
+
+#: ateli/atelier/models.py:423
+msgid "TEMP_COMMISSION_AUTO_TWEET_SLOT"
+msgstr ""
+
+#: ateli/atelier/models.py:856
+msgid "TEMP_COMMISSION_CURRENT_SLOT"
+msgstr ""
+
+#: ateli/atelier/templates/atelier/commissions.html:20
+msgid "TEMP_COMMISSION_NOT_FOUND"
+msgstr ""
+
+#: ateli/atelier/templates/post/commission-show.html:25
+msgid "TEMP_COMMISSION_SHOW_GO_LIST"
+msgstr ""
+
+#: ateli/atelier/models.py:174
+msgid "TEMP_COMMISSION_VIDEO"
+msgstr ""
+
+#: ateli/atelier/templates/atelier/commissions.html:12
+#: ateli/atelier/templates/post/commission-write.html:4
+#: ateli/home/templates/home/commissions.html:12
+#: ateli/section/templates/section/commissions.html:12
+msgid "TEMP_COMMISSION_WRITE"
+msgstr ""
+
+#: ateli/atelier/views.py:107 ateli/atelier/views.py:285
+#: ateli/atelier/views.py:580 ateli/atelier/views.py:715
+msgid "TEMP_COVER_CHANGE_FAILED"
+msgstr ""
+
+#: ateli/atelier/models.py:821 ateli/atelier/models.py:838
+#: ateli/atelier/models.py:860
+msgid "TEMP_COVER_DELETE"
+msgstr ""
+
+#: ateli/user/views.py:257 ateli/user/templates/user/profile.html:21
+msgid "TEMP_EMAIL_ADDRESS_NOT_SAVED"
+msgstr ""
+
+#: ateli/user/templates/user/profile.html:16
+msgid "TEMP_EMAIL_ADDRESS_NOT_VERIFIED"
+msgstr ""
+
+#: ateli/user/views.py:140
+msgid "TEMP_EMAIL_ALREADY_VERIFIED"
+msgstr ""
+
+#: ateli/user/views.py:86
+msgid "TEMP_EMAIL_UNREGISTERED"
+msgstr ""
+
+#: ateli/templates/error.html:26
+msgid "TEMP_ERROR_403"
+msgstr ""
+
+#: ateli/templates/error.html:24
+msgid "TEMP_ERROR_404"
+msgstr ""
+
+#: ateli/templates/error.html:28
+msgid "TEMP_ERROR_500"
+msgstr ""
+
+#: ateli/templates/_event_types.html:10
+msgid "TEMP_EVENT_COMMISSION_WRITE"
+msgstr ""
+
+#: ateli/templates/_event_types.html:14
+msgid "TEMP_EVENT_POST_DELETE"
+msgstr ""
+
+#: ateli/atelier/templates/atelier/favorites.html:11
+msgid "TEMP_FAVORITES_NOT_FOUND"
+msgstr ""
+
+#: ateli/atelier/templates/atelier/fans.html:36
+msgid "TEMP_FOLLOWER_NOT_FOUND"
+msgstr ""
+
+#: ateli/atelier/templates/atelier/watching.html:37
+msgid "TEMP_FOLLOWING_NOT_FOUND"
+msgstr ""
+
+#: ateli/user/views.py:55
+msgid "TEMP_INVALID_CREDENTIALS"
+msgstr ""
+
+#: ateli/atelier/views.py:193 ateli/atelier/views.py:371
+msgid "TEMP_NULL_CONTENT_SUBMITTED"
+msgstr ""
+
+#: ateli/user/views.py:218
+msgid "TEMP_OAUTH_UNAUTHORIZED"
+msgstr ""
+
+#: ateli/user/views.py:111
+msgid "TEMP_PASSWORD_CHANGED"
+msgstr ""
+
+#: ateli/user/models.py:270
+msgid "TEMP_PASSWORD_CHANGE_TEXT"
+msgstr ""
+
+#: ateli/atelier/models.py:415
+msgid "TEMP_POST_AUTO_TWEET_MESSAGE"
+msgstr ""
+
+#: ateli/atelier/templates/atelier/upload-edit.html:37
+#: ateli/atelier/templates/post/edit.html:31
+msgid "TEMP_POST_EDIT_COVER_INFO"
+msgstr ""
+
+#: ateli/atelier/models.py:194 ateli/atelier/models.py:497
+#: ateli/atelier/templates/post/edit.html:17
+msgid "TEMP_POST_EDIT_LOCK_TAGS"
+msgstr ""
+
+#: ateli/atelier/models.py:195 ateli/atelier/models.py:498
+msgid "TEMP_POST_EDIT_LOCK_TAGS_TEXT"
+msgstr ""
+
+#: ateli/atelier/templates/post/edit.html:23
+msgid "TEMP_POST_EDIT_TAGS_TEXT"
+msgstr ""
+
+#: ateli/atelier/templates/post/favorites.html:43
+msgid "TEMP_POST_FAVORITE_USERS_NOT_FOUND"
+msgstr ""
+
+#: ateli/atelier/templates/post/favorites.html:4
+msgid "TEMP_POST_FAVORITE_USERS_TITLE"
+msgstr ""
+
+#: ateli/atelier/templates/atelier/upload-edit.html:22
+msgid "TEMP_POST_SHOW"
+msgstr ""
+
+#: ateli/templates/_helpers.html:1247
+msgid "TEMP_POST_SHOW_NO_BODY"
+msgstr ""
+
+#: ateli/atelier/templates/post/show.html:96
+#: ateli/atelier/templates/post/viewer.html:45
+#: ateli/atelier/templates/post/viewer.html:46
+msgid "TEMP_POST_SHOW_SHORTCUT_URL"
+msgstr ""
+
+#: ateli/atelier/models.py:816 ateli/atelier/models.py:851
+msgid "TEMP_POST_TAGS_TEXT"
+msgstr ""
+
+#: ateli/atelier/views.py:503
+msgid "TEMP_POST_TAG_EDIT_BLOCKED"
+msgstr ""
+
+#: ateli/atelier/templates/atelier/profile-edit.html:26
+msgid "TEMP_PROFILE_EDIT_DIALOG_INFO"
+msgstr ""
+
+#: ateli/user/models.py:275
+msgid "TEMP_PROFILE_TWEET_ON_COMMENT"
+msgstr ""
+
+#: ateli/user/models.py:274
+msgid "TEMP_PROFILE_TWEET_ON_POST"
+msgstr ""
+
+#: ateli/home/templates/home/ranking.html:10
+#: ateli/section/templates/section/ranking.html:10
+msgid "TEMP_RANKING_PROCESSING"
+msgstr ""
+
+#: ateli/templates/_helpers.html:114
+msgid "TEMP_RENDER_SEARCH_ONLY_ATELIER"
+msgstr ""
+
+#: ateli/templates/_helpers.html:120
+msgid "TEMP_RENDER_SEARCH_ONLY_SECTION"
+msgstr ""
+
+#: ateli/templates/error.html:32
+msgid "TEMP_RETURN_TO_LAST_PAGE"
+msgstr ""
+
+#: ateli/user/helpers.py:138
+msgid "TEMP_SEND_RESET_PASSWORD_EMAIL_TITLE﻿"
+msgstr ""
+
+#: ateli/user/helpers.py:125
+msgid "TEMP_SEND_VERIFY_EMAIL_ERROR"
+msgstr ""
+
+#: ateli/user/helpers.py:127
+msgid "TEMP_SEND_VERIFY_EMAIL_SENT"
+msgstr ""
+
+#: ateli/user/helpers.py:107
+msgid "TEMP_SEND_VERIFY_EMAIL_TITLE"
+msgstr ""
+
+#: ateli/user/views.py:228
+msgid "TEMP_TWITTER_ACCOUNT_CONFLICT"
+msgstr ""
+
+#: ateli/user/views.py:279
+msgid "TEMP_TWITTER_DISCONNECTED"
+msgstr ""
+
+#: ateli/user/views.py:268
+msgid "TEMP_TWITTER_EXCLUSIVE_ACCOUNT_CANNOT_DISCONNECT"
+msgstr ""
+
+#: ateli/atelier/templates/atelier/upload-draft.html:26
+msgid "TEMP_UPLOAD_BROWSER_ALERT"
+msgstr ""
+
+#: ateli/atelier/templates/atelier/upload-draft.html:54
+msgid "TEMP_UPLOAD_WARNING_DURATION_LIMIT"
+msgstr ""
+
+#: ateli/atelier/templates/atelier/upload-draft.html:56
+msgid "TEMP_UPLOAD_WARNING_FORMAT"
+msgstr ""
+
+#: ateli/atelier/templates/atelier/upload-draft.html:49
+msgid "TEMP_UPLOAD_WARNING_TITLE"
+msgstr ""
+
+#: ateli/user/views.py:97 ateli/user/views.py:123
+msgid "TEMP_USER_MISMATCHED"
+msgstr ""
+
+#: ateli/user/views.py:102 ateli/user/views.py:128
+msgid "TEMP_USER_TOKEN_INVALID"
+msgstr ""
+
+#: ateli/atelier/helpers.py:120 ateli/home/templates/home/show_tag.html:4
+msgid "Tag"
+msgstr ""
+
+#: ateli/atelier/models.py:816 ateli/atelier/models.py:851
+#: ateli/atelier/templates/post/tags.html:4
+#: ateli/home/templates/home/base.html:80 ateli/home/templates/home/tags.html:4
+#: ateli/section/templates/section/base.html:60
 msgid "Tags"
 msgstr "タグ"
 
@@ -108,9 +943,37 @@ msgstr "タグ"
 msgid "Text"
 msgstr "小説"
 
+#: ateli/atelier/views.py:488
+msgid "The \"{name}\" tag already exists."
+msgstr ""
+
+#: ateli/atelier/templates/post/show.html:171
+msgid "The player may not behave properly!"
+msgstr ""
+
+#: ateli/atelier/templates/atelier/timeline.html:20
+msgid "There are no new activities in this atelier."
+msgstr ""
+
+#: ateli/atelier/templates/post/clouds.html:59
+msgid "There is no Cloud comment yet. Post the first Cloud comment of this work!"
+msgstr ""
+
+#: ateli/atelier/templates/post/show.html:155
+msgid "There is no explanation."
+msgstr ""
+
+#: ateli/atelier/templates/atelier/base.html:145
+#: ateli/atelier/templates/atelier/timeline.html:9
 #: ateli/home/templates/home/base.html:59
+#: ateli/home/templates/home/timeline.html:4
 msgid "Timeline"
 msgstr "タイムライン"
+
+#: ateli/atelier/helpers.py:118 ateli/atelier/models.py:42
+#: ateli/atelier/models.py:151 ateli/atelier/models.py:492
+msgid "Title"
+msgstr ""
 
 #: ateli/home/templates/home/base.html:75
 msgid "Total commissions"
@@ -121,14 +984,107 @@ msgstr "総合コミッション"
 msgid "Total ranking"
 msgstr "トータルランキング"
 
+#: ateli/atelier/templates/atelier/profile.html:53
 #: ateli/templates/base_web.html:133
 msgid "Twitter"
 msgstr "Twitter"
 
+#: ateli/templates/_helpers.html:211
+msgid "Unknown status"
+msgstr ""
+
+#: ateli/atelier/views.py:535
+msgid "Untitled"
+msgstr ""
+
+#: ateli/atelier/templates/atelier/base.html:199
+#: ateli/atelier/templates/atelier/upload-draft.html:4
+#: ateli/atelier/templates/atelier/upload-draft.html:79
+#: ateli/atelier/templates/atelier/upload-status.html:10
+#: ateli/atelier/templates/atelier/upload.html:3
 #: ateli/templates/base_web.html:50 ateli/templates/base_web.html:51
 msgid "Upload"
 msgstr "投稿"
 
+#: ateli/atelier/templates/atelier/upload-edit.html:20
+msgid "Upload Successful."
+msgstr ""
+
+#: ateli/atelier/templates/atelier/upload-draft.html:30
+msgid "Upload is temporarily unavailable due to server issues."
+msgstr ""
+
+#: ateli/atelier/templates/atelier/upload-draft.html:40
+#: ateli/atelier/templates/atelier/upload-edit.html:15
+#: ateli/atelier/templates/atelier/upload-status.html:4
+#: ateli/atelier/templates/atelier/upload.html:14
+msgid "Upload status"
+msgstr ""
+
+#: ateli/atelier/helpers.py:115 ateli/user/views.py:235
+msgid "User"
+msgstr ""
+
+#: ateli/atelier/helpers.py:112 ateli/atelier/models.py:168
 #: ateli/templates/base_web.html:69
 msgid "Video"
 msgstr "動画"
+
+#: ateli/models.py:48
+msgid "Waiting"
+msgstr ""
+
+#: ateli/atelier/models.py:680
+msgid "Waiting for Reply"
+msgstr ""
+
+#: ateli/atelier/templates/atelier/base.html:178
+msgid "Watching"
+msgstr ""
+
+#: ateli/atelier/templates/atelier/upload-draft.html:31
+msgid "We apologize for the inconvenience caused. Please try again later."
+msgstr ""
+
+#: ateli/atelier/models.py:786 ateli/atelier/templates/atelier/profile.html:28
+msgid "Website URL"
+msgstr ""
+
+#: ateli/atelier/templates/post/comment-write.html:4
+msgid "Write a comment"
+msgstr ""
+
+#: ateli/templates/_helpers.html:18
+msgid "You are using an old version of Internet Explorer."
+msgstr ""
+
+#: ateli/atelier/templates/atelier/upload-draft.html:52
+msgid "You can upload up to {mb}MB."
+msgstr ""
+
+#: ateli/atelier/views.py:501
+msgid "You cannot add more tags."
+msgstr ""
+
+#: ateli/forms.py:160
+msgid "You may use the alphabet, numbers, and the underbar (_)."
+msgstr ""
+
+#: ateli/user/helpers.py:62
+msgid "You need to be logged in."
+msgstr ""
+
+#: ateli/atelier/templates/atelier/cheer-delete.html:15
+msgid "Your replies will also be deleted!"
+msgstr ""
+
+#: ateli/home/templates/home/search.html:101
+#: ateli/home/templates/home/search.html:110
+msgid "Your search brought no results."
+msgstr ""
+
+#: ateli/user/views.py:37
+#, fuzzy
+msgid "{name}'s Atelier"
+msgstr "私のアトリエ"
+

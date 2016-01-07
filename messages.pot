@@ -1,32 +1,30 @@
-# Korean translations for PROJECT.
-# Copyright (C) 2015 ORGANIZATION
+# Translations template for PROJECT.
+# Copyright (C) 2016 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
 #
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2016-01-07 18:05+0900\n"
-"PO-Revision-Date: 2015-12-30 00:14+0900\n"
-"Last-Translator: \n"
-"Language: ko\n"
-"Language-Team: ko <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.1.1\n"
 
 #: ateli/filters.py:97
-#, fuzzy
 msgid "#Ateli"
-msgstr "아트리"
+msgstr ""
 
 #: ateli/home/templates/home/base.html:117 ateli/templates/base_web.html:133
 #: ateli/templates/skeleton.html:25
 msgid "@AteliAtelier"
-msgstr "@AteliKR"
+msgstr ""
 
 #: ateli/templates/_event_types.html:8
 msgid "A new piece of work has been uploaded."
@@ -55,26 +53,25 @@ msgstr ""
 #: ateli/templates/skeleton.html:23 ateli/templates/skeleton.html:29
 #: ateli/templates/skeleton.html:32
 msgid "Ateli"
-msgstr "아트리"
+msgstr ""
 
 #: ateli/filters.py:90 ateli/atelier/templates/atelier/base.html:28
 #: ateli/atelier/templates/post/commission-show.html:12
 #: ateli/atelier/templates/post/show.html:37 ateli/templates/skeleton.html:24
-#, fuzzy
 msgid "Ateli - Creative together."
-msgstr "함께하는 창작"
+msgstr ""
 
 #: ateli/home/templates/home/ateliers.html:4 ateli/templates/base_web.html:71
 msgid "Ateliers"
-msgstr "아틀리에"
+msgstr ""
 
 #: ateli/templates/base_web.html:83 ateli/user/templates/user/base.html:7
 msgid "Back to top"
-msgstr "맨 위로 가기"
+msgstr ""
 
 #: ateli/templates/base_web.html:35
 msgid "Beta"
-msgstr "베타"
+msgstr ""
 
 #: ateli/atelier/models.py:188 ateli/atelier/models.py:484
 #: ateli/atelier/models.py:682 ateli/atelier/models.py:742
@@ -134,9 +131,8 @@ msgid "Comments"
 msgstr ""
 
 #: ateli/atelier/helpers.py:114
-#, fuzzy
 msgid "Commission"
-msgstr "종합 커미션"
+msgstr ""
 
 #: ateli/atelier/templates/atelier/base.html:157
 #: ateli/atelier/templates/atelier/commissions.html:4
@@ -144,9 +140,8 @@ msgstr "종합 커미션"
 #: ateli/home/templates/home/commissions.html:4
 #: ateli/section/templates/section/base.html:19
 #: ateli/section/templates/section/commissions.html:4
-#, fuzzy
 msgid "Commissions"
-msgstr "종합 커미션"
+msgstr ""
 
 #: ateli/templates/_helpers.html:268 ateli/templates/_helpers.html:299
 msgid "Confirm"
@@ -154,7 +149,7 @@ msgstr ""
 
 #: ateli/templates/base_web.html:134
 msgid "Contact us"
-msgstr "문의"
+msgstr ""
 
 #: ateli/atelier/helpers.py:119 ateli/atelier/models.py:199
 #: ateli/atelier/models.py:502
@@ -248,7 +243,7 @@ msgstr ""
 #: ateli/atelier/templates/atelier/profile-edit.html:4
 #: ateli/templates/base_web.html:43 ateli/user/templates/user/profile.html:4
 msgid "Edit profile"
-msgstr "프로필 수정"
+msgstr ""
 
 #: ateli/user/models.py:32 ateli/user/models.py:227 ateli/user/models.py:237
 #: ateli/user/templates/user/login.html:21
@@ -261,7 +256,7 @@ msgstr ""
 
 #: ateli/home/templates/home/base.html:109
 msgid "Failed to load posts."
-msgstr "게시물을 불러오지 못했어요."
+msgstr ""
 
 #: ateli/atelier/models.py:771
 msgid "Failed to post on Twitter."
@@ -290,9 +285,8 @@ msgid "File not found."
 msgstr ""
 
 #: ateli/home/templates/home/search.html:46
-#, fuzzy
 msgid "Filter"
-msgstr "트위터"
+msgstr ""
 
 #: ateli/atelier/templates/atelier/watch.html:4
 #: ateli/templates/_helpers.html:674
@@ -330,7 +324,7 @@ msgstr ""
 
 #: ateli/home/templates/home/base.html:94 ateli/templates/base_web.html:132
 msgid "Hello! Ateli"
-msgstr "Hello! 아트리"
+msgstr ""
 
 #: ateli/atelier/helpers.py:125 ateli/atelier/templates/post/show.html:136
 msgid "Hits"
@@ -339,12 +333,11 @@ msgstr ""
 #: ateli/atelier/helpers.py:109 ateli/atelier/models.py:165
 #: ateli/templates/base_web.html:66
 msgid "Illust"
-msgstr "일러스트"
+msgstr ""
 
 #: ateli/atelier/models.py:171
-#, fuzzy
 msgid "Illustration Commission"
-msgstr "종합 커미션"
+msgstr ""
 
 #: ateli/templates/_helpers.html:21
 msgid "Install the latest version to browse through Ateli more conveniently!"
@@ -364,7 +357,7 @@ msgstr ""
 
 #: ateli/helpers/template.py:93
 msgid "Language was changed."
-msgstr "언어가 변경되었습니다."
+msgstr ""
 
 #: ateli/atelier/templates/atelier/cheers.html:34
 msgid "Leave a message"
@@ -410,17 +403,16 @@ msgstr ""
 #: ateli/atelier/helpers.py:111 ateli/atelier/models.py:167
 #: ateli/templates/base_web.html:68
 msgid "Music"
-msgstr "음악"
+msgstr ""
 
 #: ateli/atelier/models.py:173
-#, fuzzy
 msgid "Music Commission"
-msgstr "종합 커미션"
+msgstr ""
 
 #: ateli/atelier/templates/atelier/base.html:123
 #: ateli/templates/base_web.html:47 ateli/templates/base_web.html:48
 msgid "My atelier"
-msgstr "내 아틀리에"
+msgstr ""
 
 #: ateli/user/models.py:41
 msgid "Name"
@@ -475,12 +467,11 @@ msgstr ""
 #: ateli/atelier/helpers.py:110 ateli/atelier/models.py:166
 #: ateli/templates/base_web.html:67
 msgid "Photo"
-msgstr "사진"
+msgstr ""
 
 #: ateli/atelier/models.py:172
-#, fuzzy
 msgid "Photography Commission"
-msgstr "종합 커미션"
+msgstr ""
 
 #: ateli/user/helpers.py:84
 msgid "Please finish your e-mail verification first."
@@ -507,9 +498,8 @@ msgstr ""
 
 #: ateli/atelier/templates/atelier/base.html:151
 #: ateli/atelier/templates/atelier/profile.html:3
-#, fuzzy
 msgid "Profile"
-msgstr "프로필 수정"
+msgstr ""
 
 #: ateli/user/templates/user/profile.html:34
 msgid "Profile image"
@@ -526,25 +516,23 @@ msgstr ""
 
 #: ateli/section/templates/section/base.html:9
 #: ateli/section/templates/section/ranking.html:3
-#, fuzzy
 msgid "Ranking"
-msgstr "종합 랭킹"
+msgstr ""
 
 #: ateli/home/templates/home/base.html:70
 #: ateli/home/templates/home/recent.html:4
 #: ateli/section/templates/section/base.html:14
 #: ateli/section/templates/section/recent.html:4
 msgid "Recent posts"
-msgstr "최신 게시물"
+msgstr ""
 
 #: ateli/atelier/templates/post/show.html:224
-#, fuzzy
 msgid "Related posts"
-msgstr "최신 게시물"
+msgstr ""
 
 #: ateli/templates/base_web.html:34
 msgid "Release notes"
-msgstr "릴리스 노트"
+msgstr ""
 
 #: ateli/atelier/helpers.py:124
 msgid "Relevance"
@@ -622,7 +610,7 @@ msgstr ""
 #: ateli/templates/base_web.html:61 ateli/user/templates/user/login.html:4
 #: ateli/user/templates/user/login.html:27
 msgid "Sign in"
-msgstr "로그인"
+msgstr ""
 
 #: ateli/user/templates/user/login.html:32
 msgid "Sign in with Twitter"
@@ -631,7 +619,7 @@ msgstr ""
 #: ateli/templates/base_web.html:55 ateli/templates/base_web.html:56
 #: ateli/user/templates/user/logout.html:4
 msgid "Sign out"
-msgstr "로그아웃"
+msgstr ""
 
 #: ateli/user/templates/user/logout.html:12
 msgid "Sign out on all devices."
@@ -937,11 +925,11 @@ msgstr ""
 #: ateli/home/templates/home/base.html:80 ateli/home/templates/home/tags.html:4
 #: ateli/section/templates/section/base.html:60
 msgid "Tags"
-msgstr "태그"
+msgstr ""
 
 #: ateli/templates/base_web.html:70
 msgid "Text"
-msgstr "문학"
+msgstr ""
 
 #: ateli/atelier/views.py:488
 msgid "The \"{name}\" tag already exists."
@@ -968,7 +956,7 @@ msgstr ""
 #: ateli/home/templates/home/base.html:59
 #: ateli/home/templates/home/timeline.html:4
 msgid "Timeline"
-msgstr "타임라인"
+msgstr ""
 
 #: ateli/atelier/helpers.py:118 ateli/atelier/models.py:42
 #: ateli/atelier/models.py:151 ateli/atelier/models.py:492
@@ -977,17 +965,17 @@ msgstr ""
 
 #: ateli/home/templates/home/base.html:75
 msgid "Total commissions"
-msgstr "종합 커미션"
+msgstr ""
 
 #: ateli/home/templates/home/base.html:65
 #: ateli/home/templates/home/ranking.html:3
 msgid "Total ranking"
-msgstr "종합 랭킹"
+msgstr ""
 
 #: ateli/atelier/templates/atelier/profile.html:53
 #: ateli/templates/base_web.html:133
 msgid "Twitter"
-msgstr "트위터"
+msgstr ""
 
 #: ateli/templates/_helpers.html:211
 msgid "Unknown status"
@@ -1004,7 +992,7 @@ msgstr ""
 #: ateli/atelier/templates/atelier/upload.html:3
 #: ateli/templates/base_web.html:50 ateli/templates/base_web.html:51
 msgid "Upload"
-msgstr "업로드"
+msgstr ""
 
 #: ateli/atelier/templates/atelier/upload-edit.html:20
 msgid "Upload Successful."
@@ -1028,7 +1016,7 @@ msgstr ""
 #: ateli/atelier/helpers.py:112 ateli/atelier/models.py:168
 #: ateli/templates/base_web.html:69
 msgid "Video"
-msgstr "동영상"
+msgstr ""
 
 #: ateli/models.py:48
 msgid "Waiting"
@@ -1084,7 +1072,6 @@ msgid "Your search brought no results."
 msgstr ""
 
 #: ateli/user/views.py:37
-#, fuzzy
 msgid "{name}'s Atelier"
-msgstr "내 아틀리에"
+msgstr ""
 
