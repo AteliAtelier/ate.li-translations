@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2015-12-30 00:13+0900\n"
-"PO-Revision-Date: 2015-12-30 18:03+0900\n"
+"PO-Revision-Date: 2016-01-07 16:29+0900\n"
 "Last-Translator: \n"
 "Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
@@ -45,7 +45,7 @@ msgstr "ベータ"
 
 #: ateli/templates/base_web.html:134
 msgid "Contact us"
-msgstr "お問い合せ／ヘルプ"
+msgstr "お問い合せ・ヘルプ"
 
 #: ateli/templates/skeleton.html:25
 msgid "Creative together"
@@ -58,7 +58,7 @@ msgstr "プロフィール編集"
 #: ateli/home/templates/home/base.html:109
 #: ateli/home/templates/home/ranking.html:10
 msgid "Failed to load posts."
-msgstr ""
+msgstr "作品の読み込みに失敗しました。"
 
 #: ateli/home/templates/home/base.html:94 ateli/templates/base_web.html:132
 msgid "Hello! Ateli"
@@ -70,7 +70,7 @@ msgstr "イラスト"
 
 #: ateli/helpers/template.py:91
 msgid "Language was changed."
-msgstr ""
+msgstr "言語を変形しました。"
 
 #: ateli/templates/base_web.html:68
 msgid "Music"
@@ -78,7 +78,7 @@ msgstr "音楽"
 
 #: ateli/templates/base_web.html:47 ateli/templates/base_web.html:48
 msgid "My atelier"
-msgstr ""
+msgstr "私のアトリエ"
 
 #: ateli/templates/base_web.html:67
 msgid "Photo"
@@ -86,11 +86,11 @@ msgstr "写真"
 
 #: ateli/home/templates/home/base.html:70
 msgid "Recent posts"
-msgstr ""
+msgstr "最近の作品"
 
 #: ateli/templates/base_web.html:34
 msgid "Release notes"
-msgstr ""
+msgstr "お知らせ・リリースノート"
 
 #: ateli/templates/base_web.html:61
 msgid "Sign in"
@@ -114,7 +114,7 @@ msgstr "タイムライン"
 
 #: ateli/home/templates/home/base.html:75
 msgid "Total commissions"
-msgstr ""
+msgstr "総合コミッション"
 
 #: ateli/home/templates/home/base.html:65
 #: ateli/home/templates/home/ranking.html:3
