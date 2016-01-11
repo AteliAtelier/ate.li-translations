@@ -8,15 +8,16 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2016-01-07 18:05+0900\n"
-"PO-Revision-Date: 2016-01-07 16:40+0900\n"
+"PO-Revision-Date: 2016-01-11 18:36+0900\n"
 "Last-Translator: \n"
 "Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.1.1\n"
+"X-Generator: Poedit 1.8.6\n"
 
 #: ateli/filters.py:97
 #, fuzzy
@@ -294,8 +295,7 @@ msgstr ""
 msgid "Filter"
 msgstr "Twitter"
 
-#: ateli/atelier/templates/atelier/watch.html:4
-#: ateli/templates/_helpers.html:674
+#: ateli/atelier/templates/atelier/watch.html:4 ateli/templates/_helpers.html:674
 msgid "Follow"
 msgstr ""
 
@@ -417,8 +417,8 @@ msgstr "音楽"
 msgid "Music Commission"
 msgstr "総合コミッション"
 
-#: ateli/atelier/templates/atelier/base.html:123
-#: ateli/templates/base_web.html:47 ateli/templates/base_web.html:48
+#: ateli/atelier/templates/atelier/base.html:123 ateli/templates/base_web.html:47
+#: ateli/templates/base_web.html:48
 msgid "My atelier"
 msgstr "私のアトリエ"
 
@@ -428,8 +428,8 @@ msgstr ""
 
 #: ateli/home/templates/home/timeline.html:17
 msgid ""
-"No content to display on the Timeline. Add more Ateliers to see what's "
-"going on!"
+"No content to display on the Timeline. Add more Ateliers to see what's going "
+"on!"
 msgstr ""
 
 #: ateli/atelier/templates/atelier/posts.html:11
@@ -530,8 +530,7 @@ msgstr ""
 msgid "Ranking"
 msgstr "トータルランキング"
 
-#: ateli/home/templates/home/base.html:70
-#: ateli/home/templates/home/recent.html:4
+#: ateli/home/templates/home/base.html:70 ateli/home/templates/home/recent.html:4
 #: ateli/section/templates/section/base.html:14
 #: ateli/section/templates/section/recent.html:4
 msgid "Recent posts"
@@ -657,8 +656,7 @@ msgstr ""
 msgid "Successfully posted on Twitter."
 msgstr ""
 
-#: ateli/atelier/views.py:119 ateli/atelier/views.py:298
-#: ateli/user/views.py:169
+#: ateli/atelier/views.py:119 ateli/atelier/views.py:298 ateli/user/views.py:169
 msgid "Successfully saved."
 msgstr ""
 
@@ -1001,8 +999,8 @@ msgstr ""
 #: ateli/atelier/templates/atelier/upload-draft.html:4
 #: ateli/atelier/templates/atelier/upload-draft.html:79
 #: ateli/atelier/templates/atelier/upload-status.html:10
-#: ateli/atelier/templates/atelier/upload.html:3
-#: ateli/templates/base_web.html:50 ateli/templates/base_web.html:51
+#: ateli/atelier/templates/atelier/upload.html:3 ateli/templates/base_web.html:50
+#: ateli/templates/base_web.html:51
 msgid "Upload"
 msgstr "投稿"
 
@@ -1087,4 +1085,3 @@ msgstr ""
 #, fuzzy
 msgid "{name}'s Atelier"
 msgstr "私のアトリエ"
-
