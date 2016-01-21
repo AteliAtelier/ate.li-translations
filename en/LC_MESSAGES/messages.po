@@ -3,12 +3,11 @@
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2016-01-17 21:34+0900\n"
+"POT-Creation-Date: 2016-01-21 16:53+0900\n"
 "PO-Revision-Date: 2016-01-17 21:35+0900\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -57,7 +56,7 @@ msgstr ""
 
 #: ateli/home/templates/home/base.html:117 ateli/templates/base_web.html:133
 msgid "@AteliKR"
-msgstr ""
+msgstr "@AteliAtelier"
 
 #: ateli/home/templates/home/base.html:94 ateli/templates/base_web.html:132
 msgid "Hello! 아트리"
@@ -89,10 +88,6 @@ msgstr ""
 
 #: ateli/user/views.py:37
 msgid "{name}의 아틀리에"
-msgstr ""
-
-#: ateli/helpers/template.py:93
-msgid "ì¸ì´ê° ë³ê²½ëììµëë¤."
 msgstr ""
 
 #: ateli/atelier/templates/atelier/profile.html:23
@@ -570,6 +565,10 @@ msgstr ""
 
 #: ateli/templates/_helpers.html:817
 msgid "애니메이션"
+msgstr ""
+
+#: ateli/helpers/template.py:95
+msgid "언어가 변경되었습니다."
 msgstr ""
 
 #: ateli/atelier/templates/atelier/base.html:199
@@ -1275,4 +1274,7 @@ msgstr ""
 #: ateli/templates/base_web.html:43 ateli/user/templates/user/profile.html:4
 msgid "회원정보 수정"
 msgstr ""
+
+#~ msgid "ì¸ì´ê° ë³ê²½ëììµëë¤."
+#~ msgstr ""
 
