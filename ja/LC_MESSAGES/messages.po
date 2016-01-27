@@ -884,11 +884,11 @@ msgstr "本当に削除しますか？ （管理者モード）"
 
 #: ateli/atelier/templates/post/favorite.html:15
 msgid "정말 찜을 취소할까요?"
-msgstr "本当に蒸しブックマークをキャンセルしますか？"
+msgstr "本当にブックマークをキャンセルしますか？"
 
 #: ateli/atelier/templates/post/favorite.html:15
 msgid "정말 찜할까요?"
-msgstr "本当に蒸ブックマークしますか？"
+msgstr "本当にブックマークしますか？"
 
 #: ateli/atelier/templates/atelier/watch.html:11
 msgid "정말 팔로우를 취소할까요?"
