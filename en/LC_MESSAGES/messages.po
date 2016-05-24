@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2016-05-23 12:22+0900\n"
-"PO-Revision-Date: 2016-05-23 14:12+0900\n"
+"PO-Revision-Date: 2016-05-24 21:04+0900\n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -373,7 +373,7 @@ msgstr ""
 
 #: ateli/home/templates/home/index.html:51
 msgid "만화"
-msgstr "manga"
+msgstr "Comic"
 
 #: ateli/templates/base_web.html:102 ateli/templates/error.html:15
 msgid "맨 위로 가기"
@@ -636,7 +636,7 @@ msgstr "Un-link"
 
 #: ateli/home/templates/home/index.html:56
 msgid "연주해보았다"
-msgstr "I saw me play"
+msgstr "Instrument"
 
 #: ateli/templates/_helpers.html:181
 msgid "열기"
@@ -1369,4 +1369,3 @@ msgstr "Sign Up"
 #: ateli/templates/base_web.html:29 ateli/user/templates/user/profile.html:4
 msgid "회원정보 수정"
 msgstr "Edit Profile"
-

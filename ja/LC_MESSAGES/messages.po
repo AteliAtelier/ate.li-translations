@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2016-05-23 12:22+0900\n"
-"PO-Revision-Date: 2016-05-23 14:37+0900\n"
+"PO-Revision-Date: 2016-05-24 21:05+0900\n"
 "Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -375,7 +375,7 @@ msgstr ""
 
 #: ateli/home/templates/home/index.html:51
 msgid "만화"
-msgstr "コミック"
+msgstr "漫画"
 
 #: ateli/templates/base_web.html:102 ateli/templates/error.html:15
 msgid "맨 위로 가기"
