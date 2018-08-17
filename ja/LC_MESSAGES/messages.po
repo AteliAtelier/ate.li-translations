@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-05-08 06:54+0900\n"
+"POT-Creation-Date: 2018-08-15 01:03+0900\n"
 "PO-Revision-Date: 2017-05-08 06:44+0900\n"
 "Last-Translator: \n"
 "Language: ja\n"
@@ -16,7 +16,10 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.6.0\n"
+
+msgid "\"{body}\" 댓글을 {like_count}명이 좋아했어요."
+msgstr ""
 
 msgid "\"{name}\" 태그는 이미 존재합니다."
 msgstr "\"{name}\" タグは既に存在しております。"
@@ -27,6 +30,15 @@ msgstr "\"{name}\" タグは追加できません。"
 msgid "\"{name}\" 태그를 삭제할까요?"
 msgstr "\"{name}\" タグを本当に削除しますか？"
 
+msgid "\"{title}\" 포스트를 {like_count}명이 좋아했어요."
+msgstr ""
+
+msgid "\"{title}\" 포스트에 댓글 {comment_count}개가 달렸고 {like_count}명이 좋아했어요."
+msgstr ""
+
+msgid "\"{title}\" 포스트에 댓글 {comment_count}개가 달렸습니다."
+msgstr ""
+
 msgid "#아트리"
 msgstr "#アトリ"
 
@@ -35,13 +47,6 @@ msgstr "#アトリ #コミッション '{title}'更新！ {url}"
 
 msgid "#아트리 '{title}' 업로드! {url}"
 msgstr "#アトリ '{title}' アップロード！ {url}"
-
-msgid ""
-"<a href=\"{url}\">{name}</a>님이 <a "
-"href=\"{atelier_url}\">{atelier_title}</a>에 업로드했습니다."
-msgstr ""
-"<a href=\"{url}\">{name}</a>さんが<a "
-"href=\"{atelier_url}\">{atelier_title}</a>にアップロードしました。"
 
 msgid "<a href=\"{url}\">{name}</a>님이 <a href=\"{webclap_url}\">웹 박수</a>에 답장했습니다."
 msgstr "<a href=\"{url}\">{name}</a>さんが<a href=\"{webclap_url}\">web拍手</a>に返事しました。"
@@ -63,11 +68,14 @@ msgstr ""
 msgid "@AteliKR"
 msgstr "@AteliJP"
 
+msgid "English (영어)"
+msgstr "English (英語)"
+
 msgid "Hello! 아트리"
 msgstr "Hello！アトリ"
 
 msgid "JPEG, PNG, GIF 형식으로 올려주세요."
-msgstr "JPEG、PNG、GIF形式でアップロードしてください。"
+msgstr ""
 
 msgid "[아트리] 비밀번호 재설정"
 msgstr "[アトリ] パスワードリセット"
@@ -81,11 +89,71 @@ msgstr "{max}文字以下で入力してください。"
 msgid "{min}자 이상, {max}자 이하로 입력하세요."
 msgstr "{min}文字以上、{max}文字以下で入力してください。"
 
+msgid "{name} 님의 프로필"
+msgstr ""
+
+msgid "{name}님이 \"{title}\" 포스트를 갱신했어요."
+msgstr ""
+
 msgid "{name}의 아틀리에"
 msgstr "{name}のアトリエ"
 
-msgid "감광속도"
-msgstr "ISO感度"
+msgid "♈ 양자리"
+msgstr ""
+
+msgid "♉ 황소자리"
+msgstr ""
+
+msgid "♊ 쌍둥이자리"
+msgstr ""
+
+msgid "♋ 게자리"
+msgstr ""
+
+msgid "♌ 사자자리"
+msgstr ""
+
+msgid "♍ 처녀자리"
+msgstr ""
+
+msgid "♎ 천칭자리"
+msgstr ""
+
+msgid "♏ 전갈자리"
+msgstr ""
+
+msgid "♐ 사수자리"
+msgstr ""
+
+msgid "♑ 염소자리"
+msgstr ""
+
+msgid "♒ 물병자리"
+msgstr ""
+
+msgid "♓ 물고기자리"
+msgstr ""
+
+msgid "日本語 (일본어)"
+msgstr "日本語 (Japanese)"
+
+msgid "가나"
+msgstr "ガーナ"
+
+msgid "가봉"
+msgstr "ガボン"
+
+msgid "가이아나"
+msgstr "ガイアナ"
+
+msgid "감비아"
+msgstr "ガンビア"
+
+msgid "개인정보처리방침"
+msgstr ""
+
+msgid "건지 섬"
+msgstr "ガーンジー"
 
 msgid "검색"
 msgstr "検索"
@@ -108,14 +176,26 @@ msgstr "ログインに失敗しました。しばらくしてからもう一度
 msgid "계정이 다른 아트리 계정과 연동되어 있습니다!"
 msgstr "アカウントが他のアトリアカウントと連動されています！"
 
+msgid "공개"
+msgstr ""
+
+msgid "공개된 정보가 없어요…"
+msgstr ""
+
 msgid "공유"
 msgstr "シェア"
 
 msgid "공통"
 msgstr "共通"
 
-msgid "관련도"
-msgstr "関連度"
+msgid "과들루프"
+msgstr "グアドループ"
+
+msgid "과테말라"
+msgstr "グアテマラ"
+
+msgid "관리"
+msgstr ""
 
 msgid "관리자"
 msgstr "管理者"
@@ -126,11 +206,26 @@ msgstr "管理者によって削除されました。"
 msgid "관심사"
 msgstr "興味"
 
+msgid "괌"
+msgstr "グアム"
+
+msgid "괜찮아요, 그냥 올릴게요."
+msgstr ""
+
 msgid "구글+ 공유"
 msgstr "Google+でシェア"
 
 msgid "구름에서 변환됨"
 msgstr "雲コメントからコンバージョン"
+
+msgid "그레나다"
+msgstr "グレナダ"
+
+msgid "그리스"
+msgstr "ギリシャ"
+
+msgid "그린란드"
+msgstr "グリーンランド"
 
 msgid "그림"
 msgstr "イラスト"
@@ -138,11 +233,17 @@ msgstr "イラスト"
 msgid "그림 커미션"
 msgstr "イラストコミッション"
 
-msgid "기간"
-msgstr "期間"
+msgid "기니"
+msgstr "ギニア"
+
+msgid "기니비사우"
+msgstr "ギニアビサウ"
 
 msgid "기본 미리보기 대신 표시할 이미지를 업로드할 수 있습니다."
 msgstr "基本サムネイルの代わりに表示する画像をアップロードできます。"
+
+msgid "기타"
+msgstr ""
 
 msgid "꼭 입력하셔야 합니다."
 msgstr "必須入力です。"
@@ -150,11 +251,26 @@ msgstr "必須入力です。"
 msgid "나만 볼 수 있도록 설정합니다."
 msgstr "プライベート作品に設定します。"
 
-msgid "날짜"
-msgstr "日字"
+msgid "나미비아"
+msgstr "ナミビア"
+
+msgid "나우루"
+msgstr "ナウル"
+
+msgid "나이지리아"
+msgstr "ナイジェリア"
+
+msgid "남극"
+msgstr "南極"
 
 msgid "남성"
 msgstr "男性"
+
+msgid "남수단"
+msgstr "南スーダン"
+
+msgid "남아프리카 공화국"
+msgstr "南アフリカ"
 
 msgid "내 계정으로 간편 로그인"
 msgstr "持ってるアカウントでログイン"
@@ -162,8 +278,8 @@ msgstr "持ってるアカウントでログイン"
 msgid "내 소식만"
 msgstr "自分だけ"
 
-msgid "내림차순"
-msgstr "降順"
+msgid "내 아틀리에의 좋아요 메뉴를 숨기고 좋아한 사람 목록에서 표시하지 않습니다."
+msgstr ""
 
 msgid "내용"
 msgstr "内容"
@@ -171,20 +287,38 @@ msgstr "内容"
 msgid "내용을 입력해주세요."
 msgstr "内容を入力してください。"
 
-msgid "내용이 없습니다."
-msgstr "内容がありません。"
+msgid "네덜란드"
+msgstr "オランダ"
 
 msgid "네이버"
 msgstr "NAVER"
 
-msgid "년간"
-msgstr "年間"
+msgid "네팔"
+msgstr "ネパール"
 
-msgid "노출시간"
-msgstr "シャッタースピード"
+msgid "노르웨이"
+msgstr "ノルウェー"
+
+msgid "노퍽 섬"
+msgstr "ノーフォーク島"
+
+msgid "누벨칼레도니"
+msgstr "ニューカレドニア"
+
+msgid "뉴질랜드"
+msgstr "ニュージーランド"
+
+msgid "니우에"
+msgstr "ニウエ"
+
+msgid "니제르"
+msgstr "ニジェール"
+
+msgid "니카라과"
+msgstr "ニカラグア"
 
 msgid "다른 사람의 작품을 허락 없이 퍼오거나 편집하면 안 돼요!"
-msgstr "他人の作品の原本、および編集本を許諾なしでアップロードする行為は禁じられております！"
+msgstr ""
 
 msgid "다른 사람이 태그를 편집할 수 없게 설정합니다."
 msgstr "他のユーザーによるタグ編集をロックします。"
@@ -195,23 +329,44 @@ msgstr "他のユーザーによって削除されました。"
 msgid "다시 보내기"
 msgstr "再送信"
 
-msgid "다음 작품"
-msgstr "次の作品"
+msgid "다음"
+msgstr ""
+
+msgid "다이아몬드"
+msgstr ""
+
+msgid "닫기"
+msgstr ""
+
+msgid "당신의 취향은 안전해요… 좋아한 포스트를 공개하려면 설정을 변경하세요."
+msgstr ""
+
+msgid "대만"
+msgstr "台湾"
+
+msgid "대한민국"
+msgstr "大韓民国"
 
 msgid "댓글"
 msgstr "コメント"
 
-msgid "댓글 불러오기"
-msgstr "コメントお開く"
-
-msgid "댓글 쓰기"
-msgstr "コメントする"
-
-msgid "댓글이 없습니다."
-msgstr "コメントはありません。"
+msgid "댓글 활동"
+msgstr ""
 
 msgid "더 보기"
 msgstr "もっと見る"
+
+msgid "덴마크"
+msgstr "デンマーク"
+
+msgid "도미니카 공화국"
+msgstr "ドミニカ共和国"
+
+msgid "도미니카 연방"
+msgstr "ドミニカ国"
+
+msgid "독일"
+msgstr "ドイツ"
 
 msgid "동시 진행 작업 수, 의뢰 비용, 저작권 귀속 및 상업적 이용 가능 여부"
 msgstr "同時進行できる作業量、費用、著作権の帰属および商業利用可能の可否"
@@ -222,11 +377,23 @@ msgstr "動画"
 msgid "동영상 커미션"
 msgstr "動画コミッション"
 
+msgid "동티모르"
+msgstr "東ティモール"
+
 msgid "등록되지 않은 이메일 주소입니다."
 msgstr "登録されていないメールアドレスです。"
 
+msgid "라오스"
+msgstr "ラオス人民民主共和国"
+
+msgid "라이베리아"
+msgstr "リベリア"
+
 msgid "라인 공유"
 msgstr "LINEでシェア"
+
+msgid "라트비아"
+msgstr "ラトビア"
 
 msgid "랭킹"
 msgstr "ランキング"
@@ -234,8 +401,20 @@ msgstr "ランキング"
 msgid "랭킹 집계 중입니다. 잠시 후 다시 확인해주세요."
 msgstr "ランキング集計中です。しばらくしてからご確認してください。"
 
+msgid "러시아"
+msgstr "ロシア連邦"
+
 msgid "런타임, 장르 제한, 보컬 정보 등"
 msgstr "ランニングタイム、ジャンルの制限、ボーカル情報など"
+
+msgid "레바논"
+msgstr "レバノン"
+
+msgid "레소토"
+msgstr "レソト"
+
+msgid "레위니옹"
+msgstr "レユニオン"
 
 msgid "로그아웃"
 msgstr "ログアウト"
@@ -243,17 +422,83 @@ msgstr "ログアウト"
 msgid "로그인"
 msgstr "ログイン"
 
+msgid "로그인 / 회원가입"
+msgstr ""
+
 msgid "로그인이 필요합니다."
 msgstr "ログインしてください。"
 
-msgid "만화"
-msgstr "漫画"
+msgid "루마니아"
+msgstr "ルーマニア"
+
+msgid "루비"
+msgstr ""
+
+msgid "룩셈부르크"
+msgstr "ルクセンブルク"
+
+msgid "르완다"
+msgstr "ルワンダ"
+
+msgid "리비아"
+msgstr "リビア"
+
+msgid "리투아니아"
+msgstr "リトアニア"
+
+msgid "리히텐슈타인"
+msgstr "リヒテンシュタイン"
+
+msgid "마다가스카르"
+msgstr "マダガスカル"
+
+msgid "마르티니크"
+msgstr "マルティニーク"
+
+msgid "마셜 제도"
+msgstr "マーシャル諸島"
+
+msgid "마요트"
+msgstr "マヨット"
+
+msgid "마지막 편집:"
+msgstr ""
+
+msgid "마카오"
+msgstr "マカオ"
+
+msgid "마케도니아 공화국"
+msgstr "マケドニア旧ユーゴスラビア共和国"
+
+msgid "말라위"
+msgstr "マラウイ"
+
+msgid "말레이시아"
+msgstr "マレーシア"
+
+msgid "말리"
+msgstr "マリ"
+
+msgid "맞팔 중"
+msgstr ""
+
+msgid "맞팔하기"
+msgstr ""
+
+msgid "맨 섬"
+msgstr "マン島"
 
 msgid "맨 위로 가기"
 msgstr "トップに戻る"
 
-msgid "모델"
-msgstr "モデル"
+msgid "메뉴"
+msgstr ""
+
+msgid "멕시코"
+msgstr "メキシコ"
+
+msgid "모나코"
+msgstr "モナコ"
 
 msgid "모두 읽음으로 표시"
 msgstr "全て既読にする"
@@ -261,8 +506,35 @@ msgstr "全て既読にする"
 msgid "모든 장치에서 로그아웃하기"
 msgstr "すべてのデバイスからログアウトする"
 
-msgid "모든 종류"
-msgstr "すべての種類"
+msgid "모로코"
+msgstr "モロッコ"
+
+msgid "모리셔스"
+msgstr "モーリシャス"
+
+msgid "모리타니"
+msgstr "モーリタニア"
+
+msgid "모잠비크"
+msgstr "モザンビーク"
+
+msgid "몬테네그로"
+msgstr "モンテネグロ"
+
+msgid "몬트세랫"
+msgstr "モントセラト"
+
+msgid "몰도바"
+msgstr "モルドバ共和国"
+
+msgid "몰디브"
+msgstr "モルディブ"
+
+msgid "몰타"
+msgstr "マルタ"
+
+msgid "몽골"
+msgstr "モンゴル"
 
 msgid "문서를 연결할 수 없습니다."
 msgstr "文書を追加できません。"
@@ -270,23 +542,122 @@ msgstr "文書を追加できません。"
 msgid "문의하기"
 msgstr "お問い合わせ"
 
+msgid "미국"
+msgstr "アメリカ合衆国"
+
+msgid "미국령 군소 제도"
+msgstr "合衆国領有小離島"
+
+msgid "미국령 버진아일랜드"
+msgstr "アメリカ領ヴァージン諸島"
+
 msgid "미디어 처리 중 오류가 발생했습니다."
 msgstr "メディアの処理中にエラーが発生しました。"
+
+msgid "미얀마"
+msgstr "ミャンマー"
+
+msgid "미크로네시아 연방"
+msgstr "ミクロネシア連邦"
+
+msgid "바누아투"
+msgstr "バヌアツ"
+
+msgid "바레인"
+msgstr "バーレーン"
+
+msgid "바베이도스"
+msgstr "バルバドス"
+
+msgid "바티칸 시국"
+msgstr "バチカン市国"
+
+msgid "바하마"
+msgstr "バハマ"
 
 msgid "박수"
 msgstr "web拍手"
 
+msgid "방글라데시"
+msgstr "バングラデシュ"
+
+msgid "버뮤다"
+msgstr "バミューダ"
+
+msgid "베냉"
+msgstr "ベナン"
+
+msgid "베네수엘라"
+msgstr "ベネズエラ・ボリバル共和国"
+
+msgid "베트남"
+msgstr "ベトナム"
+
+msgid "벨기에"
+msgstr "ベルギー"
+
+msgid "벨라루스"
+msgstr "ベラルーシ"
+
+msgid "벨리즈"
+msgstr "ベリーズ"
+
 msgid "변경을 원할 경우 입력하세요."
 msgstr "変更を希望する場合のみに、入力してください。"
+
+msgid "별자리"
+msgstr ""
+
+msgid "별자리 표시"
+msgstr ""
 
 msgid "별칭"
 msgstr "別称"
 
+msgid "보내기"
+msgstr ""
+
+msgid "보스니아 헤르체고비나"
+msgstr "ボスニア・ヘルツェゴビナ"
+
+msgid "보츠와나"
+msgstr "ボツワナ"
+
+msgid "복사"
+msgstr ""
+
 msgid "본체/렌즈 기종, 스튜디오 정보 등"
 msgstr "機種/レンズ、スタジオ情報など"
 
-msgid "불러보았다"
-msgstr "歌ってみた"
+msgid "볼리비아"
+msgstr "ボリビア多民族国"
+
+msgid "부룬디"
+msgstr "ブルンジ"
+
+msgid "부르키나파소"
+msgstr "ブルキナファソ"
+
+msgid "부베 섬"
+msgstr "ブーベ島"
+
+msgid "부탄"
+msgstr "ブータン"
+
+msgid "북마리아나 제도"
+msgstr "北マリアナ諸島"
+
+msgid "불가리아"
+msgstr "ブルガリア"
+
+msgid "브라질"
+msgstr "ブラジル"
+
+msgid "브루나이"
+msgstr "ブルネイ・ダルサラーム"
+
+msgid "블로그"
+msgstr ""
 
 msgid "비공개"
 msgstr "非公開"
@@ -309,8 +680,17 @@ msgstr "パスワードが間違っています。"
 msgid "비밀번호를 잊으셨나요?"
 msgstr "パスワードをお忘れですか？"
 
+msgid "사모아"
+msgstr "サモア"
+
 msgid "사용자"
 msgstr "ユーザー"
+
+msgid "사우디아라비아"
+msgstr "サウジアラビア"
+
+msgid "사우스조지아 사우스샌드위치 제도"
+msgstr "サウスジョージア・サウスサンドウィッチ諸島"
 
 msgid "사진"
 msgstr "写真"
@@ -318,30 +698,35 @@ msgstr "写真"
 msgid "사진 커미션"
 msgstr "写真コミッション"
 
+msgid "사파이어"
+msgstr ""
+
 msgid "삭제"
 msgstr "削除"
 
 msgid "삭제됨"
 msgstr "削除されました。"
 
-msgid "새로운 <a href=\"{comment_url}\">댓글</a> {comment_count}개가 있습니다."
-msgstr "新しい<a href=\"{comment_url}\">コメント</a>{comment_count}件がありました。"
+msgid "산마리노"
+msgstr "サンマリノ"
 
-msgid "새로운 <a href=\"{favorite_url}\">찜</a> {favorite_count}개가 있습니다."
-msgstr "新しい<a href=\"{favorite_url}\">ブックマーク</a>{favorite_count}件がありました。"
-
-msgid ""
-"새로운 <a href=\"{favorite_url}\">찜</a> {favorite_count}개와 <a "
-"href=\"{comment_url}\">댓글</a> {comment_count}개가 있습니다."
-msgstr ""
-"新しい<a href=\"{favorite_url}\">ブックマーク</a>{favorite_count}件、<a "
-"href=\"{comment_url}\">コメント</a>{comment_count}件がありました。"
+msgid "상투메 프린시페"
+msgstr "サントメ・プリンシペ"
 
 msgid "새로운 <a href=\"{url}\">웹 박수</a>가 {count}개 있습니다."
 msgstr "新しい<a href=\"{url}\">web拍手</a>{count}件がありました。"
 
-msgid "새로운 <a href=\"{url}\">팔로워</a>가 {count}명 있습니다."
-msgstr "新しい<a href=\"{url}\">フォロワー</a>さんが{count}人います。"
+msgid "생마르탱"
+msgstr "サン・マルタン（フランス領）"
+
+msgid "생바르텔레미"
+msgstr "サン・バルテルミー"
+
+msgid "생일"
+msgstr ""
+
+msgid "생피에르 미클롱"
+msgstr "サンピエール島・ミクロン島"
 
 msgid "서버 오류가 발생하여 페이지를 표시할 수 없습니다."
 msgstr "サーバーにエラーが発生して、ページを表示することができません。"
@@ -349,20 +734,116 @@ msgstr "サーバーにエラーが発生して、ページを表示すること
 msgid "서비스 연동을 해제했습니다."
 msgstr "連動を解除しました。"
 
+msgid "서비스 이용에 문제가 있거나 새롭게 원하는 기능이 있나요? 편하게 말씀해주세요."
+msgstr ""
+
+msgid "서사하라"
+msgstr "西サハラ"
+
+msgid "석류석"
+msgstr ""
+
 msgid "설정"
 msgstr "設定"
 
 msgid "성별"
 msgstr "性別"
 
-msgid "수정"
-msgstr "修正"
+msgid "세네갈"
+msgstr "セネガル"
+
+msgid "세르비아"
+msgstr "セルビア"
+
+msgid "세이셸"
+msgstr "セーシェル"
+
+msgid "세인트루시아"
+msgstr "セントルシア"
+
+msgid "세인트빈센트 그레나딘"
+msgstr "セントビンセントおよびグレナディーン諸島"
+
+msgid "세인트키츠 네비스"
+msgstr "セントクリストファー・ネイビス"
+
+msgid "세인트헬레나"
+msgstr "セントヘレナ・アセンションおよびトリスタンダクーニャ"
+
+msgid "소말리아"
+msgstr "ソマリア"
+
+msgid "솔로몬 제도"
+msgstr "ソロモン諸島"
+
+msgid "수단"
+msgstr "スーダン"
+
+msgid "수리남"
+msgstr "スリナム"
+
+msgid "스리랑카"
+msgstr "スリランカ"
+
+msgid "스발바르 얀마옌"
+msgstr "スヴァールバル諸島およびヤンマイエン島"
+
+msgid "스와질란드"
+msgstr "スワジランド"
+
+msgid "스웨덴"
+msgstr "スウェーデン"
+
+msgid "스위스"
+msgstr "スイス"
 
 msgid "스팸으로 인식되어 삭제됨"
 msgstr "スパムと認識、削除されました。"
 
+msgid "스페인"
+msgstr "スペイン"
+
+msgid "슬로바키아"
+msgstr "スロバキア"
+
+msgid "슬로베니아"
+msgstr "スロベニア"
+
+msgid "시간대"
+msgstr ""
+
+msgid "시리아"
+msgstr "シリア・アラブ共和国"
+
+msgid "시에라리온"
+msgstr "シエラレオネ"
+
+msgid "신트마르턴"
+msgstr "シント・マールテン（オランダ領）"
+
+msgid "싱가포르"
+msgstr "シンガポール"
+
 msgid "쓰기"
 msgstr "送信"
+
+msgid "아랍에미리트"
+msgstr "アラブ首長国連邦"
+
+msgid "아래 문의 양식이 표시되지 않을 경우 이메일로 문의하실 수 있습니다."
+msgstr ""
+
+msgid "아루바"
+msgstr "アルバ"
+
+msgid "아르메니아"
+msgstr "アルメニア"
+
+msgid "아르헨티나"
+msgstr "アルゼンチン"
+
+msgid "아메리칸사모아"
+msgstr "アメリカ領サモア"
 
 msgid "아이디"
 msgstr "ID"
@@ -370,8 +851,23 @@ msgstr "ID"
 msgid "아이디나 비밀번호가 틀렸습니다."
 msgstr "IDやパスワードが間違っています。"
 
+msgid "아이슬란드"
+msgstr "アイスランド"
+
+msgid "아이티"
+msgstr "ハイチ"
+
+msgid "아일랜드"
+msgstr "アイルランド"
+
+msgid "아제르바이잔"
+msgstr "アゼルバイジャン"
+
 msgid "아직 응답되지 않았습니다."
 msgstr "まだ応答されていません。"
+
+msgid "아쿠아마린"
+msgstr ""
 
 msgid "아트리"
 msgstr "アトリ"
@@ -388,14 +884,14 @@ msgstr "アトリエ"
 msgid "아틀리에 구성원 전용 기능입니다."
 msgstr "アトリエメンバー専用の機能です。"
 
-msgid "아틀리에 설정"
-msgstr "アトリエ設定"
-
 msgid "아틀리에 웹 박수"
 msgstr "アトリエweb拍手"
 
 msgid "아틀리에 팔로우"
 msgstr "アトリエフォロー"
+
+msgid "아프가니스탄"
+msgstr "アフガニスタン"
 
 msgid ""
 "안녕하세요. 아트리입니다.\n"
@@ -415,11 +911,32 @@ msgstr ""
 "下記のURLでメール認証を完了します。\n"
 "{url}"
 
+msgid "안도라"
+msgstr "アンドラ"
+
 msgid "알림"
 msgstr "お知らせ"
 
-msgid "애니메이션"
-msgstr "アニメーション"
+msgid "알림이 없습니다."
+msgstr ""
+
+msgid "알바니아"
+msgstr "アルバニア"
+
+msgid "알제리"
+msgstr "アルジェリア"
+
+msgid "앙골라"
+msgstr "アンゴラ"
+
+msgid "앤티가 바부다"
+msgstr "アンティグア・バーブーダ"
+
+msgid "앵귈라"
+msgstr "アンギラ"
+
+msgid "언어"
+msgstr ""
 
 msgid "언어가 변경되었습니다."
 msgstr "言語が変更されました。"
@@ -431,28 +948,46 @@ msgid "업로드 상태"
 msgstr "アップロードの状態"
 
 msgid "업로드 전에 꼭 확인해주세요!"
-msgstr "アップロード前に必ずご確認下さい！"
+msgstr ""
 
-msgid "없음"
-msgstr "無し"
+msgid "에리트레아"
+msgstr "エリトリア"
+
+msgid "에메랄드"
+msgstr ""
+
+msgid "에스토니아"
+msgstr "エストニア"
+
+msgid "에콰도르"
+msgstr "エクアドル"
+
+msgid "에티오피아"
+msgstr "エチオピア"
+
+msgid "엘살바도르"
+msgstr "エルサルバドル"
 
 msgid "여기를 클릭하거나 파일을 내려놓으세요."
-msgstr "ここをクリックするか、ファイルをドロップしてください。"
-
-msgid "여러 장"
-msgstr "複数枚"
+msgstr ""
 
 msgid "여성"
 msgstr "女性"
 
+msgid "연도 공개"
+msgstr ""
+
 msgid "연동 끊기"
 msgstr "連動解消"
 
-msgid "연주해보았다"
-msgstr "弾いてみた"
+msgid "영국"
+msgstr "イギリス"
 
-msgid "열기"
-msgstr "オープン"
+msgid "영국령 버진아일랜드"
+msgstr "イギリス領ヴァージン諸島"
+
+msgid "영국령 인도양 지역"
+msgstr "イギリス領インド洋地域"
 
 msgid "영문, 숫자, 붙임표(-)만 사용할 수 있습니다. 붙임표(-)로 시작하거나 끝날 수 없습니다."
 msgstr "英文、数字、ハイフン（－）だけを使えることができます。初文字と最後の文字にはハイフン（－）を使えません。"
@@ -460,8 +995,23 @@ msgstr "英文、数字、ハイフン（－）だけを使えることができ
 msgid "영어"
 msgstr "英語"
 
-msgid "오래된 인터넷 익스플로러를 사용하고 있습니다."
-msgstr "古いバージョンのインターネットエクスプローラーを使用しています。"
+msgid "예멘"
+msgstr "イエメン"
+
+msgid "오만"
+msgstr "オマーン"
+
+msgid "오스트리아"
+msgstr "オーストリア"
+
+msgid "오팔"
+msgstr ""
+
+msgid "온두라스"
+msgstr "ホンジュラス"
+
+msgid "올란드 제도"
+msgstr "オーランド諸島"
 
 msgid "올바른 이메일 주소가 아닙니다."
 msgstr "正しいメールアドレスじゃありません。"
@@ -469,14 +1019,35 @@ msgstr "正しいメールアドレスじゃありません。"
 msgid "올바른 주소가 아닙니다."
 msgstr "正しいアドレスじゃありません。"
 
+msgid "왈리스 퓌튀나"
+msgstr "ウォリス・フツナ"
+
+msgid "요르단"
+msgstr "ヨルダン"
+
 msgid "요청한 페이지가 삭제되었거나 주소를 잘못 입력하셨습니다."
 msgstr "要求するページが削除されたか、アドレスを間違って入力しました。"
 
 msgid "요청한 페이지에 접근할 권한이 없습니다."
 msgstr "要求するページにアクセスする権限がありません。"
 
-msgid "월간"
-msgstr "月刊"
+msgid "우간다"
+msgstr "ウガンダ"
+
+msgid "우루과이"
+msgstr "ウルグアイ"
+
+msgid "우즈베키스탄"
+msgstr "ウズベキスタン"
+
+msgid "우크라이나"
+msgstr "ウクライナ"
+
+msgid "월-일 공개"
+msgstr ""
+
+msgid "월장석"
+msgstr ""
 
 msgid "웹 박수"
 msgstr "web拍手"
@@ -494,7 +1065,7 @@ msgid "음악 커미션"
 msgstr "音楽コミッション"
 
 msgid "음악이나 동영상이 {limit}보다 길면 잘릴 수 있어요."
-msgstr "音楽や動画が{limit}より長い場合、切り捨てられることがあります。"
+msgstr ""
 
 msgid "응답"
 msgstr "応答"
@@ -511,8 +1082,20 @@ msgstr "web拍手の内容は、他人は見れません。"
 msgid "응원이 없습니다."
 msgstr "web拍手がありません。"
 
+msgid "이라크"
+msgstr "イラク"
+
+msgid "이란"
+msgstr "イラン・イスラム共和国"
+
 msgid "이름"
 msgstr "名前"
+
+msgid "이메일"
+msgstr ""
+
+msgid "이메일 공개"
+msgstr ""
 
 msgid "이메일 인증이 완료되었습니다."
 msgstr "メール認証を完了しました。"
@@ -541,17 +1124,38 @@ msgstr "既に認証したか、認証メールの有効期限が過ぎました
 msgid "이미지 처리 중 오류가 발생했습니다."
 msgstr "画像処理中にエラーが発生しました。"
 
+msgid "이스라엘"
+msgstr "イスラエル"
+
+msgid "이용약관"
+msgstr ""
+
+msgid "이전"
+msgstr ""
+
 msgid "이전 페이지로 돌아가기"
 msgstr "前のページに戻る"
 
 msgid "이제 놓으세요!"
-msgstr "ドロップしてください！"
+msgstr ""
 
-msgid "인기 크리에이터"
-msgstr "人気のクリエイター"
+msgid "이집트"
+msgstr "エジプト"
+
+msgid "이탈리아"
+msgstr "イタリア"
+
+msgid "인도"
+msgstr "インド"
+
+msgid "인도네시아"
+msgstr "インドネシア"
 
 msgid "인사말"
 msgstr "ご挨拶"
+
+msgid "인스타그램"
+msgstr ""
 
 msgid "인증되었습니다."
 msgstr "認証されました。"
@@ -559,11 +1163,8 @@ msgstr "認証されました。"
 msgid "인증되지 않았습니다."
 msgstr "認証されていません。"
 
-msgid "일간"
-msgstr "日刊"
-
-msgid "일러스트"
-msgstr "イラスト"
+msgid "일본"
+msgstr "日本"
 
 msgid "일본어"
 msgstr "日本語"
@@ -577,8 +1178,20 @@ msgstr "自動登録防止"
 msgid "자동 입력 방지 확인에 실패했습니다. 지시에 따라 다시 시도해 주세요."
 msgstr "自動入力防止の確認に失敗しました。指示どおり、再試行してください。"
 
-msgid "작업 슬롯"
-msgstr "作業スロット"
+msgid "자메이카"
+msgstr "ジャマイカ"
+
+msgid "자수정"
+msgstr ""
+
+msgid "자주 쓰는 태그"
+msgstr ""
+
+msgid "작성 중인 포스트가 있어요."
+msgstr ""
+
+msgid "작성 중인 포스트를 먼저 정리해주세요."
+msgstr ""
 
 msgid "작업 슬롯 관리를 사용하지 않으려면 0을 입력해주세요."
 msgstr "作業スロット管理を使わない場合には0を入力してください。"
@@ -595,17 +1208,17 @@ msgstr "作品アドレス"
 msgid "작품/커미션 자동 트윗하기"
 msgstr "作品/コミッション自動ツイート"
 
-msgid "작품을 처리하는 중입니다. 완료되면 바로 업로드됩니다."
-msgstr "作品を処理しています。完了しだいアップロードされます。"
-
-msgid "작품이 없습니다."
-msgstr "作品はありません。"
-
-msgid "작품이 정상적으로 재생되지 않을 수 있습니다."
-msgstr "作品が正常に再生されない場合もあります。"
+msgid "잠비아"
+msgstr "ザンビア"
 
 msgid "저장되었습니다."
 msgstr "保存しました。"
+
+msgid "저지 섬"
+msgstr "ジャージー"
+
+msgid "적도 기니"
+msgstr "赤道ギニア"
 
 msgid "전송 중..."
 msgstr "転送中..."
@@ -616,9 +1229,6 @@ msgstr "転送を完了しました。メールを確認してください。"
 msgid "전체"
 msgstr "すべて"
 
-msgid "정렬"
-msgstr "整列"
-
 msgid "정말 로그아웃할까요?"
 msgstr "本当にログアウトしますか？"
 
@@ -628,17 +1238,23 @@ msgstr "本当に削除しますか？"
 msgid "정말 삭제할까요? (관리자 모드)"
 msgstr "本当に削除しますか？ （管理者モード）"
 
-msgid "정말 찜을 취소할까요?"
-msgstr "本当にブックマークをキャンセルしますか？"
+msgid "정말 좋아요 할까요?"
+msgstr ""
 
-msgid "정말 찜할까요?"
-msgstr "本当にブックマークしますか？"
+msgid "정말 좋아요를 취소할까요?"
+msgstr ""
 
 msgid "정말 팔로우를 취소할까요?"
 msgstr "本当にフォローを解除しますか？"
 
 msgid "정말 팔로우할까요?"
 msgstr "本当にフォローしますか？"
+
+msgid "정말 홈에 고정을 취소할까요?"
+msgstr ""
+
+msgid "정말 홈에 고정할까요? 이전 포스트는 대체됩니다."
+msgstr ""
 
 msgid "정상 상태"
 msgstr "定常状態"
@@ -649,14 +1265,29 @@ msgstr "タイトル"
 msgid "제목 없음"
 msgstr "無題"
 
-msgid "제조사"
-msgstr "メーカー"
+msgid "조선민주주의인민공화국"
+msgstr "朝鮮民主主義人民共和国"
 
-msgid "조리개"
-msgstr "Fナンバー"
+msgid "조지아"
+msgstr "ジョージア"
 
-msgid "조회수"
-msgstr "ヒット"
+msgid "좋아요"
+msgstr ""
+
+msgid "좋아요 비공개"
+msgstr ""
+
+msgid "좋아요 취소"
+msgstr ""
+
+msgid "좋아한 사람"
+msgstr ""
+
+msgid "좋아한 포스트"
+msgstr ""
+
+msgid "좋아한 포스트가 없습니다."
+msgstr ""
 
 msgid "죄송합니다. 이 컨텐츠는 한국어로 번역 중입니다."
 msgstr "ご迷惑をおかけして、申し訳ありません。このコンテンツは、日本語に翻訳しています。"
@@ -664,29 +1295,32 @@ msgstr "ご迷惑をおかけして、申し訳ありません。このコンテ
 msgid "주소"
 msgstr "アドレス"
 
+msgid "중국"
+msgstr "中国"
+
+msgid "중앙아프리카 공화국"
+msgstr "中央アフリカ共和国"
+
+msgid "지부티"
+msgstr "ジブチ"
+
+msgid "지브롤터"
+msgstr "ジブラルタル"
+
 msgid "지원하지 않는 형식입니다."
 msgstr "サポートしていない形式です。"
 
-msgid "찜"
-msgstr "ブックマーク"
+msgid "진주"
+msgstr ""
 
-msgid "찜 취소"
-msgstr "ブックマークキャンセル"
-
-msgid "찜이 없습니다."
-msgstr "ブックマークがありません。"
-
-msgid "찜하기"
-msgstr "ブックマーク"
-
-msgid "찜한 사람"
-msgstr "ブックマークした人"
-
-msgid "찜한 사람이 없습니다."
-msgstr "ブックマークした人はありません。"
+msgid "짐바브웨"
+msgstr "ジンバブエ"
 
 msgid "차단된 사용자"
 msgstr "ブロックされたユーザー"
+
+msgid "차드"
+msgstr "チャド"
 
 msgid "처리 대기 중"
 msgstr "処理待機中"
@@ -706,8 +1340,14 @@ msgstr "処理中"
 msgid "처리 취소됨"
 msgstr "処理キャンセル"
 
-msgid "초점거리"
-msgstr "焦点距離"
+msgid "첨부 파일에 문제가 있어 표시할 수 없습니다."
+msgstr ""
+
+msgid "첨부 파일을 처리 중입니다. 잠시 후 다시 시도해보세요."
+msgstr ""
+
+msgid "체코"
+msgstr "チェコ"
 
 msgid "최근 작품"
 msgstr "最新作品"
@@ -715,20 +1355,26 @@ msgstr "最新作品"
 msgid "최대 슬롯"
 msgstr "最大スロット"
 
-msgid "최신 버전의 브라우저를 설치하여 아트리를 쾌적하게 이용해보세요!"
-msgstr "最新バージョンのブラウザでアトリをもっと快適にご利用してみてください！"
-
 msgid "추가"
 msgstr "追加"
 
-msgid "추천 아틀리에 보기"
-msgstr "おすすめアトリエを見る"
-
-msgid "춤춰보았다"
-msgstr "踊ってみた"
-
 msgid "취소"
 msgstr "キャンセル"
+
+msgid "칠레"
+msgstr "チリ"
+
+msgid "카리브 네덜란드"
+msgstr "ボネール、シント・ユースタティウスおよびサバ"
+
+msgid "카메룬"
+msgstr "カメルーン"
+
+msgid "카보베르데"
+msgstr "カーボベルデ"
+
+msgid "카자흐스탄"
+msgstr "カザフスタン"
 
 msgid "카카오스토리 공유"
 msgstr "Kakaostoryでシェア"
@@ -736,23 +1382,23 @@ msgstr "Kakaostoryでシェア"
 msgid "카카오톡 공유"
 msgstr "KakaoTalkでシェア"
 
+msgid "카타르"
+msgstr "カタール"
+
 msgid "카테고리"
 msgstr "カテゴリー"
 
-msgid "캘리그래피"
-msgstr "カリグラフィー"
+msgid "캄보디아"
+msgstr "カンボジア"
+
+msgid "캐나다"
+msgstr "カナダ"
 
 msgid "커미션"
 msgstr "コミッション"
 
-msgid "커미션 문의"
-msgstr "コミッションお問い合わせ"
-
 msgid "커미션 정보 등록"
 msgstr "コミッション情報登録"
-
-msgid "커미션 주소"
-msgstr "コミッションアドレス"
 
 msgid "커미션이 없습니다."
 msgstr "コミッションがありません。"
@@ -766,20 +1412,89 @@ msgstr "カバー画像の削除"
 msgid "커버 이미지를 변경할 수 없습니다: {reason}"
 msgstr "カバー画像を変えられません：{reason}"
 
+msgid "케냐"
+msgstr "ケニア"
+
+msgid "케이맨 제도"
+msgstr "ケイマン諸島"
+
+msgid "코모로"
+msgstr "小諸"
+
+msgid "코소보"
+msgstr "コソボ"
+
+msgid "코스타리카"
+msgstr "コスタリカ"
+
 msgid "코스프레"
 msgstr "コスプレ"
+
+msgid "코코스 제도"
+msgstr "ココス（キーリング）諸島"
+
+msgid "코트디부아르"
+msgstr "コートジボワール"
+
+msgid "콜롬비아"
+msgstr "コロンビア"
+
+msgid "콩고 공화국"
+msgstr "コンゴ共和国"
+
+msgid "콩고 민주 공화국"
+msgstr "コンゴ民主共和国"
+
+msgid "쿠바"
+msgstr "キューバ"
+
+msgid "쿠웨이트"
+msgstr "クウェート"
+
+msgid "쿡 제도"
+msgstr "クック諸島"
+
+msgid "퀴라소"
+msgstr "キュラソー"
 
 msgid "크기, 해상도, 색상 모드, 배경 작업 여부, 제약 사항 등"
 msgstr "サイズ、解像度、カラーモード、バックグラウンド、制約事項など"
 
+msgid "크로아티아"
+msgstr "クロアチア"
+
+msgid "크리스마스 섬"
+msgstr "クリスマス島"
+
+msgid "키르기스스탄"
+msgstr "キルギス"
+
+msgid "키리바시"
+msgstr "キリバス"
+
+msgid "키프로스"
+msgstr "キプロス"
+
+msgid "타지키스탄"
+msgstr "タジキスタン"
+
+msgid "탄생석"
+msgstr ""
+
+msgid "탄생석 표시"
+msgstr ""
+
+msgid "탄자니아"
+msgstr "タンザニア"
+
 msgid "탈퇴 후에는 어떠한 이유로도 계정을 복구할 수 없습니다."
 msgstr ""
 
+msgid "태국"
+msgstr "タイ"
+
 msgid "태그"
 msgstr "タグ"
-
-msgid "태그 변경이 제한되어 있습니다."
-msgstr "タグの編集がロックされています。"
 
 msgid "태그 아이디는 공식 한글명과 동일해야 합니다."
 msgstr "タグIDは、公式作品名と同じくしてください。"
@@ -793,20 +1508,53 @@ msgstr "タグ名"
 msgid "태그 편집 제한"
 msgstr "タグをロック"
 
-msgid "태그가 없습니다."
-msgstr "タグがありません。"
-
 msgid "태그는 최대 30자로 총 5개 입력할 수 있습니다. 나중에 더 추가하거나 편집할 수 있습니다."
 msgstr "タグは最大30文字、五つまで入力することができます。後で追加したり、編集することもできます。"
 
 msgid "태그를 더 이상 추가할 수 없습니다."
 msgstr "タグを追加できません。"
 
-msgid "튀김"
+msgid "태그를 추가하면 포스트를 발견하기 쉬워집니다."
 msgstr ""
+
+msgid "터크스 케이커스 제도"
+msgstr "タークス・カイコス諸島"
+
+msgid "터키"
+msgstr "トルコ"
+
+msgid "터키석"
+msgstr ""
+
+msgid "토고"
+msgstr "トーゴ"
+
+msgid "토켈라우"
+msgstr "トケラウ"
+
+msgid "토파즈"
+msgstr ""
+
+msgid "통가"
+msgstr "トンガ"
+
+msgid "투르크메니스탄"
+msgstr "トルクメニスタン"
+
+msgid "투발루"
+msgstr "ツバル"
+
+msgid "튀니지"
+msgstr "チュニジア"
+
+msgid "트리니다드 토바고"
+msgstr "トリニダード・トバゴ"
 
 msgid "트위터"
 msgstr "Twitter"
+
+msgid "트위터 공개"
+msgstr ""
 
 msgid "트위터 공유"
 msgstr "Twitterでシェア"
@@ -820,11 +1568,14 @@ msgstr "Twitterでシェア"
 msgid "트위터에 게시했습니다."
 msgstr "ツイートしました。"
 
-msgid "파일 끌어오기나 진행 상황 확인 등 정상적으로 업로드되지 않을 수 있습니다."
-msgstr "ファイルプルや進行状況の確認など、通常アップロードされていない可能性があります。"
+msgid "파나마"
+msgstr "パナマ"
+
+msgid "파라과이"
+msgstr "パラグアイ"
 
 msgid "파일 크기는 {mb}MB까지 올릴 수 있어요."
-msgstr "ファイルサイズは{mb} MBまでアップロード‘できます。"
+msgstr ""
 
 msgid "파일을 찾을 수 없습니다."
 msgstr "ファイルが見つかりません。"
@@ -832,11 +1583,29 @@ msgstr "ファイルが見つかりません。"
 msgid "파일이 너무 큽니다."
 msgstr "ファイルが大きすぎます。"
 
+msgid "파키스탄"
+msgstr "パキスタン"
+
+msgid "파푸아뉴기니"
+msgstr "パプアニューギニア"
+
+msgid "팔라우"
+msgstr "パラオ"
+
+msgid "팔레스타인"
+msgstr "パレスチナ"
+
 msgid "팔로우"
 msgstr "フォロー"
 
+msgid "팔로우 추천"
+msgstr ""
+
 msgid "팔로워"
 msgstr "フォロワー"
+
+msgid "팔로워가 {count}명 늘었어요."
+msgstr ""
 
 msgid "팔로워가 없습니다."
 msgstr "フォロワーがありません。"
@@ -845,13 +1614,28 @@ msgid "팔로잉"
 msgstr "フォロー中"
 
 msgid "팔로잉이 없습니다."
-msgstr "フォローはありません。"
+msgstr ""
+
+msgid "페로 제도"
+msgstr "フェロー諸島"
+
+msgid "페루"
+msgstr "ペルー"
+
+msgid "페리도트"
+msgstr ""
 
 msgid "페이스북"
 msgstr "Facebook"
 
 msgid "페이스북 공유"
 msgstr "Facebookでシェア"
+
+msgid "편집"
+msgstr ""
+
+msgid "포르투갈"
+msgstr "ポルトガル"
 
 msgid "포스트"
 msgstr "エントリー"
@@ -865,8 +1649,29 @@ msgstr "エントリーのアクティビティー"
 msgid "포스트가 없습니다."
 msgstr "エントリーがありません。"
 
+msgid "포클랜드 제도"
+msgstr "フォークランド（マルビナス）諸島"
+
+msgid "폴란드"
+msgstr "ポーランド"
+
+msgid "푸에르토리코"
+msgstr "プエルトリコ"
+
+msgid "프랑스"
+msgstr "フランス"
+
+msgid "프랑스령 기아나"
+msgstr "フランス領ギアナ"
+
+msgid "프랑스령 남방 및 남극"
+msgstr "フランス領南方・南極地域"
+
+msgid "프랑스령 폴리네시아"
+msgstr "フランス領ポリネシア"
+
 msgid "프로필"
-msgstr "プロフィール"
+msgstr ""
 
 msgid "프로필 이미지"
 msgstr "プロフィール画像"
@@ -874,14 +1679,23 @@ msgstr "プロフィール画像"
 msgid "프로필 이미지 삭제"
 msgstr "プロフィール画像を削除"
 
-msgid "필수"
-msgstr "必須"
+msgid "피지"
+msgstr "フィジー"
 
-msgid "필터"
-msgstr "フィルタ"
+msgid "핀란드"
+msgstr "フィンランド"
+
+msgid "필리핀"
+msgstr "フィリピン"
+
+msgid "핏케언 제도"
+msgstr "ピトケアン"
 
 msgid "한국어"
 msgstr "韓国語"
+
+msgid "한국어 (Korean)"
+msgstr "한국어 (韓国語)"
 
 msgid "함께하는 창작, 아트리!"
 msgstr "一緒に作りましょう。 【アトリ】"
@@ -889,34 +1703,52 @@ msgstr "一緒に作りましょう。 【アトリ】"
 msgid "해상도, 런타임, 장르 제한, 제약 사항 등"
 msgstr "解像度、ランニングタイム、ジャンルの制限、制約事項など"
 
+msgid "허드 맥도널드 제도"
+msgstr "ハード島とマクドナルド諸島"
+
+msgid "헝가리"
+msgstr "ハンガリー"
+
 msgid "헤더 이미지"
 msgstr "ヘッダー画像"
 
 msgid "헤더 이미지 삭제"
 msgstr "ヘッダー画像を削除"
 
-msgid "현재 섹션에서 검색"
-msgstr "現在セクションで検索"
-
-msgid "현재 아틀리에에서 검색"
-msgstr "現在アトリエで検索"
-
-msgid "현재 페이지"
-msgstr "現在ページ"
-
 msgid "현재​ 슬롯"
 msgstr "現在スロット"
+
+msgid "혈석"
+msgstr ""
 
 msgid "혈액형"
 msgstr "血液型"
 
+msgid "호주"
+msgstr "オーストラリア"
+
+msgid "홈"
+msgstr ""
+
+msgid "홈에 고정"
+msgstr ""
+
+msgid "홈에 고정 취소"
+msgstr ""
+
 msgid "홈페이지 주소"
 msgstr "ホームページアドレス"
+
+msgid "홍콩"
+msgstr "香港"
 
 msgid "확인"
 msgstr "確認"
 
 msgid "활동 내역 삭제가 처리되는데 시간이 소요될 수 있습니다."
+msgstr ""
+
+msgid "황수정"
 msgstr ""
 
 msgid "회원"
@@ -1074,4 +1906,253 @@ msgstr "会員登録"
 
 #~ msgid "플레이어를 불러오는 중입니다."
 #~ msgstr "Playerを起動する中です。"
+
+#~ msgid "인기 크리에이터"
+#~ msgstr "人気のクリエイター"
+
+#~ msgid "작품이 없습니다."
+#~ msgstr "作品はありません。"
+
+#~ msgid "팔로잉이 없습니다."
+#~ msgstr "フォローはありません。"
+
+#~ msgid "프로필"
+#~ msgstr "プロフィール"
+
+#~ msgid "JPEG, PNG, GIF 형식으로 올려주세요."
+#~ msgstr "JPEG、PNG、GIF形式でアップロードしてください。"
+
+#~ msgid "다른 사람의 작품을 허락 없이 퍼오거나 편집하면 안 돼요!"
+#~ msgstr "他人の作品の原本、および編集本を許諾なしでアップロードする行為は禁じられております！"
+
+#~ msgid "업로드 전에 꼭 확인해주세요!"
+#~ msgstr "アップロード前に必ずご確認下さい！"
+
+#~ msgid "여기를 클릭하거나 파일을 내려놓으세요."
+#~ msgstr "ここをクリックするか、ファイルをドロップしてください。"
+
+#~ msgid "음악이나 동영상이 {limit}보다 길면 잘릴 수 있어요."
+#~ msgstr "音楽や動画が{limit}より長い場合、切り捨てられることがあります。"
+
+#~ msgid "이제 놓으세요!"
+#~ msgstr "ドロップしてください！"
+
+#~ msgid "파일 끌어오기나 진행 상황 확인 등 정상적으로 업로드되지 않을 수 있습니다."
+#~ msgstr "ファイルプルや進行状況の確認など、通常アップロードされていない可能性があります。"
+
+#~ msgid "파일 크기는 {mb}MB까지 올릴 수 있어요."
+#~ msgstr "ファイルサイズは{mb} MBまでアップロード‘できます。"
+
+#~ msgid ""
+#~ "<a href=\"{url}\">{name}</a>님이 <a "
+#~ "href=\"{atelier_url}\">{atelier_title}</a>에 업로드했습니다."
+#~ msgstr ""
+#~ "<a href=\"{url}\">{name}</a>さんが<a "
+#~ "href=\"{atelier_url}\">{atelier_title}</a>にアップロードしました。"
+
+#~ msgid "감광속도"
+#~ msgstr "ISO感度"
+
+#~ msgid "개인정보 처리방침"
+#~ msgstr ""
+
+#~ msgid "관련도"
+#~ msgstr "関連度"
+
+#~ msgid "괜찮아요, 그냥 올릴래요."
+#~ msgstr ""
+
+#~ msgid "기간"
+#~ msgstr "期間"
+
+#~ msgid "날짜"
+#~ msgstr "日字"
+
+#~ msgid "내림차순"
+#~ msgstr "降順"
+
+#~ msgid "내용이 없습니다."
+#~ msgstr "内容がありません。"
+
+#~ msgid "년간"
+#~ msgstr "年間"
+
+#~ msgid "노출시간"
+#~ msgstr "シャッタースピード"
+
+#~ msgid "다음 작품"
+#~ msgstr "次の作品"
+
+#~ msgid "댓글 불러오기"
+#~ msgstr "コメントお開く"
+
+#~ msgid "댓글 쓰기"
+#~ msgstr "コメントする"
+
+#~ msgid "댓글이 없습니다."
+#~ msgstr "コメントはありません。"
+
+#~ msgid "만화"
+#~ msgstr "漫画"
+
+#~ msgid "모델"
+#~ msgstr "モデル"
+
+#~ msgid "모든 종류"
+#~ msgstr "すべての種類"
+
+#~ msgid "불러보았다"
+#~ msgstr "歌ってみた"
+
+#~ msgid "새로운 <a href=\"{comment_url}\">댓글</a> {comment_count}개가 있습니다."
+#~ msgstr "新しい<a href=\"{comment_url}\">コメント</a>{comment_count}件がありました。"
+
+#~ msgid "새로운 <a href=\"{favorite_url}\">찜</a> {favorite_count}개가 있습니다."
+#~ msgstr "新しい<a href=\"{favorite_url}\">ブックマーク</a>{favorite_count}件がありました。"
+
+#~ msgid ""
+#~ "새로운 <a href=\"{favorite_url}\">찜</a> "
+#~ "{favorite_count}개와 <a href=\"{comment_url}\">댓글</a> "
+#~ "{comment_count}개가 있습니다."
+#~ msgstr ""
+#~ "新しい<a href=\"{favorite_url}\">ブックマーク</a>{favorite_count}件、<a "
+#~ "href=\"{comment_url}\">コメント</a>{comment_count}件がありました。"
+
+#~ msgid "새로운 <a href=\"{url}\">팔로워</a>가 {count}명 있습니다."
+#~ msgstr "新しい<a href=\"{url}\">フォロワー</a>さんが{count}人います。"
+
+#~ msgid "수정"
+#~ msgstr "修正"
+
+#~ msgid "아틀리에 설정"
+#~ msgstr "アトリエ設定"
+
+#~ msgid "애니메이션"
+#~ msgstr "アニメーション"
+
+#~ msgid "없음"
+#~ msgstr "無し"
+
+#~ msgid "여러 장"
+#~ msgstr "複数枚"
+
+#~ msgid "연주해보았다"
+#~ msgstr "弾いてみた"
+
+#~ msgid "열기"
+#~ msgstr "オープン"
+
+#~ msgid "오래된 인터넷 익스플로러를 사용하고 있습니다."
+#~ msgstr "古いバージョンのインターネットエクスプローラーを使用しています。"
+
+#~ msgid "월간"
+#~ msgstr "月刊"
+
+#~ msgid "일간"
+#~ msgstr "日刊"
+
+#~ msgid "일러스트"
+#~ msgstr "イラスト"
+
+#~ msgid "작업 슬롯"
+#~ msgstr "作業スロット"
+
+#~ msgid "작품을 처리하는 중입니다. 완료되면 바로 업로드됩니다."
+#~ msgstr "作品を処理しています。完了しだいアップロードされます。"
+
+#~ msgid "작품이 정상적으로 재생되지 않을 수 있습니다."
+#~ msgstr "作品が正常に再生されない場合もあります。"
+
+#~ msgid "정렬"
+#~ msgstr "整列"
+
+#~ msgid "정말 찜을 취소할까요?"
+#~ msgstr "本当にブックマークをキャンセルしますか？"
+
+#~ msgid "정말 찜할까요?"
+#~ msgstr "本当にブックマークしますか？"
+
+#~ msgid "제조사"
+#~ msgstr "メーカー"
+
+#~ msgid "조리개"
+#~ msgstr "Fナンバー"
+
+#~ msgid "조회수"
+#~ msgstr "ヒット"
+
+#~ msgid "찜"
+#~ msgstr "ブックマーク"
+
+#~ msgid "찜 취소"
+#~ msgstr "ブックマークキャンセル"
+
+#~ msgid "찜이 없습니다."
+#~ msgstr "ブックマークがありません。"
+
+#~ msgid "찜하기"
+#~ msgstr "ブックマーク"
+
+#~ msgid "찜한 사람"
+#~ msgstr "ブックマークした人"
+
+#~ msgid "찜한 사람이 없습니다."
+#~ msgstr "ブックマークした人はありません。"
+
+#~ msgid "초점거리"
+#~ msgstr "焦点距離"
+
+#~ msgid "최신 버전의 브라우저를 설치하여 아트리를 쾌적하게 이용해보세요!"
+#~ msgstr "最新バージョンのブラウザでアトリをもっと快適にご利用してみてください！"
+
+#~ msgid "추천"
+#~ msgstr ""
+
+#~ msgid "추천 아틀리에 보기"
+#~ msgstr "おすすめアトリエを見る"
+
+#~ msgid "춤춰보았다"
+#~ msgstr "踊ってみた"
+
+#~ msgid "캘리그래피"
+#~ msgstr "カリグラフィー"
+
+#~ msgid "커미션 문의"
+#~ msgstr "コミッションお問い合わせ"
+
+#~ msgid "커미션 주소"
+#~ msgstr "コミッションアドレス"
+
+#~ msgid "태그 변경이 제한되어 있습니다."
+#~ msgstr "タグの編集がロックされています。"
+
+#~ msgid "태그가 없습니다."
+#~ msgstr "タグがありません。"
+
+#~ msgid "태그를 추가하면 사람들이 당신의 포스트를 발견하기 쉬워집니다."
+#~ msgstr ""
+
+#~ msgid "튀김"
+#~ msgstr ""
+
+#~ msgid "팔로우 중인 아틀리에"
+#~ msgstr ""
+
+#~ msgid "팔로우 중인 태그"
+#~ msgstr ""
+
+#~ msgid "필수"
+#~ msgstr "必須"
+
+#~ msgid "필터"
+#~ msgstr "フィルタ"
+
+#~ msgid "현재 섹션에서 검색"
+#~ msgstr "現在セクションで検索"
+
+#~ msgid "현재 아틀리에에서 검색"
+#~ msgstr "現在アトリエで検索"
+
+#~ msgid "현재 페이지"
+#~ msgstr "現在ページ"
 
