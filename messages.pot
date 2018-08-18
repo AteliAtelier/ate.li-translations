@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-08-15 01:03+0900\n"
+"POT-Creation-Date: 2018-08-19 04:31+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -47,9 +47,6 @@ msgstr ""
 msgid "#아트리 '{title}' 업로드! {url}"
 msgstr ""
 
-msgid "<a href=\"{url}\">{name}</a>님이 <a href=\"{webclap_url}\">웹 박수</a>에 답장했습니다."
-msgstr ""
-
 msgid ""
 "<p>안녕하세요. 아트리입니다.</p>\n"
 "<p><a href=\"{url}\">여기</a>를 클릭하시면 비밀번호를 재설정하실 수 있습니다.</p>"
@@ -67,9 +64,6 @@ msgid "English (영어)"
 msgstr ""
 
 msgid "Hello! 아트리"
-msgstr ""
-
-msgid "JPEG, PNG, GIF 형식으로 올려주세요."
 msgstr ""
 
 msgid "[아트리] 비밀번호 재설정"
@@ -162,6 +156,9 @@ msgstr ""
 msgid "검색 키워드"
 msgstr ""
 
+msgid "계정"
+msgstr ""
+
 msgid "계정 연동"
 msgstr ""
 
@@ -178,9 +175,6 @@ msgid "공개된 정보가 없어요…"
 msgstr ""
 
 msgid "공유"
-msgstr ""
-
-msgid "공통"
 msgstr ""
 
 msgid "과들루프"
@@ -223,9 +217,6 @@ msgid "그린란드"
 msgstr ""
 
 msgid "그림"
-msgstr ""
-
-msgid "그림 커미션"
 msgstr ""
 
 msgid "기니"
@@ -274,6 +265,9 @@ msgid "내 소식만"
 msgstr ""
 
 msgid "내 아틀리에의 좋아요 메뉴를 숨기고 좋아한 사람 목록에서 표시하지 않습니다."
+msgstr ""
+
+msgid "내가 남긴 웹 박수에 답장이 달렸어요."
 msgstr ""
 
 msgid "내용"
@@ -363,9 +357,6 @@ msgstr ""
 msgid "독일"
 msgstr ""
 
-msgid "동시 진행 작업 수, 의뢰 비용, 저작권 귀속 및 상업적 이용 가능 여부"
-msgstr ""
-
 msgid "동영상"
 msgstr ""
 
@@ -399,9 +390,6 @@ msgstr ""
 msgid "러시아"
 msgstr ""
 
-msgid "런타임, 장르 제한, 보컬 정보 등"
-msgstr ""
-
 msgid "레바논"
 msgstr ""
 
@@ -415,9 +403,6 @@ msgid "로그아웃"
 msgstr ""
 
 msgid "로그인"
-msgstr ""
-
-msgid "로그인 / 회원가입"
 msgstr ""
 
 msgid "로그인이 필요합니다."
@@ -621,9 +606,6 @@ msgstr ""
 msgid "복사"
 msgstr ""
 
-msgid "본체/렌즈 기종, 스튜디오 정보 등"
-msgstr ""
-
 msgid "볼리비아"
 msgstr ""
 
@@ -708,7 +690,7 @@ msgstr ""
 msgid "상투메 프린시페"
 msgstr ""
 
-msgid "새로운 <a href=\"{url}\">웹 박수</a>가 {count}개 있습니다."
+msgid "새로운 웹 박수가 있습니다."
 msgstr ""
 
 msgid "생마르탱"
@@ -777,6 +759,9 @@ msgstr ""
 msgid "수리남"
 msgstr ""
 
+msgid "수정"
+msgstr ""
+
 msgid "스리랑카"
 msgstr ""
 
@@ -819,9 +804,6 @@ msgstr ""
 msgid "싱가포르"
 msgstr ""
 
-msgid "쓰기"
-msgstr ""
-
 msgid "아랍에미리트"
 msgstr ""
 
@@ -856,9 +838,6 @@ msgid "아일랜드"
 msgstr ""
 
 msgid "아제르바이잔"
-msgstr ""
-
-msgid "아직 응답되지 않았습니다."
 msgstr ""
 
 msgid "아쿠아마린"
@@ -933,9 +912,6 @@ msgstr ""
 msgid "업로드"
 msgstr ""
 
-msgid "업로드 상태"
-msgstr ""
-
 msgid "업로드 전에 꼭 확인해주세요!"
 msgstr ""
 
@@ -961,6 +937,9 @@ msgid "여기를 클릭하거나 파일을 내려놓으세요."
 msgstr ""
 
 msgid "여성"
+msgstr ""
+
+msgid "연결"
 msgstr ""
 
 msgid "연도 공개"
@@ -1041,10 +1020,10 @@ msgstr ""
 msgid "웹 박수"
 msgstr ""
 
-msgid "웹 박수 답장"
+msgid "웹 박수 기능은 곧 종료될 예정입니다. 자세한 사항은 공식 블로그를 확인하세요."
 msgstr ""
 
-msgid "웹 박수의 내용, 응원한 사용자는 아틀리에 구성원만 확인할 수 있습니다."
+msgid "웹 박수 답장"
 msgstr ""
 
 msgid "음악"
@@ -1054,15 +1033,6 @@ msgid "음악 커미션"
 msgstr ""
 
 msgid "음악이나 동영상이 {limit}보다 길면 잘릴 수 있어요."
-msgstr ""
-
-msgid "응답"
-msgstr ""
-
-msgid "응답 내용은 모든 사용자에게 공개됩니다!"
-msgstr ""
-
-msgid "응답까지 같이 삭제됩니다!"
 msgstr ""
 
 msgid "응원 내용은 다른 사람이 볼 수 없습니다."
@@ -1152,6 +1122,12 @@ msgstr ""
 msgid "인증되지 않았습니다."
 msgstr ""
 
+msgid "일러스트"
+msgstr ""
+
+msgid "일러스트 커미션"
+msgstr ""
+
 msgid "일본"
 msgstr ""
 
@@ -1182,13 +1158,7 @@ msgstr ""
 msgid "작성 중인 포스트를 먼저 정리해주세요."
 msgstr ""
 
-msgid "작업 슬롯 관리를 사용하지 않으려면 0을 입력해주세요."
-msgstr ""
-
 msgid "작품"
-msgstr ""
-
-msgid "작품 감상 페이지에서 편집할 수 있습니다."
 msgstr ""
 
 msgid "작품 주소"
@@ -1341,9 +1311,6 @@ msgstr ""
 msgid "최근 작품"
 msgstr ""
 
-msgid "최대 슬롯"
-msgstr ""
-
 msgid "추가"
 msgstr ""
 
@@ -1395,9 +1362,6 @@ msgstr ""
 msgid "커버 이미지"
 msgstr ""
 
-msgid "커버 이미지 삭제"
-msgstr ""
-
 msgid "커버 이미지를 변경할 수 없습니다: {reason}"
 msgstr ""
 
@@ -1446,9 +1410,6 @@ msgstr ""
 msgid "퀴라소"
 msgstr ""
 
-msgid "크기, 해상도, 색상 모드, 배경 작업 여부, 제약 사항 등"
-msgstr ""
-
 msgid "크로아티아"
 msgstr ""
 
@@ -1485,6 +1446,9 @@ msgstr ""
 msgid "태그"
 msgstr ""
 
+msgid "태그 변경이 제한되어 있습니다."
+msgstr ""
+
 msgid "태그 아이디는 공식 한글명과 동일해야 합니다."
 msgstr ""
 
@@ -1497,7 +1461,7 @@ msgstr ""
 msgid "태그 편집 제한"
 msgstr ""
 
-msgid "태그는 최대 30자로 총 5개 입력할 수 있습니다. 나중에 더 추가하거나 편집할 수 있습니다."
+msgid "태그가 없습니다."
 msgstr ""
 
 msgid "태그를 더 이상 추가할 수 없습니다."
@@ -1546,9 +1510,6 @@ msgid "트위터 공개"
 msgstr ""
 
 msgid "트위터 공유"
-msgstr ""
-
-msgid "트위터, 홈페이지, 이메일 주소가 자동으로 표시됩니다."
 msgstr ""
 
 msgid "트위터로 공유"
@@ -1665,9 +1626,6 @@ msgstr ""
 msgid "프로필 이미지"
 msgstr ""
 
-msgid "프로필 이미지 삭제"
-msgstr ""
-
 msgid "피지"
 msgstr ""
 
@@ -1689,9 +1647,6 @@ msgstr ""
 msgid "함께하는 창작, 아트리!"
 msgstr ""
 
-msgid "해상도, 런타임, 장르 제한, 제약 사항 등"
-msgstr ""
-
 msgid "허드 맥도널드 제도"
 msgstr ""
 
@@ -1701,10 +1656,10 @@ msgstr ""
 msgid "헤더 이미지"
 msgstr ""
 
-msgid "헤더 이미지 삭제"
+msgid "현재 이미지 삭제"
 msgstr ""
 
-msgid "현재​ 슬롯"
+msgid "현재 점검 중인 기능입니다. 나중에 다시 시도해 주세요."
 msgstr ""
 
 msgid "혈석"
@@ -1738,12 +1693,6 @@ msgid "활동 내역 삭제가 처리되는데 시간이 소요될 수 있습니
 msgstr ""
 
 msgid "황수정"
-msgstr ""
-
-msgid "회원"
-msgstr ""
-
-msgid "회원 설정"
 msgstr ""
 
 msgid "회원 탈퇴"
