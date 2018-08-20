@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-08-19 04:31+0900\n"
+"POT-Creation-Date: 2018-08-21 00:55+0900\n"
 "PO-Revision-Date: 2018-08-19 04:31+0900\n"
 "Last-Translator: \n"
 "Language: ja\n"
@@ -26,9 +26,6 @@ msgstr "「{name}」タグは既に存在しております。"
 
 msgid "\"{name}\" 태그는 추가할 수 없습니다."
 msgstr "「{name}」タグは追加できません。"
-
-msgid "\"{name}\" 태그를 삭제할까요?"
-msgstr "「{name}」タグを本当に削除しますか？"
 
 msgid "\"{title}\" 포스트를 {like_count}명이 좋아했어요."
 msgstr "「{title}」エントリーを{like_count}人がいいねしました。"
@@ -87,7 +84,7 @@ msgid "{name} 님의 프로필"
 msgstr "{name}さんのプロフィール"
 
 msgid "{name}님이 \"{title}\" 포스트를 갱신했어요."
-msgstr "{name}さんがエントリー \"{title}\"を更新しました。"
+msgstr "{name}さんがエントリー 「{title}」を更新しました。"
 
 msgid "{name}의 아틀리에"
 msgstr "{name}のアトリエ"
@@ -311,7 +308,7 @@ msgstr "ニジェール"
 msgid "니카라과"
 msgstr "ニカラグア"
 
-msgid "다른 사람의 작품을 허락 없이 퍼오거나 편집하면 안 돼요!"
+msgid "다른 사람의 작품을 허락 없이 퍼오거나 편집하면 안돼요!"
 msgstr "他人の作品の原本、および編集本を許諾なしでアップロードする行為は禁じられております！"
 
 msgid "다른 사람이 태그를 편집할 수 없게 설정합니다."
@@ -388,9 +385,6 @@ msgstr "ラトビア"
 
 msgid "랭킹"
 msgstr "ランキング"
-
-msgid "랭킹 집계 중입니다. 잠시 후 다시 확인해주세요."
-msgstr "ランキング集計中です。しばらくしてからご確認してください。"
 
 msgid "러시아"
 msgstr "ロシア連邦"
@@ -536,8 +530,14 @@ msgstr "合衆国領有小離島"
 msgid "미국령 버진아일랜드"
 msgstr "アメリカ領ヴァージン諸島"
 
+msgid "미디어"
+msgstr "メディア"
+
 msgid "미디어 처리 중 오류가 발생했습니다."
 msgstr "メディアの処理中にエラーが発生しました。"
+
+msgid "미디어 파일이 {limit}보다 길면 잘릴 수 있어요."
+msgstr "メディアが{limit}より長い場合、切り捨てられることがあります。"
 
 msgid "미얀마"
 msgstr "ミャンマー"
@@ -764,9 +764,6 @@ msgstr "スーダン"
 msgid "수리남"
 msgstr "スリナム"
 
-msgid "수정"
-msgstr "修正"
-
 msgid "스리랑카"
 msgstr "スリランカ"
 
@@ -923,8 +920,8 @@ msgstr "言語が変更されました。"
 msgid "업로드"
 msgstr "アップロード"
 
-msgid "업로드 전에 꼭 확인해주세요!"
-msgstr "アップロード前に必ずご確認下さい！"
+msgid "업로드 가능한 파일"
+msgstr "アップロード可能ファイル"
 
 msgid "에리트레아"
 msgstr "エリトリア"
@@ -1043,9 +1040,6 @@ msgstr "音楽"
 msgid "음악 커미션"
 msgstr "音楽コミッション"
 
-msgid "음악이나 동영상이 {limit}보다 길면 잘릴 수 있어요."
-msgstr "音楽や動画が{limit}より長い場合、切り捨てられることがあります。"
-
 msgid "응원 내용은 다른 사람이 볼 수 없습니다."
 msgstr "web拍手の内容は、他人は見れません。"
 
@@ -1091,6 +1085,9 @@ msgstr "既に使用中です。"
 msgid "이미 인증했거나 유효기간이 지났습니다."
 msgstr "既に認証したか、認証メールの有効期限が過ぎました。"
 
+msgid "이미지"
+msgstr "画像"
+
 msgid "이미지 처리 중 오류가 발생했습니다."
 msgstr "画像処理中にエラーが発生しました。"
 
@@ -1105,9 +1102,6 @@ msgstr "以前に"
 
 msgid "이전 페이지로 돌아가기"
 msgstr "前のページに戻る"
-
-msgid "이제 놓으세요!"
-msgstr "ドロップしてください！"
 
 msgid "이집트"
 msgstr "エジプト"
@@ -1262,6 +1256,9 @@ msgstr "いいねしたエントリーがありません。"
 msgid "죄송합니다. 이 컨텐츠는 한국어로 번역 중입니다."
 msgstr "ご迷惑をおかけして、申し訳ありません。このコンテンツは、日本語に翻訳しています。"
 
+msgid "죄송합니다. 현재 파일 수정은 불가능합니다. 다시 업로드해주세요."
+msgstr ""
+
 msgid "주소"
 msgstr "アドレス"
 
@@ -1318,6 +1315,9 @@ msgstr "このファイルは変換中です。しばらくお待ちください
 
 msgid "체코"
 msgstr "チェコ"
+
+msgid "최근 업로드"
+msgstr "最新アップロードのみ"
 
 msgid "최근 작품"
 msgstr "最新作品"
@@ -1457,8 +1457,8 @@ msgstr "タイ"
 msgid "태그"
 msgstr "タグ"
 
-msgid "태그 변경이 제한되어 있습니다."
-msgstr "タグの編集がロックされています。"
+msgid "태그 보기"
+msgstr "タグを見る"
 
 msgid "태그 아이디는 공식 한글명과 동일해야 합니다."
 msgstr "タグIDは、公式作品名と同じくしてください。"
@@ -1471,9 +1471,6 @@ msgstr "タグ名"
 
 msgid "태그 편집 제한"
 msgstr "タグをロック"
-
-msgid "태그가 없습니다."
-msgstr "タグがありません。"
 
 msgid "태그를 더 이상 추가할 수 없습니다."
 msgstr "タグを追加できません。"
@@ -1535,8 +1532,8 @@ msgstr "パナマ"
 msgid "파라과이"
 msgstr "パラグアイ"
 
-msgid "파일 크기는 {mb}MB까지 올릴 수 있어요."
-msgstr "ファイルサイズは{mb} MBまでアップロード‘できます。"
+msgid "파일"
+msgstr "ファイル"
 
 msgid "파일을 찾을 수 없습니다."
 msgstr "ファイルが見つかりません。"
@@ -2101,4 +2098,28 @@ msgstr "会員登録"
 
 #~ msgid "회원 설정"
 #~ msgstr "アカウント設定"
+
+#~ msgid "\"{name}\" 태그를 삭제할까요?"
+#~ msgstr "「{name}」タグを本当に削除しますか？"
+
+#~ msgid "랭킹 집계 중입니다. 잠시 후 다시 확인해주세요."
+#~ msgstr "ランキング集計中です。しばらくしてからご確認してください。"
+
+#~ msgid "수정"
+#~ msgstr "修正"
+
+#~ msgid "업로드 전에 꼭 확인해주세요!"
+#~ msgstr "アップロード前に必ずご確認下さい！"
+
+#~ msgid "이제 놓으세요!"
+#~ msgstr "ドロップしてください！"
+
+#~ msgid "태그 변경이 제한되어 있습니다."
+#~ msgstr "タグの編集がロックされています。"
+
+#~ msgid "태그가 없습니다."
+#~ msgstr "タグがありません。"
+
+#~ msgid "파일 크기는 {mb}MB까지 올릴 수 있어요."
+#~ msgstr "ファイルサイズは{mb} MBまでアップロード‘できます。"
 
