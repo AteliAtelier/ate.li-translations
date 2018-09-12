@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-08-21 00:55+0900\n"
+"POT-Creation-Date: 2018-09-12 20:38+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -58,9 +58,6 @@ msgid "@AteliKR"
 msgstr ""
 
 msgid "English (영어)"
-msgstr ""
-
-msgid "Hello! 아트리"
 msgstr ""
 
 msgid "[아트리] 비밀번호 재설정"
@@ -195,6 +192,9 @@ msgstr ""
 msgid "괌"
 msgstr ""
 
+msgid "광고가 차단되었습니다."
+msgstr ""
+
 msgid "괜찮아요, 그냥 올릴게요."
 msgstr ""
 
@@ -211,9 +211,6 @@ msgid "그리스"
 msgstr ""
 
 msgid "그린란드"
-msgstr ""
-
-msgid "그림"
 msgstr ""
 
 msgid "기니"
@@ -690,6 +687,9 @@ msgstr ""
 msgid "상투메 프린시페"
 msgstr ""
 
+msgid "새로고침"
+msgstr ""
+
 msgid "새로운 웹 박수가 있습니다."
 msgstr ""
 
@@ -718,9 +718,6 @@ msgid "서사하라"
 msgstr ""
 
 msgid "석류석"
-msgstr ""
-
-msgid "설정"
 msgstr ""
 
 msgid "성별"
@@ -906,6 +903,9 @@ msgstr ""
 msgid "언어가 변경되었습니다."
 msgstr ""
 
+msgid "언어를 변경할 수 있습니다."
+msgstr ""
+
 msgid "업로드"
 msgstr ""
 
@@ -1021,6 +1021,9 @@ msgid "웹 박수 기능은 곧 종료될 예정입니다. 자세한 사항은 �
 msgstr ""
 
 msgid "웹 박수 답장"
+msgstr ""
+
+msgid "위키피디아"
 msgstr ""
 
 msgid "음악"
@@ -1245,9 +1248,6 @@ msgstr ""
 msgid "죄송합니다. 이 컨텐츠는 한국어로 번역 중입니다."
 msgstr ""
 
-msgid "죄송합니다. 현재 파일 수정은 불가능합니다. 다시 업로드해주세요."
-msgstr ""
-
 msgid "주소"
 msgstr ""
 
@@ -1351,12 +1351,6 @@ msgid "캐나다"
 msgstr ""
 
 msgid "커미션"
-msgstr ""
-
-msgid "커미션 정보 등록"
-msgstr ""
-
-msgid "커미션이 없습니다."
 msgstr ""
 
 msgid "커버 이미지"
@@ -1654,9 +1648,6 @@ msgid "헤더 이미지"
 msgstr ""
 
 msgid "현재 이미지 삭제"
-msgstr ""
-
-msgid "현재 점검 중인 기능입니다. 나중에 다시 시도해 주세요."
 msgstr ""
 
 msgid "혈석"

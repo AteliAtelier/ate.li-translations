@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-08-15 01:03+0900\n"
-"PO-Revision-Date: 2017-05-08 06:44+0900\n"
+"POT-Creation-Date: 2018-09-12 20:38+0900\n"
+"PO-Revision-Date: 2018-09-12 20:37+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Generated-By: Babel 2.6.0\n"
 
 msgid "\"{body}\" 댓글을 {like_count}명이 좋아했어요."
-msgstr ""
+msgstr "{like_count} people liked \"{body}\"."
 
 msgid "\"{name}\" 태그는 이미 존재합니다."
 msgstr "\"{name}\" tag already exists."
@@ -27,17 +27,14 @@ msgstr "\"{name}\" tag already exists."
 msgid "\"{name}\" 태그는 추가할 수 없습니다."
 msgstr "\"{name}\" tag cannot be added."
 
-msgid "\"{name}\" 태그를 삭제할까요?"
-msgstr "Delete the tag \"{name}\"?"
-
 msgid "\"{title}\" 포스트를 {like_count}명이 좋아했어요."
-msgstr ""
+msgstr "{like_count} people liked \"{title}\""
 
 msgid "\"{title}\" 포스트에 댓글 {comment_count}개가 달렸고 {like_count}명이 좋아했어요."
-msgstr ""
+msgstr "You have {comment_count} comment(s) and {like_count} like(s)."
 
 msgid "\"{title}\" 포스트에 댓글 {comment_count}개가 달렸습니다."
-msgstr ""
+msgstr "There are {comment_count} comments on the \"{title}\" post."
 
 msgid "#아트리"
 msgstr "#Ateli"
@@ -47,11 +44,6 @@ msgstr "#Ateli #Commission '{title} updated! {url}"
 
 msgid "#아트리 '{title}' 업로드! {url}"
 msgstr "#Ateli '{title}' uploaded! {url}"
-
-msgid "<a href=\"{url}\">{name}</a>님이 <a href=\"{webclap_url}\">웹 박수</a>에 답장했습니다."
-msgstr ""
-"<a href=\"{url}\">{name}</a> replied to your <a "
-"href=\"{webclap_url}\">Web clap</a>."
 
 msgid ""
 "<p>안녕하세요. 아트리입니다.</p>\n"
@@ -73,12 +65,6 @@ msgstr "@AteliAtelier"
 msgid "English (영어)"
 msgstr "English"
 
-msgid "Hello! 아트리"
-msgstr "Hello! Ateli"
-
-msgid "JPEG, PNG, GIF 형식으로 올려주세요."
-msgstr ""
-
 msgid "[아트리] 비밀번호 재설정"
 msgstr "[Ateli] Reset Password"
 
@@ -92,49 +78,49 @@ msgid "{min}자 이상, {max}자 이하로 입력하세요."
 msgstr "Enter more than {min}, but less than {max} characters."
 
 msgid "{name} 님의 프로필"
-msgstr ""
+msgstr "{name}'s Profile"
 
 msgid "{name}님이 \"{title}\" 포스트를 갱신했어요."
-msgstr ""
+msgstr "{name} updated \"{title}\""
 
 msgid "{name}의 아틀리에"
 msgstr "{name}'s Atelier"
 
 msgid "♈ 양자리"
-msgstr ""
+msgstr "♈ Aries"
 
 msgid "♉ 황소자리"
-msgstr ""
+msgstr "♉ Taurus"
 
 msgid "♊ 쌍둥이자리"
-msgstr ""
+msgstr "♊ Gemini"
 
 msgid "♋ 게자리"
-msgstr ""
+msgstr "♋ Cancer"
 
 msgid "♌ 사자자리"
-msgstr ""
+msgstr "♌ Leo"
 
 msgid "♍ 처녀자리"
-msgstr ""
+msgstr "♍ Virgo"
 
 msgid "♎ 천칭자리"
-msgstr ""
+msgstr "♎ Libra"
 
 msgid "♏ 전갈자리"
-msgstr ""
+msgstr "♏ Scorpio"
 
 msgid "♐ 사수자리"
-msgstr ""
+msgstr "♐ Sagittarius"
 
 msgid "♑ 염소자리"
-msgstr ""
+msgstr "♑ Capricorn"
 
 msgid "♒ 물병자리"
-msgstr ""
+msgstr "♒ Aquarius"
 
 msgid "♓ 물고기자리"
-msgstr ""
+msgstr "♓ Pisces"
 
 msgid "日本語 (일본어)"
 msgstr "日本語 (Japanese)"
@@ -152,7 +138,7 @@ msgid "감비아"
 msgstr "Gambia"
 
 msgid "개인정보처리방침"
-msgstr ""
+msgstr "Privacy Policy"
 
 msgid "건지 섬"
 msgstr "Guernsey"
@@ -165,9 +151,14 @@ msgstr "Your search brought no results."
 
 msgid "검색 엔진이 보여주는 데이터는 아트리가 삭제할 수 없습니다. 시간이 지나도 삭제되지 않을 경우 해당 업체에 문의하시기 바랍니다."
 msgstr ""
+"The data shown by the search engine cannot be deleted by Ateli. If it "
+"does not go away over time, please contact the vendor."
 
 msgid "검색 키워드"
 msgstr "Search keywords"
+
+msgid "계정"
+msgstr "Account"
 
 msgid "계정 연동"
 msgstr "Link with account"
@@ -179,16 +170,13 @@ msgid "계정이 다른 아트리 계정과 연동되어 있습니다!"
 msgstr "This account is linked with another Ateli account!"
 
 msgid "공개"
-msgstr ""
+msgstr "Public"
 
 msgid "공개된 정보가 없어요…"
-msgstr ""
+msgstr "No public information"
 
 msgid "공유"
 msgstr "Share"
-
-msgid "공통"
-msgstr "Common"
 
 msgid "과들루프"
 msgstr "Guadeloupe"
@@ -197,7 +185,7 @@ msgid "과테말라"
 msgstr "Guatemala"
 
 msgid "관리"
-msgstr ""
+msgstr "Admin"
 
 msgid "관리자"
 msgstr "Administrator"
@@ -211,8 +199,11 @@ msgstr "Interests"
 msgid "괌"
 msgstr "Guam"
 
+msgid "광고가 차단되었습니다."
+msgstr "Ads have been blocked."
+
 msgid "괜찮아요, 그냥 올릴게요."
-msgstr ""
+msgstr "No, thanks. I'll just upload it."
 
 msgid "구글+ 공유"
 msgstr "Share to Google+"
@@ -229,12 +220,6 @@ msgstr "Greece"
 msgid "그린란드"
 msgstr "Greenland"
 
-msgid "그림"
-msgstr "Illustration"
-
-msgid "그림 커미션"
-msgstr "Illustration Commission"
-
 msgid "기니"
 msgstr "Guinea"
 
@@ -245,7 +230,7 @@ msgid "기본 미리보기 대신 표시할 이미지를 업로드할 수 있습
 msgstr "You can upload another image to display instead of the default thumbnail."
 
 msgid "기타"
-msgstr ""
+msgstr "Other"
 
 msgid "꼭 입력하셔야 합니다."
 msgstr "Required"
@@ -281,13 +266,16 @@ msgid "내 소식만"
 msgstr "My Activity"
 
 msgid "내 아틀리에의 좋아요 메뉴를 숨기고 좋아한 사람 목록에서 표시하지 않습니다."
-msgstr ""
+msgstr "Hide the likes of my Atelier menu. Do not show me in the likes list."
+
+msgid "내가 남긴 웹 박수에 답장이 달렸어요."
+msgstr "There is a new reply in Web Clap."
 
 msgid "내용"
 msgstr "Content"
 
 msgid "내용을 입력해주세요."
-msgstr "Input content here"
+msgstr "Input content here."
 
 msgid "네덜란드"
 msgstr "Netherlands"
@@ -319,8 +307,8 @@ msgstr "Niger"
 msgid "니카라과"
 msgstr "Nicaragua"
 
-msgid "다른 사람의 작품을 허락 없이 퍼오거나 편집하면 안 돼요!"
-msgstr ""
+msgid "다른 사람의 작품을 허락 없이 퍼오거나 편집하면 안돼요!"
+msgstr "Do not copy someone else's work without permission!"
 
 msgid "다른 사람이 태그를 편집할 수 없게 설정합니다."
 msgstr "Set so that other people cannot edit the tags."
@@ -332,16 +320,18 @@ msgid "다시 보내기"
 msgstr "Send again"
 
 msgid "다음"
-msgstr ""
+msgstr "Next"
 
 msgid "다이아몬드"
-msgstr ""
+msgstr "Diamond"
 
 msgid "닫기"
-msgstr ""
+msgstr "Close"
 
 msgid "당신의 취향은 안전해요… 좋아한 포스트를 공개하려면 설정을 변경하세요."
 msgstr ""
+"Your tastes are kept secret ... Change your settings to make your "
+"favorite posts public."
 
 msgid "대만"
 msgstr "Taiwan"
@@ -353,7 +343,7 @@ msgid "댓글"
 msgstr "Comments"
 
 msgid "댓글 활동"
-msgstr ""
+msgstr "Comment Activity"
 
 msgid "더 보기"
 msgstr "View more"
@@ -369,11 +359,6 @@ msgstr "Dominica"
 
 msgid "독일"
 msgstr "Germany"
-
-msgid "동시 진행 작업 수, 의뢰 비용, 저작권 귀속 및 상업적 이용 가능 여부"
-msgstr ""
-"The number of simultaneous ongoing operations, commission fee, copyright "
-"attribution and commercial availability."
 
 msgid "동영상"
 msgstr "Video"
@@ -402,14 +387,8 @@ msgstr "Latvia"
 msgid "랭킹"
 msgstr "Rankings"
 
-msgid "랭킹 집계 중입니다. 잠시 후 다시 확인해주세요."
-msgstr "Currently summing up the rankings. Please check again later."
-
 msgid "러시아"
 msgstr "Russian Federation"
-
-msgid "런타임, 장르 제한, 보컬 정보 등"
-msgstr "Runtime, genre restrictions, vocals information, etc."
 
 msgid "레바논"
 msgstr "Lebanon"
@@ -426,9 +405,6 @@ msgstr "Logout"
 msgid "로그인"
 msgstr "Login"
 
-msgid "로그인 / 회원가입"
-msgstr ""
-
 msgid "로그인이 필요합니다."
 msgstr "You must be logged in."
 
@@ -436,7 +412,7 @@ msgid "루마니아"
 msgstr "Romania"
 
 msgid "루비"
-msgstr ""
+msgstr "Ruby"
 
 msgid "룩셈부르크"
 msgstr "Luxembourg"
@@ -466,7 +442,7 @@ msgid "마요트"
 msgstr "Mayotte"
 
 msgid "마지막 편집:"
-msgstr ""
+msgstr "Last updated:"
 
 msgid "마카오"
 msgstr "Macao"
@@ -484,10 +460,10 @@ msgid "말리"
 msgstr "Mali"
 
 msgid "맞팔 중"
-msgstr ""
+msgstr "Followed each other"
 
 msgid "맞팔하기"
-msgstr ""
+msgstr "Follow back"
 
 msgid "맨 섬"
 msgstr "Isle of Man"
@@ -496,7 +472,7 @@ msgid "맨 위로 가기"
 msgstr "Back to top"
 
 msgid "메뉴"
-msgstr ""
+msgstr "Menu"
 
 msgid "멕시코"
 msgstr "Mexico"
@@ -555,8 +531,14 @@ msgstr "United States Minor Outlying Islands"
 msgid "미국령 버진아일랜드"
 msgstr "Virgin Islands (U.S.)"
 
+msgid "미디어"
+msgstr "Media"
+
 msgid "미디어 처리 중 오류가 발생했습니다."
 msgstr "Of the media processing error it has occurred."
+
+msgid "미디어 파일이 {limit}보다 길면 잘릴 수 있어요."
+msgstr "If the media file is longer than {limit}, it can be truncated."
 
 msgid "미얀마"
 msgstr "Myanmar"
@@ -610,16 +592,16 @@ msgid "변경을 원할 경우 입력하세요."
 msgstr "Please enter if you want to edit."
 
 msgid "별자리"
-msgstr ""
+msgstr "Zodiac Sign"
 
 msgid "별자리 표시"
-msgstr ""
+msgstr "Make public my zodiac sign"
 
 msgid "별칭"
 msgstr "Alias"
 
 msgid "보내기"
-msgstr ""
+msgstr "Send"
 
 msgid "보스니아 헤르체고비나"
 msgstr "Bosnia and Herzegovina"
@@ -628,10 +610,7 @@ msgid "보츠와나"
 msgstr "Botswana"
 
 msgid "복사"
-msgstr ""
-
-msgid "본체/렌즈 기종, 스튜디오 정보 등"
-msgstr "Camera/lens model, studio information, etc."
+msgstr "Copy"
 
 msgid "볼리비아"
 msgstr "Bolivia"
@@ -661,7 +640,7 @@ msgid "브루나이"
 msgstr "Brunei Darussalam"
 
 msgid "블로그"
-msgstr ""
+msgstr "Blog"
 
 msgid "비공개"
 msgstr "Private"
@@ -703,7 +682,7 @@ msgid "사진 커미션"
 msgstr "Photo Commission"
 
 msgid "사파이어"
-msgstr ""
+msgstr "Sapphire"
 
 msgid "삭제"
 msgstr "Delete"
@@ -717,8 +696,11 @@ msgstr "San Marino"
 msgid "상투메 프린시페"
 msgstr "Sao Tome and Principe"
 
-msgid "새로운 <a href=\"{url}\">웹 박수</a>가 {count}개 있습니다."
-msgstr "You have {count} new <a href=\"{url}\">web clap(s)</a>."
+msgid "새로고침"
+msgstr "Refresh"
+
+msgid "새로운 웹 박수가 있습니다."
+msgstr "You have new Web Clap."
 
 msgid "생마르탱"
 msgstr "Saint Martin"
@@ -727,7 +709,7 @@ msgid "생바르텔레미"
 msgstr "Saint Barthélemy"
 
 msgid "생일"
-msgstr ""
+msgstr "Birthday"
 
 msgid "생피에르 미클롱"
 msgstr "Saint Pierre and Miquelon"
@@ -740,15 +722,14 @@ msgstr "Un-linked account from the service."
 
 msgid "서비스 이용에 문제가 있거나 새롭게 원하는 기능이 있나요? 편하게 말씀해주세요."
 msgstr ""
+"Is there a problem with the service or a new feature? Please feel free to"
+" tell us."
 
 msgid "서사하라"
 msgstr "Western Sahara"
 
 msgid "석류석"
-msgstr ""
-
-msgid "설정"
-msgstr "Settings"
+msgstr "Garnet"
 
 msgid "성별"
 msgstr "Sex"
@@ -814,7 +795,7 @@ msgid "슬로베니아"
 msgstr "Slovenia"
 
 msgid "시간대"
-msgstr ""
+msgstr "Timezone"
 
 msgid "시리아"
 msgstr "Syrian Arab Republic"
@@ -828,14 +809,11 @@ msgstr "Sint Maarten (Dutch part)"
 msgid "싱가포르"
 msgstr "Singapore"
 
-msgid "쓰기"
-msgstr "Write"
-
 msgid "아랍에미리트"
 msgstr "United Arab Emirates"
 
 msgid "아래 문의 양식이 표시되지 않을 경우 이메일로 문의하실 수 있습니다."
-msgstr ""
+msgstr "If you do not see the contact form below, you can contact us by email."
 
 msgid "아루바"
 msgstr "Aruba"
@@ -867,11 +845,8 @@ msgstr "Ireland"
 msgid "아제르바이잔"
 msgstr "Azerbaijan"
 
-msgid "아직 응답되지 않았습니다."
-msgstr "It has not yet been responded."
-
 msgid "아쿠아마린"
-msgstr ""
+msgstr "Aquamarine"
 
 msgid "아트리"
 msgstr "Ateli"
@@ -924,7 +899,7 @@ msgid "알림"
 msgstr "Notifications"
 
 msgid "알림이 없습니다."
-msgstr ""
+msgstr "There is no notification."
 
 msgid "알바니아"
 msgstr "Albania"
@@ -942,25 +917,25 @@ msgid "앵귈라"
 msgstr "Anguilla"
 
 msgid "언어"
-msgstr ""
+msgstr "Language"
 
 msgid "언어가 변경되었습니다."
 msgstr "The language has been changed."
 
+msgid "언어를 변경할 수 있습니다."
+msgstr "You can change the language."
+
 msgid "업로드"
 msgstr "Upload"
 
-msgid "업로드 상태"
-msgstr "Upload status"
-
-msgid "업로드 전에 꼭 확인해주세요!"
-msgstr ""
+msgid "업로드 가능한 파일"
+msgstr "Uploadable files"
 
 msgid "에리트레아"
 msgstr "Eritrea"
 
 msgid "에메랄드"
-msgstr ""
+msgstr "Emerald"
 
 msgid "에스토니아"
 msgstr "Estonia"
@@ -975,13 +950,16 @@ msgid "엘살바도르"
 msgstr "El Salvador"
 
 msgid "여기를 클릭하거나 파일을 내려놓으세요."
-msgstr ""
+msgstr "Click here or drag the files here."
 
 msgid "여성"
 msgstr "Female"
 
+msgid "연결"
+msgstr "Connect"
+
 msgid "연도 공개"
-msgstr ""
+msgstr "Make public year"
 
 msgid "연동 끊기"
 msgstr "Un-link"
@@ -1013,7 +991,7 @@ msgid "오스트리아"
 msgstr "Austria"
 
 msgid "오팔"
-msgstr ""
+msgstr "Opal"
 
 msgid "온두라스"
 msgstr "Honduras"
@@ -1054,37 +1032,28 @@ msgid "우크라이나"
 msgstr "Ukraine"
 
 msgid "월-일 공개"
-msgstr ""
+msgstr "Make public month/day"
 
 msgid "월장석"
-msgstr ""
+msgstr "Moonstone"
 
 msgid "웹 박수"
 msgstr "Web clap"
 
+msgid "웹 박수 기능은 곧 종료될 예정입니다. 자세한 사항은 공식 블로그를 확인하세요."
+msgstr "Web clap will soon be over. See the official blog for details."
+
 msgid "웹 박수 답장"
 msgstr "Web clap reply"
 
-msgid "웹 박수의 내용, 응원한 사용자는 아틀리에 구성원만 확인할 수 있습니다."
-msgstr "The contents of the web clap can only be viewed by atelier members."
+msgid "위키피디아"
+msgstr "Wikipedia"
 
 msgid "음악"
 msgstr "Music"
 
 msgid "음악 커미션"
 msgstr "Music Commission"
-
-msgid "음악이나 동영상이 {limit}보다 길면 잘릴 수 있어요."
-msgstr ""
-
-msgid "응답"
-msgstr "Response"
-
-msgid "응답 내용은 모든 사용자에게 공개됩니다!"
-msgstr "Responses are visible to everyone!"
-
-msgid "응답까지 같이 삭제됩니다!"
-msgstr "The response will also be deleted!"
 
 msgid "응원 내용은 다른 사람이 볼 수 없습니다."
 msgstr "Web clap details cannot be viewed by others."
@@ -1102,10 +1071,10 @@ msgid "이름"
 msgstr "Name"
 
 msgid "이메일"
-msgstr ""
+msgstr "Email"
 
 msgid "이메일 공개"
-msgstr ""
+msgstr "Make public my email address"
 
 msgid "이메일 인증이 완료되었습니다."
 msgstr "E-mail verification complete."
@@ -1133,6 +1102,9 @@ msgstr "Already in use."
 msgid "이미 인증했거나 유효기간이 지났습니다."
 msgstr "The validity period has passed or it has already been verified."
 
+msgid "이미지"
+msgstr "Image"
+
 msgid "이미지 처리 중 오류가 발생했습니다."
 msgstr "An error occurred during image processing."
 
@@ -1140,16 +1112,13 @@ msgid "이스라엘"
 msgstr "Israel"
 
 msgid "이용약관"
-msgstr ""
+msgstr "Terms of Service"
 
 msgid "이전"
-msgstr ""
+msgstr "Previous"
 
 msgid "이전 페이지로 돌아가기"
 msgstr "Back to previous page"
-
-msgid "이제 놓으세요!"
-msgstr ""
 
 msgid "이집트"
 msgstr "Egypt"
@@ -1167,13 +1136,19 @@ msgid "인사말"
 msgstr "Greetings"
 
 msgid "인스타그램"
-msgstr ""
+msgstr "Instagram"
 
 msgid "인증되었습니다."
 msgstr "Has been verified."
 
 msgid "인증되지 않았습니다."
 msgstr "Has not been verified."
+
+msgid "일러스트"
+msgstr "Illustration"
+
+msgid "일러스트 커미션"
+msgstr "Illustration Commission"
 
 msgid "일본"
 msgstr "Japan"
@@ -1196,31 +1171,25 @@ msgid "자메이카"
 msgstr "Jamaica"
 
 msgid "자수정"
-msgstr ""
+msgstr "Amethyst"
 
 msgid "자주 쓰는 태그"
-msgstr ""
+msgstr "Frequently used tags"
 
 msgid "작성 중인 포스트가 있어요."
-msgstr ""
+msgstr "You have a draft."
 
 msgid "작성 중인 포스트를 먼저 정리해주세요."
-msgstr ""
-
-msgid "작업 슬롯 관리를 사용하지 않으려면 0을 입력해주세요."
-msgstr "If you do not want to use the slots, please enter \"0.\""
+msgstr "Finish the draft first."
 
 msgid "작품"
 msgstr "Work"
-
-msgid "작품 감상 페이지에서 편집할 수 있습니다."
-msgstr "You can also edit tags in the viewing page."
 
 msgid "작품 주소"
 msgstr "Link to work"
 
 msgid "작품/커미션 자동 트윗하기"
-msgstr "Auto-tweet your work and commissions."
+msgstr "Auto-tweet your post"
 
 msgid "잠비아"
 msgstr "Zambia"
@@ -1253,10 +1222,10 @@ msgid "정말 삭제할까요? (관리자 모드)"
 msgstr "Are you sure you want to delete this? (Administrator mode)"
 
 msgid "정말 좋아요 할까요?"
-msgstr ""
+msgstr "Are you sure you want to like?"
 
 msgid "정말 좋아요를 취소할까요?"
-msgstr ""
+msgstr "Are you sure you want to unlike?"
 
 msgid "정말 팔로우를 취소할까요?"
 msgstr "Are you sure you want to unfollow this person?"
@@ -1265,10 +1234,10 @@ msgid "정말 팔로우할까요?"
 msgstr "Are you sure you want to follow this person?"
 
 msgid "정말 홈에 고정을 취소할까요?"
-msgstr ""
+msgstr "Do you really want to cancel the pin on the home?"
 
 msgid "정말 홈에 고정할까요? 이전 포스트는 대체됩니다."
-msgstr ""
+msgstr "Do you really want to pin to home? Previous posts will be replaced."
 
 msgid "정상 상태"
 msgstr "Normal state"
@@ -1286,22 +1255,22 @@ msgid "조지아"
 msgstr "Georgia"
 
 msgid "좋아요"
-msgstr ""
+msgstr "Like"
 
 msgid "좋아요 비공개"
-msgstr ""
+msgstr "Make secret my likes"
 
 msgid "좋아요 취소"
-msgstr ""
+msgstr "Unlike"
 
 msgid "좋아한 사람"
-msgstr ""
+msgstr "People who liked this post"
 
 msgid "좋아한 포스트"
-msgstr ""
+msgstr "Liked post"
 
 msgid "좋아한 포스트가 없습니다."
-msgstr ""
+msgstr "There is no liked post."
 
 msgid "죄송합니다. 이 컨텐츠는 한국어로 번역 중입니다."
 msgstr ""
@@ -1327,7 +1296,7 @@ msgid "지원하지 않는 형식입니다."
 msgstr "The format is not supported."
 
 msgid "진주"
-msgstr ""
+msgstr "Pearl"
 
 msgid "짐바브웨"
 msgstr "Zimbabwe"
@@ -1357,19 +1326,19 @@ msgid "처리 취소됨"
 msgstr "Cancelled"
 
 msgid "첨부 파일에 문제가 있어 표시할 수 없습니다."
-msgstr ""
+msgstr "There is a problem with the attachment and cannot be displayed."
 
 msgid "첨부 파일을 처리 중입니다. 잠시 후 다시 시도해보세요."
-msgstr ""
+msgstr "The attachment is being processed. Please try again later."
 
 msgid "체코"
 msgstr "Czech Republic"
 
+msgid "최근 업로드"
+msgstr "Recent posts"
+
 msgid "최근 작품"
 msgstr "Recent Work"
-
-msgid "최대 슬롯"
-msgstr "Maximum slots"
 
 msgid "추가"
 msgstr "Add"
@@ -1413,17 +1382,8 @@ msgstr "Canada"
 msgid "커미션"
 msgstr "Commission"
 
-msgid "커미션 정보 등록"
-msgstr "Register a Commission"
-
-msgid "커미션이 없습니다."
-msgstr "There are no commissions."
-
 msgid "커버 이미지"
 msgstr "Cover image"
-
-msgid "커버 이미지 삭제"
-msgstr "Remove cover image"
 
 msgid "커버 이미지를 변경할 수 없습니다: {reason}"
 msgstr "Failed to change cover image: {reason}"
@@ -1473,9 +1433,6 @@ msgstr "Cook Islands"
 msgid "퀴라소"
 msgstr "Curaçao"
 
-msgid "크기, 해상도, 색상 모드, 배경 작업 여부, 제약 사항 등"
-msgstr "Size, resolution, color space, background, restrictions, etc."
-
 msgid "크로아티아"
 msgstr "Croatia"
 
@@ -1495,22 +1452,27 @@ msgid "타지키스탄"
 msgstr "Tajikistan"
 
 msgid "탄생석"
-msgstr ""
+msgstr "Birthstone"
 
 msgid "탄생석 표시"
-msgstr ""
+msgstr "Make public my birthstone"
 
 msgid "탄자니아"
 msgstr "Tanzania"
 
 msgid "탈퇴 후에는 어떠한 이유로도 계정을 복구할 수 없습니다."
 msgstr ""
+"After you leave, you will not be able to recover your account for any "
+"reason."
 
 msgid "태국"
 msgstr "Thailand"
 
 msgid "태그"
 msgstr "Tag"
+
+msgid "태그 보기"
+msgstr "See tags"
 
 msgid "태그 아이디는 공식 한글명과 동일해야 합니다."
 msgstr "ID tags should be the same as the official hangeulmyeong."
@@ -1524,16 +1486,11 @@ msgstr "Name of Tag"
 msgid "태그 편집 제한"
 msgstr "Tag Edit Restrictions"
 
-msgid "태그는 최대 30자로 총 5개 입력할 수 있습니다. 나중에 더 추가하거나 편집할 수 있습니다."
-msgstr ""
-"You can add up to 5 tags with up to 30 characters each. You can also add "
-"or edit them later."
-
 msgid "태그를 더 이상 추가할 수 없습니다."
 msgstr "You cannot add more tags."
 
 msgid "태그를 추가하면 포스트를 발견하기 쉬워집니다."
-msgstr ""
+msgstr "Adding tags makes it easier to discover your post."
 
 msgid "터크스 케이커스 제도"
 msgstr "Turks and Caicos Islands"
@@ -1542,7 +1499,7 @@ msgid "터키"
 msgstr "Turkey"
 
 msgid "터키석"
-msgstr ""
+msgstr "Turquoise"
 
 msgid "토고"
 msgstr "Togo"
@@ -1551,7 +1508,7 @@ msgid "토켈라우"
 msgstr "Tokelau"
 
 msgid "토파즈"
-msgstr ""
+msgstr "Topaz"
 
 msgid "통가"
 msgstr "Tonga"
@@ -1572,15 +1529,10 @@ msgid "트위터"
 msgstr "Twitter"
 
 msgid "트위터 공개"
-msgstr ""
+msgstr "Make public my Twitter"
 
 msgid "트위터 공유"
 msgstr "Share to Twitter"
-
-msgid "트위터, 홈페이지, 이메일 주소가 자동으로 표시됩니다."
-msgstr ""
-"Your Twitter account, website address, and e-mail address will be "
-"displayed automatically."
 
 msgid "트위터로 공유"
 msgstr "Share to Twitter"
@@ -1594,8 +1546,8 @@ msgstr "Panama"
 msgid "파라과이"
 msgstr "Paraguay"
 
-msgid "파일 크기는 {mb}MB까지 올릴 수 있어요."
-msgstr ""
+msgid "파일"
+msgstr "File"
 
 msgid "파일을 찾을 수 없습니다."
 msgstr "File not found."
@@ -1619,13 +1571,13 @@ msgid "팔로우"
 msgstr "Follow"
 
 msgid "팔로우 추천"
-msgstr ""
+msgstr "Follow suggestions"
 
 msgid "팔로워"
 msgstr "Followers"
 
 msgid "팔로워가 {count}명 늘었어요."
-msgstr ""
+msgstr "You have {count} new follower(s)."
 
 msgid "팔로워가 없습니다."
 msgstr "You do not have any followers."
@@ -1634,7 +1586,7 @@ msgid "팔로잉"
 msgstr "Following"
 
 msgid "팔로잉이 없습니다."
-msgstr ""
+msgstr "You are not following anyone."
 
 msgid "페로 제도"
 msgstr "Faroe Islands"
@@ -1643,7 +1595,7 @@ msgid "페루"
 msgstr "Peru"
 
 msgid "페리도트"
-msgstr ""
+msgstr "Peridot"
 
 msgid "페이스북"
 msgstr "Facebook"
@@ -1652,7 +1604,7 @@ msgid "페이스북 공유"
 msgstr "Share to Facebook"
 
 msgid "편집"
-msgstr ""
+msgstr "Edit"
 
 msgid "포르투갈"
 msgstr "Portugal"
@@ -1691,13 +1643,10 @@ msgid "프랑스령 폴리네시아"
 msgstr "French Polynesia"
 
 msgid "프로필"
-msgstr ""
+msgstr "Profile"
 
 msgid "프로필 이미지"
 msgstr "Profile Image"
-
-msgid "프로필 이미지 삭제"
-msgstr "Delete profile image"
 
 msgid "피지"
 msgstr "Fiji"
@@ -1720,9 +1669,6 @@ msgstr "한국어 (Korean)"
 msgid "함께하는 창작, 아트리!"
 msgstr "Create together - Ateli"
 
-msgid "해상도, 런타임, 장르 제한, 제약 사항 등"
-msgstr "Resolution, runtime, genre limitations, restrictions, etc."
-
 msgid "허드 맥도널드 제도"
 msgstr "Heard Island and McDonald Islands"
 
@@ -1732,14 +1678,11 @@ msgstr "Hungary"
 msgid "헤더 이미지"
 msgstr "Header image"
 
-msgid "헤더 이미지 삭제"
-msgstr "Remove header image"
-
-msgid "현재​ 슬롯"
-msgstr "Current Slots"
+msgid "현재 이미지 삭제"
+msgstr "Remove current image"
 
 msgid "혈석"
-msgstr ""
+msgstr "Bloodstone"
 
 msgid "혈액형"
 msgstr "Blood Type"
@@ -1748,13 +1691,13 @@ msgid "호주"
 msgstr "Australia"
 
 msgid "홈"
-msgstr ""
+msgstr "Home"
 
 msgid "홈에 고정"
-msgstr ""
+msgstr "Pin to Atelier Home"
 
 msgid "홈에 고정 취소"
-msgstr ""
+msgstr "Un-pin to Atelier Home"
 
 msgid "홈페이지 주소"
 msgstr "Homepage URL"
@@ -1766,22 +1709,16 @@ msgid "확인"
 msgstr "Confirm"
 
 msgid "활동 내역 삭제가 처리되는데 시간이 소요될 수 있습니다."
-msgstr ""
+msgstr "Deleting activity history may take some time to process."
 
 msgid "황수정"
-msgstr ""
-
-msgid "회원"
-msgstr "User"
-
-msgid "회원 설정"
-msgstr "User Settings"
+msgstr "Citrine"
 
 msgid "회원 탈퇴"
 msgstr "Delete my account"
 
 msgid "회원 탈퇴가 접수되었습니다. 다시 돌아오실 수 있도록 더욱 노력하겠습니다."
-msgstr ""
+msgstr "We have received your account removal. We will do our best to come back."
 
 msgid "회원가입"
 msgstr "Sign Up"
@@ -1792,17 +1729,11 @@ msgstr "Sign Up"
 #~ msgid "메시지"
 #~ msgstr "Messages"
 
-#~ msgid "새로운 작품을 업로드했습니다."
-#~ msgstr "Uploaded new work."
-
 #~ msgid "아틀리에의 변화가 없습니다."
 #~ msgstr "There is no change in the atelier."
 
 #~ msgid "이메일을 보낼 수 없습니다. 잠시 후 다시 시도해주세요."
 #~ msgstr "Failed to send the mail. Please try again later."
-
-#~ msgid "작품을 삭제했습니다."
-#~ msgstr "Deleted."
 
 #~ msgid "커미션 정보를 등록했습니다."
 #~ msgstr "Commission Registered"
@@ -1812,63 +1743,6 @@ msgstr "Sign Up"
 
 #~ msgid "오류가 발생하여 트위터에 게시하지 못했습니다."
 #~ msgstr "Failed to post to Twitter due to an error."
-
-#~ msgid "자동 로그인"
-#~ msgstr "Auto-Signin"
-
-#~ msgid "트위터 계정 연동"
-#~ msgstr "Link with a Twitter account."
-
-#~ msgid "트위터 계정이 다른 아트리 계정과 연동되어 있습니다!"
-#~ msgstr "This Twitter account is linked with another Ateli account!"
-
-#~ msgid "트위터 로그인"
-#~ msgstr "Login with Twitter"
-
-#~ msgid "트위터 로그인 계정입니다. 먼저 이메일 주소를 등록해주세요."
-#~ msgstr "This is a Twitter account. Please register an e-mail address."
-
-#~ msgid "트위터 연결을 해제했습니다."
-#~ msgstr "Un-linked account from Twitter."
-
-#~ msgid "게시물을 가져올 수 없습니다."
-#~ msgstr "Cannot access post."
-
-#~ msgid "내 아틀리에"
-#~ msgstr "My Atelier"
-
-#~ msgid "다른 정보는 회원정보가 자동으로 표시됩니다."
-#~ msgstr "Other information, member information is automatically displayed."
-
-#~ msgid "프로필 수정"
-#~ msgstr "Edit Profile"
-
-#~ msgid "회원정보 수정"
-#~ msgstr "Edit Profile"
-
-#~ msgid "랜덤"
-#~ msgstr "Random"
-
-#~ msgid "타임라인"
-#~ msgstr "Timeline"
-
-#~ msgid "{name} 님의 구름을 모두 삭제합니다."
-#~ msgstr "Delete all Cloud comments of {name}."
-
-#~ msgid "구름"
-#~ msgstr "Cloud Comments"
-
-#~ msgid "구름을 띄우려면 로그인하세요!"
-#~ msgstr "Login to post Cloud comments!"
-
-#~ msgid "구름이 없습니다. 화면을 클릭해 당신의 느낌을 구름 댓글로 남겨보세요!"
-#~ msgstr ""
-#~ "There are no Cloud comments yet. "
-#~ "Click the screen to post your "
-#~ "feelings as a Cloud comment!"
-
-#~ msgid "내 구름을 모두 삭제합니다."
-#~ msgstr "Delete all of my Cloud comments."
 
 #~ msgid "부분 일치"
 #~ msgstr "Partial match"
@@ -1885,69 +1759,14 @@ msgstr "Sign Up"
 #~ msgid "일치"
 #~ msgstr "Match"
 
-#~ msgid "전체 공개"
-#~ msgstr "Public"
-
-#~ msgid "플레이어를 불러오는 중입니다."
-#~ msgstr "Loading the player..."
-
 #~ msgid "인기 크리에이터"
 #~ msgstr "Popular Creators"
-
-#~ msgid "작품이 없습니다."
-#~ msgstr "No work found."
-
-#~ msgid "팔로잉이 없습니다."
-#~ msgstr "You are not following anyone."
-
-#~ msgid "프로필"
-#~ msgstr "Profile"
-
-#~ msgid "JPEG, PNG, GIF 형식으로 올려주세요."
-#~ msgstr "We support JPEG, PNG, and GIF formats."
-
-#~ msgid "다른 사람의 작품을 허락 없이 퍼오거나 편집하면 안 돼요!"
-#~ msgstr "Do not post other people's work or edit them without permissions!"
-
-#~ msgid "업로드 전에 꼭 확인해주세요!"
-#~ msgstr "Please make sure before you upload!"
-
-#~ msgid "여기를 클릭하거나 파일을 내려놓으세요."
-#~ msgstr "Click here or drag the files here."
-
-#~ msgid "음악이나 동영상이 {limit}보다 길면 잘릴 수 있어요."
-#~ msgstr "Music or videos may be cut short if it's longer than {limit}."
-
-#~ msgid "이제 놓으세요!"
-#~ msgstr "Now let go!"
-
-#~ msgid "파일 끌어오기나 진행 상황 확인 등 정상적으로 업로드되지 않을 수 있습니다."
-#~ msgstr ""
-#~ "There may be problems in uploading, "
-#~ "such as in dragging your work or"
-#~ " checking the progress."
-
-#~ msgid "파일 크기는 {mb}MB까지 올릴 수 있어요."
-#~ msgstr "You can upload up to {mb}MB (megabytes)."
-
-#~ msgid ""
-#~ "<a href=\"{url}\">{name}</a>님이 <a "
-#~ "href=\"{atelier_url}\">{atelier_title}</a>에 업로드했습니다."
-#~ msgstr ""
-#~ "<a href=\"{url}\">{name}</a> posted in <a "
-#~ "href=\"{atelier_url}\">{atelier_title}</a>."
 
 #~ msgid "감광속도"
 #~ msgstr "ISO"
 
-#~ msgid "개인정보 처리방침"
-#~ msgstr ""
-
 #~ msgid "관련도"
 #~ msgstr "Relevance"
-
-#~ msgid "괜찮아요, 그냥 올릴래요."
-#~ msgstr ""
 
 #~ msgid "기간"
 #~ msgstr "Term"
@@ -1969,15 +1788,6 @@ msgstr "Sign Up"
 
 #~ msgid "다음 작품"
 #~ msgstr "Next work"
-
-#~ msgid "댓글 불러오기"
-#~ msgstr "Load Comments"
-
-#~ msgid "댓글 쓰기"
-#~ msgstr "Write a comment"
-
-#~ msgid "댓글이 없습니다."
-#~ msgstr "No comments."
 
 #~ msgid "만화"
 #~ msgstr "Comic"
@@ -2011,12 +1821,6 @@ msgstr "Sign Up"
 #~ msgid "새로운 <a href=\"{url}\">팔로워</a>가 {count}명 있습니다."
 #~ msgstr "You have {count} new <a href=\"{url}\">follower(s)</a>."
 
-#~ msgid "수정"
-#~ msgstr "Edit"
-
-#~ msgid "아틀리에 설정"
-#~ msgstr "Atelier Settings"
-
 #~ msgid "애니메이션"
 #~ msgstr "Animation"
 
@@ -2040,9 +1844,6 @@ msgstr "Sign Up"
 
 #~ msgid "일간"
 #~ msgstr "Daily"
-
-#~ msgid "일러스트"
-#~ msgstr "Illustration"
 
 #~ msgid "작업 슬롯"
 #~ msgstr "Slots"
@@ -2101,9 +1902,6 @@ msgstr "Sign Up"
 #~ "browser to browse through Ateli more "
 #~ "conveniently!"
 
-#~ msgid "추천"
-#~ msgstr ""
-
 #~ msgid "추천 아틀리에 보기"
 #~ msgstr "View recommended Ateliers"
 
@@ -2125,17 +1923,8 @@ msgstr "Sign Up"
 #~ msgid "태그가 없습니다."
 #~ msgstr "There are no tags."
 
-#~ msgid "태그를 추가하면 사람들이 당신의 포스트를 발견하기 쉬워집니다."
-#~ msgstr ""
-
 #~ msgid "튀김"
 #~ msgstr "Fry"
-
-#~ msgid "팔로우 중인 아틀리에"
-#~ msgstr ""
-
-#~ msgid "팔로우 중인 태그"
-#~ msgstr ""
 
 #~ msgid "필수"
 #~ msgstr "Required"
@@ -2151,4 +1940,114 @@ msgstr "Sign Up"
 
 #~ msgid "현재 페이지"
 #~ msgstr "Current Page"
+
+#~ msgid "\"{name}\" 태그를 삭제할까요?"
+#~ msgstr "Delete the tag \"{name}\"?"
+
+#~ msgid ""
+#~ "<a href=\"{url}\">{name}</a>님이 <a "
+#~ "href=\"{webclap_url}\">웹 박수</a>에 답장했습니다."
+#~ msgstr ""
+#~ "<a href=\"{url}\">{name}</a> replied to your"
+#~ " <a href=\"{webclap_url}\">Web clap</a>."
+
+#~ msgid "공통"
+#~ msgstr "Common"
+
+#~ msgid "그림 커미션"
+#~ msgstr "Illustration Commission"
+
+#~ msgid "동시 진행 작업 수, 의뢰 비용, 저작권 귀속 및 상업적 이용 가능 여부"
+#~ msgstr ""
+#~ "The number of simultaneous ongoing "
+#~ "operations, commission fee, copyright "
+#~ "attribution and commercial availability."
+
+#~ msgid "랭킹 집계 중입니다. 잠시 후 다시 확인해주세요."
+#~ msgstr "Currently summing up the rankings. Please check again later."
+
+#~ msgid "런타임, 장르 제한, 보컬 정보 등"
+#~ msgstr "Runtime, genre restrictions, vocals information, etc."
+
+#~ msgid "본체/렌즈 기종, 스튜디오 정보 등"
+#~ msgstr "Camera/lens model, studio information, etc."
+
+#~ msgid "새로운 <a href=\"{url}\">웹 박수</a>가 {count}개 있습니다."
+#~ msgstr "You have {count} new <a href=\"{url}\">web clap(s)</a>."
+
+#~ msgid "쓰기"
+#~ msgstr "Write"
+
+#~ msgid "아직 응답되지 않았습니다."
+#~ msgstr "It has not yet been responded."
+
+#~ msgid "업로드 상태"
+#~ msgstr "Upload status"
+
+#~ msgid "웹 박수의 내용, 응원한 사용자는 아틀리에 구성원만 확인할 수 있습니다."
+#~ msgstr "The contents of the web clap can only be viewed by atelier members."
+
+#~ msgid "응답"
+#~ msgstr "Response"
+
+#~ msgid "응답 내용은 모든 사용자에게 공개됩니다!"
+#~ msgstr "Responses are visible to everyone!"
+
+#~ msgid "응답까지 같이 삭제됩니다!"
+#~ msgstr "The response will also be deleted!"
+
+#~ msgid "작업 슬롯 관리를 사용하지 않으려면 0을 입력해주세요."
+#~ msgstr "If you do not want to use the slots, please enter \"0.\""
+
+#~ msgid "작품 감상 페이지에서 편집할 수 있습니다."
+#~ msgstr "You can also edit tags in the viewing page."
+
+#~ msgid "최대 슬롯"
+#~ msgstr "Maximum slots"
+
+#~ msgid "커버 이미지 삭제"
+#~ msgstr "Remove cover image"
+
+#~ msgid "크기, 해상도, 색상 모드, 배경 작업 여부, 제약 사항 등"
+#~ msgstr "Size, resolution, color space, background, restrictions, etc."
+
+#~ msgid "태그는 최대 30자로 총 5개 입력할 수 있습니다. 나중에 더 추가하거나 편집할 수 있습니다."
+#~ msgstr ""
+#~ "You can add up to 5 tags "
+#~ "with up to 30 characters each. You"
+#~ " can also add or edit them "
+#~ "later."
+
+#~ msgid "트위터, 홈페이지, 이메일 주소가 자동으로 표시됩니다."
+#~ msgstr ""
+#~ "Your Twitter account, website address, "
+#~ "and e-mail address will be displayed "
+#~ "automatically."
+
+#~ msgid "해상도, 런타임, 장르 제한, 제약 사항 등"
+#~ msgstr "Resolution, runtime, genre limitations, restrictions, etc."
+
+#~ msgid "헤더 이미지 삭제"
+#~ msgstr "Remove header image"
+
+#~ msgid "현재​ 슬롯"
+#~ msgstr "Current Slots"
+
+#~ msgid "회원"
+#~ msgstr "User"
+
+#~ msgid "회원 설정"
+#~ msgstr "User Settings"
+
+#~ msgid "그림"
+#~ msgstr "Illustration"
+
+#~ msgid "커미션 정보 등록"
+#~ msgstr "Register a Commission"
+
+#~ msgid "커미션이 없습니다."
+#~ msgstr "There are no commissions."
+
+#~ msgid "Hello! 아트리"
+#~ msgstr "Hello! Ateli"
 
