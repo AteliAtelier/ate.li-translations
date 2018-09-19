@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-09-12 20:38+0900\n"
+"POT-Creation-Date: 2018-09-19 23:26+0900\n"
 "PO-Revision-Date: 2018-09-12 19:40+0900\n"
 "Last-Translator: \n"
 "Language: ja\n"
@@ -1325,6 +1325,9 @@ msgstr "最新作品"
 msgid "추가"
 msgstr "追加"
 
+msgid "추천"
+msgstr "おすすめ"
+
 msgid "취소"
 msgstr "キャンセル"
 
@@ -1978,9 +1981,6 @@ msgstr "会員登録"
 
 #~ msgid "최신 버전의 브라우저를 설치하여 아트리를 쾌적하게 이용해보세요!"
 #~ msgstr "最新バージョンのブラウザでアトリをもっと快適にご利用してみてください！"
-
-#~ msgid "추천"
-#~ msgstr "おすすめ"
 
 #~ msgid "추천 아틀리에 보기"
 #~ msgstr "おすすめアトリエを見る"

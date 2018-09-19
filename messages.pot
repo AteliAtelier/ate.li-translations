@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-09-12 20:38+0900\n"
+"POT-Creation-Date: 2018-09-19 23:26+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1312,6 +1312,9 @@ msgid "최근 작품"
 msgstr ""
 
 msgid "추가"
+msgstr ""
+
+msgid "추천"
 msgstr ""
 
 msgid "취소"
