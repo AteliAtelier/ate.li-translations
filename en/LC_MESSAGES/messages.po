@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-09-19 23:26+0900\n"
-"PO-Revision-Date: 2018-09-19 23:28+0900\n"
+"POT-Creation-Date: 2018-09-20 20:15+0900\n"
+"PO-Revision-Date: 2018-09-20 20:21+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
@@ -54,14 +54,14 @@ msgid ""
 "p>"
 msgstr ""
 "<p>Hello. Welcome to Ateli.</p>\n"
-"<p>Click <a href=\"{url}\">here</a> to reset your password."
+"<p>Click <a href=\"{url}\">here</a> to reset your password.</p>"
 
 msgid ""
 "<p>안녕하세요. 아트리입니다.</p>\n"
 "<p><a href=\"{url}\">여기</a>를 클릭하시면 이메일 인증이 완료됩니다.</p>"
 msgstr ""
 "<p>Hello. Welcome to Ateli.</p>\n"
-"<p>Click <a href=\"{url}\">here</a> to complete the verification process."
+"<p>Click <a href=\"{url}\">here</a> to complete the verification process.</p>"
 
 msgid "@AteliKR"
 msgstr "@AteliAtelier"
@@ -151,7 +151,7 @@ msgid "검색"
 msgstr "Search"
 
 msgid "검색 결과가 없습니다."
-msgstr "Your search brought no results."
+msgstr "Your search returned no results."
 
 msgid ""
 "검색 엔진이 보여주는 데이터는 아트리가 삭제할 수 없습니다. 시간이 지나도 삭제되"
@@ -167,7 +167,7 @@ msgid "계정"
 msgstr "Account"
 
 msgid "계정 연동"
-msgstr "Link with account"
+msgstr "Account linking"
 
 msgid "계정을 연결할 수 없습니다. 잠시 후 다시 시도해주세요."
 msgstr "Unable to connect to account. Please try again later."
@@ -242,7 +242,7 @@ msgid "꼭 입력하셔야 합니다."
 msgstr "Required"
 
 msgid "나만 볼 수 있도록 설정합니다."
-msgstr "Set to only viewable by myself."
+msgstr "Set to private"
 
 msgid "나미비아"
 msgstr "Namibia"
@@ -317,10 +317,10 @@ msgid "다른 사람의 작품을 허락 없이 퍼오거나 편집하면 안돼
 msgstr "Do not copy someone else's work without permission!"
 
 msgid "다른 사람이 태그를 편집할 수 없게 설정합니다."
-msgstr "Set so that other people cannot edit the tags."
+msgstr "Set to prevent others from editing tags."
 
 msgid "다른 사용자에 의해 삭제됨"
-msgstr "Deleted by another user."
+msgstr "Deleted by another user"
 
 msgid "다시 보내기"
 msgstr "Send again"
@@ -412,7 +412,7 @@ msgid "로그인"
 msgstr "Login"
 
 msgid "로그인이 필요합니다."
-msgstr "You must be logged in."
+msgstr "Login Required"
 
 msgid "루마니아"
 msgstr "Romania"
@@ -466,7 +466,7 @@ msgid "말리"
 msgstr "Mali"
 
 msgid "맞팔 중"
-msgstr "Followed each other"
+msgstr "Following each other"
 
 msgid "맞팔하기"
 msgstr "Follow back"
@@ -541,7 +541,7 @@ msgid "미디어"
 msgstr "Media"
 
 msgid "미디어 처리 중 오류가 발생했습니다."
-msgstr "Of the media processing error it has occurred."
+msgstr "An error occurred in media processing."
 
 msgid "미디어 파일이 {limit}보다 길면 잘릴 수 있어요."
 msgstr "If the media file is longer than {limit}, it can be truncated."
@@ -706,7 +706,7 @@ msgid "새로고침"
 msgstr "Refresh"
 
 msgid "새로운 웹 박수가 있습니다."
-msgstr "You have new Web Clap."
+msgstr "You’ve got a new Web Clap."
 
 msgid "생마르탱"
 msgstr "Saint Martin"
@@ -790,7 +790,7 @@ msgid "스위스"
 msgstr "Switzerland"
 
 msgid "스팸으로 인식되어 삭제됨"
-msgstr "Was seen as spam and deleted."
+msgstr "Considered as spam and deleted"
 
 msgid "스페인"
 msgstr "Spain"
@@ -870,7 +870,7 @@ msgid "아틀리에"
 msgstr "Atelier"
 
 msgid "아틀리에 구성원 전용 기능입니다."
-msgstr "Atelier is a member only feature."
+msgstr "This feature is for Atelier Members Only."
 
 msgid "아틀리에 웹 박수"
 msgstr "Atelier Web clap"
@@ -984,8 +984,8 @@ msgid ""
 "영문, 숫자, 붙임표(-)만 사용할 수 있습니다. 붙임표(-)로 시작하거나 끝날 수 없습"
 "니다."
 msgstr ""
-"You may use the English alphabet, numbers, and hyphens(-). You cannot use "
-"hyphens(-) as the first or last letter."
+"You may use the English alphabet, numbers, and hyphens(-). Although, hyphens(-) "
+"cannot be used as the first or last letter."
 
 msgid "영어"
 msgstr "English"
@@ -1086,7 +1086,7 @@ msgid "이메일 공개"
 msgstr "Make public my email address"
 
 msgid "이메일 인증이 완료되었습니다."
-msgstr "E-mail verification complete."
+msgstr "E-mail verification completed."
 
 msgid "이메일 인증이 이미 완료되었습니다."
 msgstr "E-mail has been already verified."
@@ -1102,7 +1102,7 @@ msgstr ""
 "If you do not have an e-mail address, there is a risk of losing your account!"
 
 msgid "이메일 주소를 등록하시면 계정을 분실했을 때 유용합니다."
-msgstr "Registering your e-mail address is useful in case you lose your account."
+msgstr "Registering your e-mail address is useful in case your account is lost."
 
 msgid "이미 사용 중입니다."
 msgstr "Already in use."
@@ -1229,10 +1229,10 @@ msgid "정말 삭제할까요? (관리자 모드)"
 msgstr "Are you sure you want to delete this? (Administrator mode)"
 
 msgid "정말 좋아요 할까요?"
-msgstr "Are you sure you want to like?"
+msgstr "Are you sure you want to ‘Like’ ?"
 
 msgid "정말 좋아요를 취소할까요?"
-msgstr "Are you sure you want to unlike?"
+msgstr "Are you sure you want to Unlike?"
 
 msgid "정말 팔로우를 취소할까요?"
 msgstr "Are you sure you want to unfollow this person?"
@@ -1265,7 +1265,7 @@ msgid "좋아요"
 msgstr "Like"
 
 msgid "좋아요 비공개"
-msgstr "Make secret my likes"
+msgstr "Make private my likes"
 
 msgid "좋아요 취소"
 msgstr "Unlike"
@@ -1471,7 +1471,8 @@ msgstr "Tanzania"
 
 msgid "탈퇴 후에는 어떠한 이유로도 계정을 복구할 수 없습니다."
 msgstr ""
-"After you leave, you will not be able to recover your account for any reason."
+"After you delete your account, you never will be able to recover it for any "
+"reason."
 
 msgid "태국"
 msgstr "Thailand"
@@ -1486,16 +1487,16 @@ msgid "태그 아이디는 공식 한글명과 동일해야 합니다."
 msgstr "ID tags should be the same as the official hangeulmyeong."
 
 msgid "태그 연결은 롤백이 불가능하므로 신중하게 결정하세요."
-msgstr "Decide carefully tag connections, so the rollback is impossible."
+msgstr "Decide tag connections carefully, as it could not be rolled back."
 
 msgid "태그 이름"
-msgstr "Name of Tag"
+msgstr "Tag Name"
 
 msgid "태그 편집 제한"
 msgstr "Tag Edit Restrictions"
 
 msgid "태그를 더 이상 추가할 수 없습니다."
-msgstr "You cannot add more tags."
+msgstr "You cannot add tags any more."
 
 msgid "태그를 추가하면 포스트를 발견하기 쉬워집니다."
 msgstr "Adding tags makes it easier to discover your post."
@@ -1561,7 +1562,7 @@ msgid "파일을 찾을 수 없습니다."
 msgstr "File not found."
 
 msgid "파일이 너무 큽니다."
-msgstr "This file is too large."
+msgstr "File is too large."
 
 msgid "파키스탄"
 msgstr "Pakistan"
@@ -1726,7 +1727,9 @@ msgid "회원 탈퇴"
 msgstr "Delete my account"
 
 msgid "회원 탈퇴가 접수되었습니다. 다시 돌아오실 수 있도록 더욱 노력하겠습니다."
-msgstr "We have received your account removal. We will do our best to come back."
+msgstr ""
+"We have received your account removal. We will do our best to make you come "
+"back again."
 
 msgid "회원가입"
 msgstr "Sign Up"
