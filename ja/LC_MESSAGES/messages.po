@@ -7,16 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-09-19 23:26+0900\n"
-"PO-Revision-Date: 2018-09-12 19:40+0900\n"
+"POT-Creation-Date: 2018-09-23 16:19+0900\n"
+"PO-Revision-Date: 2018-09-23 16:21+0900\n"
 "Last-Translator: \n"
 "Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
+"X-Generator: Poedit 2.1.1\n"
 
 msgid "\"{body}\" 댓글을 {like_count}명이 좋아했어요."
 msgstr "「{body}」コメントを{like_count}人がいいねしました。"
@@ -308,6 +309,9 @@ msgstr "ニカラグア"
 msgid "다른 사람의 작품을 허락 없이 퍼오거나 편집하면 안돼요!"
 msgstr "他人の作品の原本、および編集本を許諾なしでアップロードする行為は禁じられております！"
 
+msgid "다른 사람이 댓글을 쓸 수 없도록 합니다."
+msgstr "他のユーザーによるコメントをロックします。"
+
 msgid "다른 사람이 태그를 편집할 수 없게 설정합니다."
 msgstr "他のユーザーによるタグ編集をロックします。"
 
@@ -337,6 +341,9 @@ msgstr "大韓民国"
 
 msgid "댓글"
 msgstr "コメント"
+
+msgid "댓글 작성 제한"
+msgstr "コメントをロック"
 
 msgid "댓글 활동"
 msgstr "コメントのアクティビティー"
@@ -2131,4 +2138,3 @@ msgstr "会員登録"
 
 #~ msgid "현재 점검 중인 기능입니다. 나중에 다시 시도해 주세요."
 #~ msgstr "ただいまメインテナンス中です。"
-

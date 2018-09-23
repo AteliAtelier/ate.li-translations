@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-09-20 20:15+0900\n"
-"PO-Revision-Date: 2018-09-20 20:21+0900\n"
+"POT-Creation-Date: 2018-09-23 16:19+0900\n"
+"PO-Revision-Date: 2018-09-23 16:20+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
@@ -316,6 +316,9 @@ msgstr "Nicaragua"
 msgid "다른 사람의 작품을 허락 없이 퍼오거나 편집하면 안돼요!"
 msgstr "Do not copy someone else's work without permission!"
 
+msgid "다른 사람이 댓글을 쓸 수 없도록 합니다."
+msgstr "Set to prevent others from writing comments."
+
 msgid "다른 사람이 태그를 편집할 수 없게 설정합니다."
 msgstr "Set to prevent others from editing tags."
 
@@ -347,6 +350,9 @@ msgstr "South Korea"
 
 msgid "댓글"
 msgstr "Comments"
+
+msgid "댓글 작성 제한"
+msgstr "Comment Write Restrictions"
 
 msgid "댓글 활동"
 msgstr "Comment Activity"
