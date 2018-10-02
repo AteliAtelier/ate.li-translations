@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-09-23 16:19+0900\n"
-"PO-Revision-Date: 2018-09-23 16:20+0900\n"
+"POT-Creation-Date: 2018-10-02 20:01+0900\n"
+"PO-Revision-Date: 2018-10-02 20:02+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
@@ -510,6 +510,9 @@ msgstr "Mauritania"
 msgid "모잠비크"
 msgstr "Mozambique"
 
+msgid "목록"
+msgstr "List"
+
 msgid "몬테네그로"
 msgstr "Montenegro"
 
@@ -925,6 +928,9 @@ msgstr "Angola"
 
 msgid "앤티가 바부다"
 msgstr "Antigua and Barbuda"
+
+msgid "앨범"
+msgstr "Album"
 
 msgid "앵귈라"
 msgstr "Anguilla"
