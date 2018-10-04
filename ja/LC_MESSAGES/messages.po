@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-02 20:01+0900\n"
-"PO-Revision-Date: 2018-10-02 20:02+0900\n"
+"POT-Creation-Date: 2018-10-04 19:34+0900\n"
+"PO-Revision-Date: 2018-10-04 19:37+0900\n"
 "Last-Translator: \n"
 "Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
@@ -134,6 +134,9 @@ msgstr "ガボン"
 
 msgid "가이아나"
 msgstr "ガイアナ"
+
+msgid "감광속도"
+msgstr "ISO感度"
 
 msgid "감비아"
 msgstr "ガンビア"
@@ -287,6 +290,9 @@ msgstr "ネパール"
 
 msgid "노르웨이"
 msgstr "ノルウェー"
+
+msgid "노출시간"
+msgstr "シャッタースピード"
 
 msgid "노퍽 섬"
 msgstr "ノーフォーク島"
@@ -482,6 +488,9 @@ msgstr "メキシコ"
 
 msgid "모나코"
 msgstr "モナコ"
+
+msgid "모델"
+msgstr "モデル"
 
 msgid "모두 읽음으로 표시"
 msgstr "全て既読にする"
@@ -1245,6 +1254,12 @@ msgstr "タイトル"
 msgid "제목 없음"
 msgstr "無題"
 
+msgid "제조사"
+msgstr "メーカー"
+
+msgid "조리개"
+msgstr "Fナンバー"
+
 msgid "조선민주주의인민공화국"
 msgstr "朝鮮民主主義人民共和国"
 
@@ -1328,6 +1343,9 @@ msgstr "このファイルは変換中です。しばらくお待ちください
 
 msgid "체코"
 msgstr "チェコ"
+
+msgid "초점거리"
+msgstr "焦点距離"
 
 msgid "최근 업로드"
 msgstr "最新アップロードのみ"
@@ -1869,9 +1887,6 @@ msgstr "会員登録"
 #~ msgid "파일 끌어오기나 진행 상황 확인 등 정상적으로 업로드되지 않을 수 있습니다."
 #~ msgstr "ファイルプルや進行状況の確認など、通常アップロードされていない可能性があります。"
 
-#~ msgid "감광속도"
-#~ msgstr "ISO感度"
-
 #~ msgid "관련도"
 #~ msgstr "関連度"
 
@@ -1890,9 +1905,6 @@ msgstr "会員登録"
 #~ msgid "년간"
 #~ msgstr "年間"
 
-#~ msgid "노출시간"
-#~ msgstr "シャッタースピード"
-
 #~ msgid "다음 작품"
 #~ msgstr "次の作品"
 
@@ -1907,9 +1919,6 @@ msgstr "会員登録"
 
 #~ msgid "만화"
 #~ msgstr "漫画"
-
-#~ msgid "모델"
-#~ msgstr "モデル"
 
 #~ msgid "모든 종류"
 #~ msgstr "すべての種類"
@@ -1962,12 +1971,6 @@ msgstr "会員登録"
 #~ msgid "정말 찜할까요?"
 #~ msgstr "本当にブックマークしますか？"
 
-#~ msgid "제조사"
-#~ msgstr "メーカー"
-
-#~ msgid "조리개"
-#~ msgstr "Fナンバー"
-
 #~ msgid "조회수"
 #~ msgstr "ヒット"
 
@@ -1988,9 +1991,6 @@ msgstr "会員登録"
 
 #~ msgid "찜한 사람이 없습니다."
 #~ msgstr "ブックマークした人はありません。"
-
-#~ msgid "초점거리"
-#~ msgstr "焦点距離"
 
 #~ msgid "최신 버전의 브라우저를 설치하여 아트리를 쾌적하게 이용해보세요!"
 #~ msgstr "最新バージョンのブラウザでアトリをもっと快適にご利用してみてください！"

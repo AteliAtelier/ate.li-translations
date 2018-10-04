@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-02 20:01+0900\n"
-"PO-Revision-Date: 2018-10-02 20:02+0900\n"
+"POT-Creation-Date: 2018-10-04 19:34+0900\n"
+"PO-Revision-Date: 2018-10-04 19:35+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
@@ -137,6 +137,9 @@ msgstr "Gabon"
 
 msgid "가이아나"
 msgstr "Guyana"
+
+msgid "감광속도"
+msgstr "ISO"
 
 msgid "감비아"
 msgstr "Gambia"
@@ -294,6 +297,9 @@ msgstr "Nepal"
 
 msgid "노르웨이"
 msgstr "Norway"
+
+msgid "노출시간"
+msgstr "Exposure time"
 
 msgid "노퍽 섬"
 msgstr "Norfolk Island"
@@ -491,6 +497,9 @@ msgstr "Mexico"
 
 msgid "모나코"
 msgstr "Monaco"
+
+msgid "모델"
+msgstr "Model"
 
 msgid "모두 읽음으로 표시"
 msgstr "Mark All as Read"
@@ -1267,6 +1276,12 @@ msgstr "Title"
 msgid "제목 없음"
 msgstr "Untitled"
 
+msgid "제조사"
+msgstr "Manufacturer"
+
+msgid "조리개"
+msgstr "Aperture"
+
 msgid "조선민주주의인민공화국"
 msgstr "North Korea"
 
@@ -1351,6 +1366,9 @@ msgstr "The attachment is being processed. Please try again later."
 
 msgid "체코"
 msgstr "Czech Republic"
+
+msgid "초점거리"
+msgstr "Focal Distance"
 
 msgid "최근 업로드"
 msgstr "Recent posts"
@@ -1785,9 +1803,6 @@ msgstr "Sign Up"
 #~ msgid "인기 크리에이터"
 #~ msgstr "Popular Creators"
 
-#~ msgid "감광속도"
-#~ msgstr "ISO"
-
 #~ msgid "관련도"
 #~ msgstr "Relevance"
 
@@ -1806,17 +1821,11 @@ msgstr "Sign Up"
 #~ msgid "년간"
 #~ msgstr "Yearly"
 
-#~ msgid "노출시간"
-#~ msgstr "Exposure time"
-
 #~ msgid "다음 작품"
 #~ msgstr "Next work"
 
 #~ msgid "만화"
 #~ msgstr "Comic"
-
-#~ msgid "모델"
-#~ msgstr "Model"
 
 #~ msgid "모든 종류"
 #~ msgstr "All types"
@@ -1885,12 +1894,6 @@ msgstr "Sign Up"
 #~ msgid "정말 찜할까요?"
 #~ msgstr "Are you sure you want to favorite this post?"
 
-#~ msgid "제조사"
-#~ msgstr "Manufacturer"
-
-#~ msgid "조리개"
-#~ msgstr "Aperture"
-
 #~ msgid "조회수"
 #~ msgstr "Views"
 
@@ -1911,9 +1914,6 @@ msgstr "Sign Up"
 
 #~ msgid "찜한 사람이 없습니다."
 #~ msgstr "You have not favorited anyone."
-
-#~ msgid "초점거리"
-#~ msgstr "Focal Distance"
 
 #~ msgid "최신 버전의 브라우저를 설치하여 아트리를 쾌적하게 이용해보세요!"
 #~ msgstr ""

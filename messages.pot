@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-02 20:01+0900\n"
+"POT-Creation-Date: 2018-10-04 19:34+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -127,6 +127,9 @@ msgid "가봉"
 msgstr ""
 
 msgid "가이아나"
+msgstr ""
+
+msgid "감광속도"
 msgstr ""
 
 msgid "감비아"
@@ -280,6 +283,9 @@ msgid "네팔"
 msgstr ""
 
 msgid "노르웨이"
+msgstr ""
+
+msgid "노출시간"
 msgstr ""
 
 msgid "노퍽 섬"
@@ -475,6 +481,9 @@ msgid "멕시코"
 msgstr ""
 
 msgid "모나코"
+msgstr ""
+
+msgid "모델"
 msgstr ""
 
 msgid "모두 읽음으로 표시"
@@ -1233,6 +1242,12 @@ msgstr ""
 msgid "제목 없음"
 msgstr ""
 
+msgid "제조사"
+msgstr ""
+
+msgid "조리개"
+msgstr ""
+
 msgid "조선민주주의인민공화국"
 msgstr ""
 
@@ -1315,6 +1330,9 @@ msgid "첨부 파일을 처리 중입니다. 잠시 후 다시 시도해보세�
 msgstr ""
 
 msgid "체코"
+msgstr ""
+
+msgid "초점거리"
 msgstr ""
 
 msgid "최근 업로드"
