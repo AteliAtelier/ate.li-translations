@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-04 19:34+0900\n"
+"POT-Creation-Date: 2018-10-11 00:14+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -115,6 +115,9 @@ msgid "♒ 물병자리"
 msgstr ""
 
 msgid "♓ 물고기자리"
+msgstr ""
+
+msgid "中文-简体 (중국어 간체)"
 msgstr ""
 
 msgid "日本語 (일본어)"
@@ -1279,6 +1282,9 @@ msgid "주소"
 msgstr ""
 
 msgid "중국"
+msgstr ""
+
+msgid "중국어 간체"
 msgstr ""
 
 msgid "중앙아프리카 공화국"

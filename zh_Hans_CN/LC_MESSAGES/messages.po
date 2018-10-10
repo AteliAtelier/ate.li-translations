@@ -1,4 +1,4 @@
-# English translations for PROJECT.
+# Chinese translations for PROJECT.
 # Copyright (C) 2016 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
@@ -8,11 +8,11 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-11 00:14+0900\n"
-"PO-Revision-Date: 2018-10-11 00:16+0900\n"
+"PO-Revision-Date: 2018-10-11 00:18+0900\n"
 "Last-Translator: \n"
-"Language: en\n"
+"Language: zh_CN\n"
 "Language-Team: en <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -20,895 +20,881 @@ msgstr ""
 "X-Generator: Poedit 2.2\n"
 
 msgid "\"{body}\" 댓글을 {like_count}명이 좋아했어요."
-msgstr "{like_count} people liked \"{body}\"."
+msgstr "有{like_count}人点赞了\"{body}\"评论。"
 
 msgid "\"{name}\" 태그는 이미 존재합니다."
-msgstr "\"{name}\" tag already exists."
+msgstr "标签 \"{name}\" 已存在。"
 
 msgid "\"{name}\" 태그는 추가할 수 없습니다."
-msgstr "\"{name}\" tag cannot be added."
+msgstr "无法添加标签 \"{name}\"。"
 
 msgid "\"{title}\" 포스트를 {like_count}명이 좋아했어요."
-msgstr "{like_count} people liked \"{title}\""
+msgstr "有{like_count}人点赞了\"{title}\"作品。"
 
-msgid ""
-"\"{title}\" 포스트에 댓글 {comment_count}개가 달렸고 {like_count}명이 좋아했어"
-"요."
-msgstr "You have {comment_count} comment(s) and {like_count} like(s)."
+msgid "\"{title}\" 포스트에 댓글 {comment_count}개가 달렸고 {like_count}명이 좋아했어요."
+msgstr "\"{title}\"作品已获得{comment_count}条评论和{like_count}个点赞。"
 
 msgid "\"{title}\" 포스트에 댓글 {comment_count}개가 달렸습니다."
-msgstr "There are {comment_count} comments on the \"{title}\" post."
+msgstr "\"{title}\"作品已获得{comment_count}条评论。"
 
 msgid "#아트리"
 msgstr "#Ateli"
 
 msgid "#아트리 #커미션 '{title}' 갱신! {url}"
-msgstr "#Ateli #Commission '{title} updated! {url}"
+msgstr "#Ateli #需求 '{title}' 更新! {url}"
 
 msgid "#아트리 '{title}' 업로드! {url}"
-msgstr "#Ateli '{title}' uploaded! {url}"
+msgstr "#Ateli '{title}' 上传! {url}"
 
 msgid ""
 "<p>안녕하세요. 아트리입니다.</p>\n"
-"<p><a href=\"{url}\">여기</a>를 클릭하시면 비밀번호를 재설정하실 수 있습니다.</"
-"p>"
+"<p><a href=\"{url}\">여기</a>를 클릭하시면 비밀번호를 재설정하실 수 있습니다.</p>"
 msgstr ""
-"<p>Hello. Welcome to Ateli.</p>\n"
-"<p>Click <a href=\"{url}\">here</a> to reset your password.</p>"
+"<p>欢迎来到Ateli！</p>\n"
+"<p><a href=\"{url}\">点击这个</a> 即可更改密码。</p>"
 
 msgid ""
 "<p>안녕하세요. 아트리입니다.</p>\n"
 "<p><a href=\"{url}\">여기</a>를 클릭하시면 이메일 인증이 완료됩니다.</p>"
 msgstr ""
-"<p>Hello. Welcome to Ateli.</p>\n"
-"<p>Click <a href=\"{url}\">here</a> to complete the verification process.</p>"
+"<p>欢迎来到Ateli!</p>\n"
+"<p><a href=\"{url}\">点击</a>即可完成邮箱验证。</p>"
 
 msgid "@AteliKR"
 msgstr "@AteliAtelier"
 
 msgid "English (영어)"
-msgstr "English"
+msgstr "English (英语)"
 
 msgid "[아트리] 비밀번호 재설정"
-msgstr "[Ateli] Reset Password"
+msgstr "[Ateli]更改密码"
 
 msgid "[아트리] 이메일 인증이 필요합니다."
-msgstr "[Ateli] Email verification is required."
+msgstr "[Ateli]请先验证邮箱。"
 
 msgid "{max}자 이하로 입력하세요."
-msgstr "You may enter up to {max} characters."
+msgstr "最多输入{max}个字。"
 
 msgid "{min}자 이상, {max}자 이하로 입력하세요."
-msgstr "Enter more than {min}, but less than {max} characters."
+msgstr "请输入{min}到 {max}个字符。"
 
 msgid "{name} 님의 프로필"
-msgstr "{name}'s Profile"
+msgstr "{name}的个人资料"
 
 msgid "{name}님이 \"{title}\" 포스트를 갱신했어요."
-msgstr "{name} updated \"{title}\""
+msgstr "{name}的作品\"{title}\"有新内容更新。"
 
 msgid "{name}의 아틀리에"
-msgstr "{name}'s Atelier"
+msgstr "前往{name}的Ateli"
 
 msgid "♈ 양자리"
-msgstr "♈ Aries"
+msgstr "♈ 白羊座"
 
 msgid "♉ 황소자리"
-msgstr "♉ Taurus"
+msgstr "♉ 金牛座"
 
 msgid "♊ 쌍둥이자리"
-msgstr "♊ Gemini"
+msgstr "♊ 双子座"
 
 msgid "♋ 게자리"
-msgstr "♋ Cancer"
+msgstr "♋ 巨蟹座"
 
 msgid "♌ 사자자리"
-msgstr "♌ Leo"
+msgstr "♌ 狮子座"
 
 msgid "♍ 처녀자리"
-msgstr "♍ Virgo"
+msgstr "♍ 处女座"
 
 msgid "♎ 천칭자리"
-msgstr "♎ Libra"
+msgstr "♎ 天秤座"
 
 msgid "♏ 전갈자리"
-msgstr "♏ Scorpio"
+msgstr "♏ 天蝎座"
 
 msgid "♐ 사수자리"
-msgstr "♐ Sagittarius"
+msgstr "♐ 射手座"
 
 msgid "♑ 염소자리"
-msgstr "♑ Capricorn"
+msgstr "♑ 摩羯座"
 
 msgid "♒ 물병자리"
-msgstr "♒ Aquarius"
+msgstr "♒ 水瓶座"
 
 msgid "♓ 물고기자리"
-msgstr "♓ Pisces"
+msgstr "♓ 双鱼座"
 
 msgid "中文-简体 (중국어 간체)"
 msgstr "中文-简体 (Simplified Chinese)"
 
 msgid "日本語 (일본어)"
-msgstr "日本語 (Japanese)"
+msgstr "日本語 (日语)"
 
 msgid "가나"
-msgstr "Ghana"
+msgstr "加纳"
 
 msgid "가봉"
-msgstr "Gabon"
+msgstr "加蓬"
 
 msgid "가이아나"
-msgstr "Guyana"
+msgstr "圭亚那"
 
 msgid "감광속도"
 msgstr "ISO"
 
 msgid "감비아"
-msgstr "Gambia"
+msgstr "冈比亚"
 
 msgid "개인정보처리방침"
-msgstr "Privacy Policy"
+msgstr "个人信息处理方针"
 
 msgid "건지 섬"
-msgstr "Guernsey"
+msgstr "根西岛"
 
 msgid "검색"
-msgstr "Search"
+msgstr "搜索"
 
 msgid "검색 결과가 없습니다."
-msgstr "Your search returned no results."
+msgstr "未搜索到任何结果。"
 
-msgid ""
-"검색 엔진이 보여주는 데이터는 아트리가 삭제할 수 없습니다. 시간이 지나도 삭제되"
-"지 않을 경우 해당 업체에 문의하시기 바랍니다."
-msgstr ""
-"The data shown by the search engine cannot be deleted by Ateli. If it does not "
-"go away over time, please contact the vendor."
+msgid "검색 엔진이 보여주는 데이터는 아트리가 삭제할 수 없습니다. 시간이 지나도 삭제되지 않을 경우 해당 업체에 문의하시기 바랍니다."
+msgstr "Ateli无法删除搜索引擎里的数据。若一直无法删除请向相关企业咨询。"
 
 msgid "검색 키워드"
-msgstr "Search keywords"
+msgstr "搜索关键词"
 
 msgid "계정"
-msgstr "Account"
+msgstr "账号"
 
 msgid "계정 연동"
-msgstr "Account linking"
+msgstr "关联账号"
 
 msgid "계정을 연결할 수 없습니다. 잠시 후 다시 시도해주세요."
-msgstr "Unable to connect to account. Please try again later."
+msgstr "设置关联失败，请稍后再试。"
 
 msgid "계정이 다른 아트리 계정과 연동되어 있습니다!"
-msgstr "This account is linked with another Ateli account!"
+msgstr "关联账号设置成功！"
 
 msgid "공개"
-msgstr "Public"
+msgstr "公开"
 
 msgid "공개된 정보가 없어요…"
-msgstr "No public information"
+msgstr "没有公开信息…"
 
 msgid "공유"
-msgstr "Share"
+msgstr "分享"
 
 msgid "과들루프"
-msgstr "Guadeloupe"
+msgstr "瓜德罗普"
 
 msgid "과테말라"
-msgstr "Guatemala"
+msgstr "危地马拉"
 
 msgid "관리"
-msgstr "Admin"
+msgstr "管理"
 
 msgid "관리자"
-msgstr "Administrator"
+msgstr "管理员"
 
 msgid "관리자에 의해 삭제됨"
-msgstr "Deleted by administrator"
+msgstr "已被管理员删除"
 
 msgid "관심사"
-msgstr "Interests"
+msgstr "感兴趣的事"
 
 msgid "괌"
-msgstr "Guam"
+msgstr "关岛"
 
 msgid "광고가 차단되었습니다."
-msgstr "Ads have been blocked."
+msgstr "广告已被屏蔽。"
 
 msgid "괜찮아요, 그냥 올릴게요."
-msgstr "No, thanks. I'll just upload it."
+msgstr "没关系，继续上传。"
 
 msgid "구글+ 공유"
-msgstr "Share to Google+"
+msgstr "Google+分享"
 
 msgid "구름에서 변환됨"
-msgstr "Converted from Cloud comment"
+msgstr "从云转变而来"
 
 msgid "그레나다"
-msgstr "Grenada"
+msgstr "格林纳达"
 
 msgid "그리스"
-msgstr "Greece"
+msgstr "希腊"
 
 msgid "그린란드"
-msgstr "Greenland"
+msgstr "格陵兰"
 
 msgid "기니"
-msgstr "Guinea"
+msgstr "几内亚"
 
 msgid "기니비사우"
-msgstr "Guinea-Bissau"
+msgstr "几内亚比绍"
 
 msgid "기본 미리보기 대신 표시할 이미지를 업로드할 수 있습니다."
-msgstr "You can upload another image to display instead of the default thumbnail."
+msgstr "可以上传图片来代替默认图片。"
 
 msgid "기타"
-msgstr "Other"
+msgstr "其他"
 
 msgid "꼭 입력하셔야 합니다."
-msgstr "Required"
+msgstr "此项为必填项目。"
 
 msgid "나만 볼 수 있도록 설정합니다."
-msgstr "Set to private"
+msgstr "设置为仅自己所见。"
 
 msgid "나미비아"
-msgstr "Namibia"
+msgstr "纳米比亚"
 
 msgid "나우루"
-msgstr "Nauru"
+msgstr "瑙鲁"
 
 msgid "나이지리아"
-msgstr "Nigeria"
+msgstr "尼日利亚"
 
 msgid "남극"
-msgstr "Antarctica"
+msgstr "南极"
 
 msgid "남성"
-msgstr "Male"
+msgstr "男"
 
 msgid "남수단"
-msgstr "South Sudan"
+msgstr "南苏丹"
 
 msgid "남아프리카 공화국"
-msgstr "South Africa"
+msgstr "南非"
 
 msgid "내 계정으로 간편 로그인"
-msgstr "Login with my account"
+msgstr "使用其他账号登录"
 
 msgid "내 소식만"
-msgstr "My Activity"
+msgstr "仅查看我的消息"
 
 msgid "내 아틀리에의 좋아요 메뉴를 숨기고 좋아한 사람 목록에서 표시하지 않습니다."
-msgstr "Hide the likes of my Atelier menu. Do not show me in the likes list."
+msgstr "在我的Ateliers中隐藏点赞菜单并不显示在喜欢的人目录中。"
 
 msgid "내가 남긴 웹 박수에 답장이 달렸어요."
-msgstr "There is a new reply in Web Clap."
+msgstr "我的鼓掌有了回复。"
 
 msgid "내용"
-msgstr "Content"
+msgstr "内容"
 
 msgid "내용을 입력해주세요."
-msgstr "Input content here."
+msgstr "请输入内容。"
 
 msgid "네덜란드"
-msgstr "Netherlands"
+msgstr "荷兰"
 
 msgid "네이버"
-msgstr "NAVER"
+msgstr "Naver"
 
 msgid "네팔"
-msgstr "Nepal"
+msgstr "尼泊尔"
 
 msgid "노르웨이"
-msgstr "Norway"
+msgstr "挪威"
 
 msgid "노출시간"
-msgstr "Exposure time"
+msgstr "曝光时间"
 
 msgid "노퍽 섬"
-msgstr "Norfolk Island"
+msgstr "诺福克岛"
 
 msgid "누벨칼레도니"
-msgstr "New Caledonia"
+msgstr "新喀里多尼亚"
 
 msgid "뉴질랜드"
-msgstr "New Zealand"
+msgstr "新西兰"
 
 msgid "니우에"
-msgstr "Niue"
+msgstr "纽埃"
 
 msgid "니제르"
-msgstr "Niger"
+msgstr "尼日尔"
 
 msgid "니카라과"
-msgstr "Nicaragua"
+msgstr "尼加拉瓜"
 
 msgid "다른 사람의 작품을 허락 없이 퍼오거나 편집하면 안돼요!"
-msgstr "Do not copy someone else's work without permission!"
+msgstr "未经他人允许，禁止随意使用和编辑他人作品！"
 
 msgid "다른 사람이 댓글을 쓸 수 없도록 합니다."
-msgstr "Set to prevent others from writing comments."
+msgstr ""
 
 msgid "다른 사람이 태그를 편집할 수 없게 설정합니다."
-msgstr "Set to prevent others from editing tags."
+msgstr "设置成其他人无法修改标签。"
 
 msgid "다른 사용자에 의해 삭제됨"
-msgstr "Deleted by another user"
+msgstr "已被其他用户删除"
 
 msgid "다시 보내기"
-msgstr "Send again"
+msgstr "重新发送"
 
 msgid "다음"
-msgstr "Next"
+msgstr "下一个"
 
 msgid "다이아몬드"
-msgstr "Diamond"
+msgstr "钻石"
 
 msgid "닫기"
-msgstr "Close"
+msgstr "关闭"
 
 msgid "당신의 취향은 안전해요… 좋아한 포스트를 공개하려면 설정을 변경하세요."
-msgstr ""
-"Your tastes are kept secret ... Change your settings to make your favorite "
-"posts public."
+msgstr "您的喜好无危险内容...可以将您喜欢的作品设置成公开。"
 
 msgid "대만"
-msgstr "Taiwan"
+msgstr "台湾"
 
 msgid "대한민국"
-msgstr "South Korea"
+msgstr "韩国"
 
 msgid "댓글"
-msgstr "Comments"
+msgstr "评论"
 
 msgid "댓글 작성 제한"
-msgstr "Comment Write Restrictions"
+msgstr ""
 
 msgid "댓글 활동"
-msgstr "Comment Activity"
+msgstr "历史评论"
 
 msgid "더 보기"
-msgstr "View more"
+msgstr "更多"
 
 msgid "덴마크"
-msgstr "Denmark"
+msgstr "丹麦"
 
 msgid "도미니카 공화국"
-msgstr "Dominican Republic"
+msgstr "南非"
 
 msgid "도미니카 연방"
-msgstr "Dominica"
+msgstr "多米尼加联邦"
 
 msgid "독일"
-msgstr "Germany"
+msgstr "德国"
 
 msgid "동영상"
-msgstr "Video"
+msgstr "视频"
 
 msgid "동영상 커미션"
-msgstr "Video Commission"
+msgstr "视频需求"
 
 msgid "동티모르"
-msgstr "Timor-Leste"
+msgstr "东帝汶"
 
 msgid "등록되지 않은 이메일 주소입니다."
-msgstr "This e-mail address is not registered."
+msgstr "未注册的邮箱地址。"
 
 msgid "라오스"
-msgstr "Lao People's Democratic Republic"
+msgstr "老挝"
 
 msgid "라이베리아"
-msgstr "Liberia"
+msgstr "利比里亚"
 
 msgid "라인 공유"
-msgstr "Share to LINE"
+msgstr "分享至LINE"
 
 msgid "라트비아"
-msgstr "Latvia"
+msgstr "拉脱维亚"
 
 msgid "랭킹"
-msgstr "Rankings"
+msgstr "排行榜"
 
 msgid "러시아"
-msgstr "Russian Federation"
+msgstr "俄罗斯"
 
 msgid "레바논"
-msgstr "Lebanon"
+msgstr "黎巴嫩"
 
 msgid "레소토"
-msgstr "Lesotho"
+msgstr "莱索托"
 
 msgid "레위니옹"
-msgstr "Réunion"
+msgstr "留尼汪"
 
 msgid "로그아웃"
-msgstr "Logout"
+msgstr "退出登录"
 
 msgid "로그인"
-msgstr "Login"
+msgstr "登录"
 
 msgid "로그인이 필요합니다."
-msgstr "Login Required"
+msgstr "请先登录账号。"
 
 msgid "루마니아"
-msgstr "Romania"
+msgstr "罗马尼亚"
 
 msgid "루비"
-msgstr "Ruby"
+msgstr "红宝石"
 
 msgid "룩셈부르크"
-msgstr "Luxembourg"
+msgstr "卢森堡"
 
 msgid "르완다"
-msgstr "Rwanda"
+msgstr "卢旺达"
 
 msgid "리비아"
-msgstr "Libyan Arab Jamahiriya"
+msgstr "利比亚"
 
 msgid "리투아니아"
-msgstr "Lithuania"
+msgstr "立陶宛"
 
 msgid "리히텐슈타인"
-msgstr "Liechtenstein"
+msgstr "列支敦士登"
 
 msgid "마다가스카르"
-msgstr "Madagascar"
+msgstr "马达加斯加"
 
 msgid "마르티니크"
-msgstr "Martinique"
+msgstr "马提尼克"
 
 msgid "마셜 제도"
-msgstr "Marshall Islands"
+msgstr "马绍尔群岛"
 
 msgid "마요트"
-msgstr "Mayotte"
+msgstr "马约特"
 
 msgid "마지막 편집:"
-msgstr "Last updated:"
+msgstr "最后编辑："
 
 msgid "마카오"
-msgstr "Macao"
+msgstr "澳门"
 
 msgid "마케도니아 공화국"
-msgstr "Macedonia"
+msgstr "马其顿共和国"
 
 msgid "말라위"
-msgstr "Malawi"
+msgstr "马拉维"
 
 msgid "말레이시아"
-msgstr "Malaysia"
+msgstr "马来西亚"
 
 msgid "말리"
-msgstr "Mali"
+msgstr "马里"
 
 msgid "맞팔 중"
-msgstr "Following each other"
+msgstr "互相关注中"
 
 msgid "맞팔하기"
-msgstr "Follow back"
+msgstr "互相关注"
 
 msgid "맨 섬"
-msgstr "Isle of Man"
+msgstr "马恩岛"
 
 msgid "맨 위로 가기"
-msgstr "Back to top"
+msgstr "返回顶部"
 
 msgid "메뉴"
-msgstr "Menu"
+msgstr "菜单"
 
 msgid "멕시코"
-msgstr "Mexico"
+msgstr "墨西哥"
 
 msgid "모나코"
-msgstr "Monaco"
+msgstr "摩纳哥"
 
 msgid "모델"
-msgstr "Model"
+msgstr "模特"
 
 msgid "모두 읽음으로 표시"
-msgstr "Mark All as Read"
+msgstr "全部标记为已读"
 
 msgid "모든 장치에서 로그아웃하기"
-msgstr "Logout from all devices"
+msgstr "在所有设备上退出登录"
 
 msgid "모로코"
-msgstr "Morocco"
+msgstr "摩洛哥"
 
 msgid "모리셔스"
-msgstr "Mauritius"
+msgstr "毛里求斯"
 
 msgid "모리타니"
-msgstr "Mauritania"
+msgstr "毛里塔尼亚"
 
 msgid "모잠비크"
-msgstr "Mozambique"
+msgstr "莫桑比克"
 
 msgid "목록"
-msgstr "List"
+msgstr ""
 
 msgid "몬테네그로"
-msgstr "Montenegro"
+msgstr "蒙特内格罗"
 
 msgid "몬트세랫"
-msgstr "Montserrat"
+msgstr "蒙塞拉特岛"
 
 msgid "몰도바"
-msgstr "Moldova"
+msgstr "摩尔达维亚"
 
 msgid "몰디브"
-msgstr "Maldives"
+msgstr "马尔代夫"
 
 msgid "몰타"
-msgstr "Malta"
+msgstr "马耳他"
 
 msgid "몽골"
-msgstr "Mongolia"
+msgstr "蒙古"
 
 msgid "문서를 연결할 수 없습니다."
-msgstr "Can't connect the document."
+msgstr "无法连接。"
 
 msgid "문의하기"
-msgstr "Contact Us"
+msgstr "咨询"
 
 msgid "미국"
-msgstr "United States of America"
+msgstr "美国"
 
 msgid "미국령 군소 제도"
-msgstr "United States Minor Outlying Islands"
+msgstr "美国本土外小岛屿"
 
 msgid "미국령 버진아일랜드"
-msgstr "Virgin Islands (U.S.)"
+msgstr "美属维尔京群岛"
 
 msgid "미디어"
-msgstr "Media"
+msgstr "音频"
 
 msgid "미디어 처리 중 오류가 발생했습니다."
-msgstr "An error occurred in media processing."
+msgstr "音频处理中发生错误。"
 
 msgid "미디어 파일이 {limit}보다 길면 잘릴 수 있어요."
-msgstr "If the media file is longer than {limit}, it can be truncated."
+msgstr "音频文件若超过{limit}有可能会被删减。"
 
 msgid "미얀마"
-msgstr "Myanmar"
+msgstr "缅甸"
 
 msgid "미크로네시아 연방"
-msgstr "Micronesia"
+msgstr "密克罗尼西亚联邦"
 
 msgid "바누아투"
-msgstr "Vanuatu"
+msgstr "瓦努阿图"
 
 msgid "바레인"
-msgstr "Bahrain"
+msgstr "巴林"
 
 msgid "바베이도스"
-msgstr "Barbados"
+msgstr "巴巴多斯"
 
 msgid "바티칸 시국"
-msgstr "Vatican City State"
+msgstr "梵蒂冈"
 
 msgid "바하마"
-msgstr "Bahamas"
+msgstr "巴哈马"
 
 msgid "박수"
-msgstr "Web Clap"
+msgstr "鼓掌"
 
 msgid "방글라데시"
-msgstr "Bangladesh"
+msgstr "孟加拉国"
 
 msgid "버뮤다"
-msgstr "Bermuda"
+msgstr "百慕大群岛"
 
 msgid "베냉"
-msgstr "Benin"
+msgstr "贝宁"
 
 msgid "베네수엘라"
-msgstr "Venezuela"
+msgstr "委内瑞拉"
 
 msgid "베트남"
-msgstr "Vietnam"
+msgstr "越南"
 
 msgid "벨기에"
-msgstr "Belgium"
+msgstr "比利时"
 
 msgid "벨라루스"
-msgstr "Belarus"
+msgstr "白俄罗斯"
 
 msgid "벨리즈"
-msgstr "Belize"
+msgstr "伯利兹"
 
 msgid "변경을 원할 경우 입력하세요."
-msgstr "Please enter if you want to edit."
+msgstr "请输入要修改的内容。"
 
 msgid "별자리"
-msgstr "Zodiac Sign"
+msgstr "星座"
 
 msgid "별자리 표시"
-msgstr "Make public my zodiac sign"
+msgstr "星座标志"
 
 msgid "별칭"
-msgstr "Alias"
+msgstr "昵称"
 
 msgid "보내기"
-msgstr "Send"
+msgstr "发送"
 
 msgid "보스니아 헤르체고비나"
-msgstr "Bosnia and Herzegovina"
+msgstr "波斯尼亚和黑塞哥维纳"
 
 msgid "보츠와나"
-msgstr "Botswana"
+msgstr "博茨瓦纳"
 
 msgid "복사"
-msgstr "Copy"
+msgstr "复制"
 
 msgid "볼리비아"
-msgstr "Bolivia"
+msgstr "玻利维亚"
 
 msgid "부룬디"
-msgstr "Burundi"
+msgstr "布隆迪"
 
 msgid "부르키나파소"
-msgstr "Burkina Faso"
+msgstr "布基纳法索"
 
 msgid "부베 섬"
-msgstr "Bouvet Island"
+msgstr "布韦岛"
 
 msgid "부탄"
-msgstr "Bhutan"
+msgstr "不丹"
 
 msgid "북마리아나 제도"
-msgstr "Northern Mariana Islands"
+msgstr "北马里亚纳群岛"
 
 msgid "불가리아"
-msgstr "Bulgaria"
+msgstr "保加利亚"
 
 msgid "브라질"
-msgstr "Brazil"
+msgstr "巴西"
 
 msgid "브루나이"
-msgstr "Brunei Darussalam"
+msgstr "文莱"
 
 msgid "블로그"
-msgstr "Blog"
+msgstr "博客"
 
 msgid "비공개"
-msgstr "Private"
+msgstr "未公开"
 
 msgid "비밀번호"
-msgstr "Password"
+msgstr "密码"
 
 msgid "비밀번호 찾기"
-msgstr "Find password"
+msgstr "找回密码"
 
 msgid "비밀번호 초기화"
-msgstr "Reset Password"
+msgstr "密码初始化"
 
 msgid "비밀번호가 변경되었습니다."
-msgstr "Your password has been changed."
+msgstr "更改密码成功。"
 
 msgid "비밀번호가 틀렸습니다."
-msgstr "The password is incorrect."
+msgstr "密码错误。"
 
 msgid "비밀번호를 잊으셨나요?"
-msgstr "Forgot your password?"
+msgstr "是否忘记密码？"
 
 msgid "사모아"
-msgstr "Samoa"
+msgstr "萨摩亚"
 
 msgid "사용자"
-msgstr "User"
+msgstr "用户"
 
 msgid "사우디아라비아"
-msgstr "Saudi Arabia"
+msgstr "沙特阿拉伯"
 
 msgid "사우스조지아 사우스샌드위치 제도"
-msgstr "South Georgia and the South Sandwich Islands"
+msgstr "南乔治亚岛与南桑威奇群岛"
 
 msgid "사진"
-msgstr "Photo"
+msgstr "照片"
 
 msgid "사진 커미션"
-msgstr "Photo Commission"
+msgstr "照片需求"
 
 msgid "사파이어"
-msgstr "Sapphire"
+msgstr "蓝宝石"
 
 msgid "삭제"
-msgstr "Delete"
+msgstr "删除"
 
 msgid "삭제됨"
-msgstr "Deleted"
+msgstr "已删除"
 
 msgid "산마리노"
-msgstr "San Marino"
+msgstr "圣马力诺"
 
 msgid "상투메 프린시페"
-msgstr "Sao Tome and Principe"
+msgstr "圣多美和普林西比"
 
 msgid "새로고침"
-msgstr "Refresh"
+msgstr "刷新"
 
 msgid "새로운 웹 박수가 있습니다."
-msgstr "You’ve got a new Web Clap."
+msgstr "您收到了新的鼓掌。"
 
 msgid "생마르탱"
-msgstr "Saint Martin"
+msgstr "法属圣马丁"
 
 msgid "생바르텔레미"
-msgstr "Saint Barthélemy"
+msgstr "圣巴泰勒米岛"
 
 msgid "생일"
-msgstr "Birthday"
+msgstr "生日"
 
 msgid "생피에르 미클롱"
-msgstr "Saint Pierre and Miquelon"
+msgstr "圣皮埃尔和密克隆群岛"
 
 msgid "서버 오류가 발생하여 페이지를 표시할 수 없습니다."
-msgstr "The page cannot be displayed due to a server error."
+msgstr "服务器错误，页面无法显示。"
 
 msgid "서비스 연동을 해제했습니다."
-msgstr "Un-linked account from the service."
+msgstr "已解除服务器关联。"
 
-msgid ""
-"서비스 이용에 문제가 있거나 새롭게 원하는 기능이 있나요? 편하게 말씀해주세요."
-msgstr ""
-"Is there a problem with the service or a new feature? Please feel free to tell "
-"us."
+msgid "서비스 이용에 문제가 있거나 새롭게 원하는 기능이 있나요? 편하게 말씀해주세요."
+msgstr "服务器使用方面有任何问题或者有希望添加的功能，请提出您宝贵的建议和意见。"
 
 msgid "서사하라"
-msgstr "Western Sahara"
+msgstr "西撒哈拉"
 
 msgid "석류석"
-msgstr "Garnet"
+msgstr "石榴石"
 
 msgid "성별"
-msgstr "Sex"
+msgstr "性别"
 
 msgid "세네갈"
-msgstr "Senegal"
+msgstr "塞内加尔"
 
 msgid "세르비아"
-msgstr "Serbia"
+msgstr "塞尔维亚"
 
 msgid "세이셸"
-msgstr "Seychelles"
+msgstr "塞舌尔"
 
 msgid "세인트루시아"
-msgstr "Saint Lucia"
+msgstr "圣卢西亚"
 
 msgid "세인트빈센트 그레나딘"
-msgstr "Saint Vincent and the Grenadines"
+msgstr "圣文森特和格林纳丁斯"
 
 msgid "세인트키츠 네비스"
-msgstr "Saint Kitts and Nevis"
+msgstr "圣克里斯托弗和尼维斯"
 
 msgid "세인트헬레나"
-msgstr "Saint Helena"
+msgstr "圣赫勒拿"
 
 msgid "소말리아"
-msgstr "Somalia"
+msgstr "索马利"
 
 msgid "솔로몬 제도"
-msgstr "Solomon Islands"
+msgstr "所罗门群岛"
 
 msgid "수단"
-msgstr "Sudan"
+msgstr "苏丹"
 
 msgid "수리남"
-msgstr "Suriname"
+msgstr "苏里南"
 
 msgid "스리랑카"
-msgstr "Sri Lanka"
+msgstr "斯里兰卡"
 
 msgid "스발바르 얀마옌"
-msgstr "Svalbard and Jan Mayen"
+msgstr "斯瓦尔巴和扬马延"
 
 msgid "스와질란드"
-msgstr "Swaziland"
+msgstr "斯威士兰"
 
 msgid "스웨덴"
-msgstr "Sweden"
+msgstr "瑞典"
 
 msgid "스위스"
-msgstr "Switzerland"
+msgstr "瑞士"
 
 msgid "스팸으로 인식되어 삭제됨"
-msgstr "Considered as spam and deleted"
+msgstr "已被识别为垃圾并删除"
 
 msgid "스페인"
-msgstr "Spain"
+msgstr "西班牙"
 
 msgid "슬로바키아"
-msgstr "Slovakia"
+msgstr "斯洛伐克"
 
 msgid "슬로베니아"
-msgstr "Slovenia"
+msgstr "斯洛文尼亚"
 
 msgid "시간대"
-msgstr "Timezone"
+msgstr "时间"
 
 msgid "시리아"
-msgstr "Syrian Arab Republic"
+msgstr "叙利亚"
 
 msgid "시에라리온"
-msgstr "Sierra Leone"
+msgstr "塞拉利昂"
 
 msgid "신트마르턴"
-msgstr "Sint Maarten (Dutch part)"
+msgstr "荷属圣马丁"
 
 msgid "싱가포르"
-msgstr "Singapore"
+msgstr "新加坡"
 
 msgid "아랍에미리트"
-msgstr "United Arab Emirates"
+msgstr "阿拉伯"
 
 msgid "아래 문의 양식이 표시되지 않을 경우 이메일로 문의하실 수 있습니다."
-msgstr "If you do not see the contact form below, you can contact us by email."
+msgstr "若以下咨询模板无法正常显示，可通过邮件进行咨询。"
 
 msgid "아루바"
-msgstr "Aruba"
+msgstr "阿鲁巴"
 
 msgid "아르메니아"
-msgstr "Armenia"
+msgstr "亚美尼亚"
 
 msgid "아르헨티나"
-msgstr "Argentina"
+msgstr "阿根廷"
 
 msgid "아메리칸사모아"
-msgstr "American Samoa"
+msgstr "美属萨摩亚"
 
 msgid "아이디"
-msgstr "Username"
+msgstr "账号"
 
 msgid "아이디나 비밀번호가 틀렸습니다."
-msgstr "The username or password is incorrect."
+msgstr "账号或密码错误。"
 
 msgid "아이슬란드"
-msgstr "Iceland"
+msgstr "冰岛"
 
 msgid "아이티"
-msgstr "Haiti"
+msgstr "海地"
 
 msgid "아일랜드"
-msgstr "Ireland"
+msgstr "爱尔兰"
 
 msgid "아제르바이잔"
-msgstr "Azerbaijan"
+msgstr "阿塞拜疆"
 
 msgid "아쿠아마린"
-msgstr "Aquamarine"
+msgstr "海蓝宝石"
 
 msgid "아트리"
 msgstr "Ateli"
 
 msgid "아트리 앱이 연동되지 않았습니다.​ 해당 서비스 연동을 동의하셔야 합니다."
-msgstr ""
-"The Ateli application was not linked. You must accept the service link for the "
-"app."
+msgstr "Ateli软件连接失败。需要同意相关连接服务。"
 
 msgid "아트리 회원가입"
-msgstr "Sign Up for Ateli"
+msgstr "加入Ateli会员"
 
 msgid "아틀리에"
-msgstr "Atelier"
+msgstr "Ateliers"
 
 msgid "아틀리에 구성원 전용 기능입니다."
-msgstr "This feature is for Atelier Members Only."
+msgstr "这是Ateliers成员专属功能。"
 
 msgid "아틀리에 웹 박수"
-msgstr "Atelier Web clap"
+msgstr "Ateliers鼓掌"
 
 msgid "아틀리에 팔로우"
-msgstr "Follow Atelier"
+msgstr "关注Ateliers"
 
 msgid "아프가니스탄"
-msgstr "Afghanistan"
+msgstr "阿富汗"
 
 msgid ""
 "안녕하세요. 아트리입니다.\n"
 "아래 주소로 접속하시면 비밀번호를 재설정하실 수 있습니다.\n"
 "{url}"
 msgstr ""
-"Hello, welcome to Ateli.\n"
-"Please click the link below to reset your password.\n"
+"欢迎来到Ateli！\n"
+"点击以下链接即可更改密码。\n"
 "{url}"
 
 msgid ""
@@ -916,1159 +902,1125 @@ msgid ""
 "아래 주소로 접속하시면 이메일 인증이 완료됩니다.\n"
 "{url}"
 msgstr ""
-"Hello, welcome to Ateli.\n"
-"Please click the link below to finish verifying.\n"
+"欢迎来到Ateli!\n"
+"点击以下链接即可完成邮箱验证。\n"
 "{url}"
 
 msgid "안도라"
-msgstr "Andorra"
+msgstr "安道尔公国"
 
 msgid "알림"
-msgstr "Notifications"
+msgstr "通知"
 
 msgid "알림이 없습니다."
-msgstr "There is no notification."
+msgstr "没有通知。"
 
 msgid "알바니아"
-msgstr "Albania"
+msgstr "阿尔巴尼亚"
 
 msgid "알제리"
-msgstr "Algeria"
+msgstr "阿尔及利亚"
 
 msgid "앙골라"
-msgstr "Angola"
+msgstr "安哥拉"
 
 msgid "앤티가 바부다"
-msgstr "Antigua and Barbuda"
+msgstr "安提瓜和巴布达"
 
 msgid "앨범"
-msgstr "Album"
+msgstr ""
 
 msgid "앵귈라"
-msgstr "Anguilla"
+msgstr "安圭拉"
 
 msgid "언어"
-msgstr "Language"
+msgstr "语言"
 
 msgid "언어가 변경되었습니다."
-msgstr "The language has been changed."
+msgstr "语言切换成功。"
 
 msgid "언어를 변경할 수 있습니다."
-msgstr "You can change the language."
+msgstr "可以切换语言。"
 
 msgid "업로드"
-msgstr "Upload"
+msgstr "上传"
 
 msgid "업로드 가능한 파일"
-msgstr "Uploadable files"
+msgstr "支持上传的文件"
 
 msgid "에리트레아"
-msgstr "Eritrea"
+msgstr "厄立特里亚"
 
 msgid "에메랄드"
-msgstr "Emerald"
+msgstr "祖母绿"
 
 msgid "에스토니아"
-msgstr "Estonia"
+msgstr "爱沙尼亚"
 
 msgid "에콰도르"
-msgstr "Ecuador"
+msgstr "厄瓜多尔"
 
 msgid "에티오피아"
-msgstr "Ethiopia"
+msgstr "埃塞俄比亚"
 
 msgid "엘살바도르"
-msgstr "El Salvador"
+msgstr "萨尔瓦多"
 
 msgid "여기를 클릭하거나 파일을 내려놓으세요."
-msgstr "Click here or drag the files here."
+msgstr "点击此处或将文件拖至此处。"
 
 msgid "여성"
-msgstr "Female"
+msgstr "女"
 
 msgid "연결"
-msgstr "Connect"
+msgstr "连接"
 
 msgid "연도 공개"
-msgstr "Make public year"
+msgstr "公开年份"
 
 msgid "연동 끊기"
-msgstr "Un-link"
+msgstr "断开连接"
 
 msgid "영국"
-msgstr "United Kingdom"
+msgstr "英国"
 
 msgid "영국령 버진아일랜드"
-msgstr "Virgin Islands (British)"
+msgstr "英属维尔京群岛"
 
 msgid "영국령 인도양 지역"
-msgstr "British Indian Ocean Territory"
+msgstr "英属印度洋领地"
 
-msgid ""
-"영문, 숫자, 붙임표(-)만 사용할 수 있습니다. 붙임표(-)로 시작하거나 끝날 수 없습"
-"니다."
-msgstr ""
-"You may use the English alphabet, numbers, and hyphens(-). Although, hyphens(-) "
-"cannot be used as the first or last letter."
+msgid "영문, 숫자, 붙임표(-)만 사용할 수 있습니다. 붙임표(-)로 시작하거나 끝날 수 없습니다."
+msgstr "只能使用英文、数字或特殊符号（-）且不能以（-）作为开头或结尾。"
 
 msgid "영어"
-msgstr "English"
+msgstr "英文"
 
 msgid "예멘"
-msgstr "Yemen"
+msgstr "也门"
 
 msgid "오만"
-msgstr "Oman"
+msgstr "阿曼"
 
 msgid "오스트리아"
-msgstr "Austria"
+msgstr "澳大利亚"
 
 msgid "오팔"
-msgstr "Opal"
+msgstr "碧玺"
 
 msgid "온두라스"
-msgstr "Honduras"
+msgstr "洪都拉斯"
 
 msgid "올란드 제도"
-msgstr "Åland Islands"
+msgstr "奥兰群岛"
 
 msgid "올바른 이메일 주소가 아닙니다."
-msgstr "Invalid email address."
+msgstr "邮箱地址错误。"
 
 msgid "올바른 주소가 아닙니다."
-msgstr "Invalid address."
+msgstr "地址错误。"
 
 msgid "왈리스 퓌튀나"
-msgstr "Wallis and Futuna"
+msgstr "瓦利斯和富图纳"
 
 msgid "요르단"
-msgstr "Jordan"
+msgstr "约旦"
 
 msgid "요청한 페이지가 삭제되었거나 주소를 잘못 입력하셨습니다."
-msgstr ""
-"You have entered the wrong address, or the requested page has been deleted."
+msgstr "访问页面已被删除或地址错误。"
 
 msgid "요청한 페이지에 접근할 권한이 없습니다."
-msgstr "You do not have permission to access the requested page."
+msgstr "您无权限访问该页面。"
 
 msgid "우간다"
-msgstr "Uganda"
+msgstr "乌干达"
 
 msgid "우루과이"
-msgstr "Uruguay"
+msgstr "乌拉圭"
 
 msgid "우즈베키스탄"
-msgstr "Uzbekistan"
+msgstr "乌兹别克斯坦"
 
 msgid "우크라이나"
-msgstr "Ukraine"
+msgstr "乌克兰"
 
 msgid "월-일 공개"
-msgstr "Make public month/day"
+msgstr "周一至周日 公开"
 
 msgid "월장석"
-msgstr "Moonstone"
+msgstr "月光石"
 
 msgid "웹 박수"
-msgstr "Web clap"
+msgstr "鼓掌"
 
-msgid ""
-"웹 박수 기능은 곧 종료될 예정입니다. 자세한 사항은 공식 블로그를 확인하세요."
-msgstr "Web clap will soon be over. See the official blog for details."
+msgid "웹 박수 기능은 곧 종료될 예정입니다. 자세한 사항은 공식 블로그를 확인하세요."
+msgstr "鼓掌功能即将关闭。详细内容请查看官网。"
 
 msgid "웹 박수 답장"
-msgstr "Web clap reply"
+msgstr "鼓掌回复"
 
 msgid "위키피디아"
-msgstr "Wikipedia"
+msgstr "维基百科"
 
 msgid "음악"
-msgstr "Music"
+msgstr "音乐"
 
 msgid "음악 커미션"
-msgstr "Music Commission"
+msgstr "音乐需求"
 
 msgid "응원 내용은 다른 사람이 볼 수 없습니다."
-msgstr "Web clap details cannot be viewed by others."
+msgstr "其他人无法查看应援详情。"
 
 msgid "응원이 없습니다."
-msgstr "There is no web clap."
+msgstr "没有应援。"
 
 msgid "이라크"
-msgstr "Iraq"
+msgstr "伊拉克"
 
 msgid "이란"
-msgstr "Iran"
+msgstr "伊朗"
 
 msgid "이름"
-msgstr "Name"
+msgstr "名字"
 
 msgid "이메일"
-msgstr "Email"
+msgstr "邮箱"
 
 msgid "이메일 공개"
-msgstr "Make public my email address"
+msgstr "公开邮箱"
 
 msgid "이메일 인증이 완료되었습니다."
-msgstr "E-mail verification completed."
+msgstr "邮箱验证成功。"
 
 msgid "이메일 인증이 이미 완료되었습니다."
-msgstr "E-mail has been already verified."
+msgstr "已完成邮箱验证。"
 
 msgid "이메일 인증이 필요합니다."
-msgstr "E-mail verification is required."
+msgstr "需要验证邮箱。"
 
 msgid "이메일 주소"
-msgstr "E-mail Address"
+msgstr "邮箱地址"
 
 msgid "이메일 주소가 없으면 계정을 분실할 위험이 있습니다!"
-msgstr ""
-"If you do not have an e-mail address, there is a risk of losing your account!"
+msgstr "未输入邮箱地址的情况有可能造成账号丢失！"
 
 msgid "이메일 주소를 등록하시면 계정을 분실했을 때 유용합니다."
-msgstr "Registering your e-mail address is useful in case your account is lost."
+msgstr "账号丢失的情况可以通过邮箱找回。"
 
 msgid "이미 사용 중입니다."
-msgstr "Already in use."
+msgstr "正在使用中。"
 
 msgid "이미 인증했거나 유효기간이 지났습니다."
-msgstr "The validity period has passed or it has already been verified."
+msgstr "已验证或已过有效期。"
 
 msgid "이미지"
-msgstr "Image"
+msgstr "图片"
 
 msgid "이미지 처리 중 오류가 발생했습니다."
-msgstr "An error occurred during image processing."
+msgstr "图片处理过程中发生错误。"
 
 msgid "이스라엘"
-msgstr "Israel"
+msgstr "以色列"
 
 msgid "이용약관"
-msgstr "Terms of Service"
+msgstr "使用条款"
 
 msgid "이전"
-msgstr "Previous"
+msgstr "前一页"
 
 msgid "이전 페이지로 돌아가기"
-msgstr "Back to previous page"
+msgstr "返回前一页"
 
 msgid "이집트"
-msgstr "Egypt"
+msgstr "埃及"
 
 msgid "이탈리아"
-msgstr "Italy"
+msgstr "意大利"
 
 msgid "인도"
-msgstr "India"
+msgstr "印度"
 
 msgid "인도네시아"
-msgstr "Indonesia"
+msgstr "印度尼西亚"
 
 msgid "인사말"
-msgstr "Greetings"
+msgstr "个性签名"
 
 msgid "인스타그램"
-msgstr "Instagram"
+msgstr "instagram"
 
 msgid "인증되었습니다."
-msgstr "Has been verified."
+msgstr "验证成功。"
 
 msgid "인증되지 않았습니다."
-msgstr "Has not been verified."
+msgstr "验证失败。"
 
 msgid "일러스트"
-msgstr "Illustration"
+msgstr "插画"
 
 msgid "일러스트 커미션"
-msgstr "Illustration Commission"
+msgstr "插画需求"
 
 msgid "일본"
-msgstr "Japan"
+msgstr "日本"
 
 msgid "일본어"
-msgstr "Japanese"
+msgstr "日语"
 
 msgid "임시 저장"
-msgstr "Temporary Save"
+msgstr "暂时保存"
 
 msgid "자동 가입 방지"
-msgstr "Automated Signup Prevention"
+msgstr "禁止自动加入"
 
 msgid "자동 입력 방지 확인에 실패했습니다. 지시에 따라 다시 시도해 주세요."
-msgstr ""
-"Failed to verify the Captcha. Please try again according to the instructions."
+msgstr "禁止自动输入失败。请根据指示重新尝试。"
 
 msgid "자메이카"
-msgstr "Jamaica"
+msgstr "牙买加"
 
 msgid "자수정"
-msgstr "Amethyst"
+msgstr "紫水晶"
 
 msgid "자주 쓰는 태그"
-msgstr "Frequently used tags"
+msgstr "常用标签"
 
 msgid "작성 중인 포스트가 있어요."
-msgstr "You have a draft."
+msgstr "有作品正在编辑中。"
 
 msgid "작성 중인 포스트를 먼저 정리해주세요."
-msgstr "Finish the draft first."
+msgstr "请先处理正在编辑中的作品。"
 
 msgid "작품"
-msgstr "Work"
+msgstr "作品"
 
 msgid "작품 주소"
-msgstr "Link to work"
+msgstr "作品地址"
 
 msgid "작품/커미션 자동 트윗하기"
-msgstr "Auto-tweet your post"
+msgstr "作品/需求自动上传至Twitter"
 
 msgid "잠비아"
-msgstr "Zambia"
+msgstr "赞比亚"
 
 msgid "저장되었습니다."
-msgstr "Saved."
+msgstr "已成功保存。"
 
 msgid "저지 섬"
-msgstr "Jersey"
+msgstr "泽西岛"
 
 msgid "적도 기니"
-msgstr "Equatorial Guinea"
+msgstr "赤道几内亚"
 
 msgid "전송 중..."
-msgstr "Sending..."
+msgstr "正在发送中..."
 
 msgid "전송을 완료했습니다. 이메일을 확인해주세요."
-msgstr "The mail has been sent. Please check your e-mail."
+msgstr "已成功发送，请前往邮箱确认。"
 
 msgid "전체"
-msgstr "All"
+msgstr "全部"
 
 msgid "정말 로그아웃할까요?"
-msgstr "Are you sure you want to logout?"
+msgstr "确定退出登录？"
 
 msgid "정말 삭제할까요?"
-msgstr "Are you sure you want to delete this?"
+msgstr "确定删除？"
 
 msgid "정말 삭제할까요? (관리자 모드)"
-msgstr "Are you sure you want to delete this? (Administrator mode)"
+msgstr "确定删除？（管理员模式）"
 
 msgid "정말 좋아요 할까요?"
-msgstr "Are you sure you want to ‘Like’ ?"
+msgstr "确定点赞？"
 
 msgid "정말 좋아요를 취소할까요?"
-msgstr "Are you sure you want to Unlike?"
+msgstr "确定取消点赞？"
 
 msgid "정말 팔로우를 취소할까요?"
-msgstr "Are you sure you want to unfollow this person?"
+msgstr "确定取消关注？"
 
 msgid "정말 팔로우할까요?"
-msgstr "Are you sure you want to follow this person?"
+msgstr "确定关注？"
 
 msgid "정말 홈에 고정을 취소할까요?"
-msgstr "Do you really want to cancel the pin on the home?"
+msgstr "确定取消首页固定？"
 
 msgid "정말 홈에 고정할까요? 이전 포스트는 대체됩니다."
-msgstr "Do you really want to pin to home? Previous posts will be replaced."
+msgstr "确定固定至到首页？之前的作品将会被替代。"
 
 msgid "정상 상태"
-msgstr "Normal state"
+msgstr "正常状态"
 
 msgid "제목"
-msgstr "Title"
+msgstr "标题"
 
 msgid "제목 없음"
-msgstr "Untitled"
+msgstr "无标题"
 
 msgid "제조사"
-msgstr "Manufacturer"
+msgstr "制造商"
 
 msgid "조리개"
-msgstr "Aperture"
+msgstr "光圈"
 
 msgid "조선민주주의인민공화국"
-msgstr "North Korea"
+msgstr "朝鲜"
 
 msgid "조지아"
-msgstr "Georgia"
+msgstr "格鲁吉亚行政区划"
 
 msgid "좋아요"
-msgstr "Like"
+msgstr "点赞"
 
 msgid "좋아요 비공개"
-msgstr "Make private my likes"
+msgstr "私密点赞"
 
 msgid "좋아요 취소"
-msgstr "Unlike"
+msgstr "取消点赞"
 
 msgid "좋아한 사람"
-msgstr "People who liked this post"
+msgstr "喜欢的人"
 
 msgid "좋아한 포스트"
-msgstr "Liked post"
+msgstr "喜欢的作品"
 
 msgid "좋아한 포스트가 없습니다."
-msgstr "There is no liked post."
+msgstr "没有喜欢的作品。"
 
 msgid "죄송합니다. 이 컨텐츠는 한국어로 번역 중입니다."
-msgstr ""
-"Sorry for the inconvenience. This content is being translated into English."
+msgstr "非常抱歉，当前内容正在进行韩文翻译。"
 
 msgid "주소"
-msgstr "Address"
+msgstr "地址"
 
 msgid "중국"
-msgstr "China"
+msgstr "中国"
 
 msgid "중국어 간체"
-msgstr "Simplified Chinese"
+msgstr "中文-简体"
 
 msgid "중앙아프리카 공화국"
-msgstr "Central African Republic"
+msgstr "中非"
 
 msgid "지부티"
-msgstr "Djibouti"
+msgstr "吉布提"
 
 msgid "지브롤터"
-msgstr "Gibraltar"
+msgstr "直布罗陀"
 
 msgid "지원하지 않는 형식입니다."
-msgstr "The format is not supported."
+msgstr "不支持的格式。"
 
 msgid "진주"
-msgstr "Pearl"
+msgstr "珍珠"
 
 msgid "짐바브웨"
-msgstr "Zimbabwe"
+msgstr "津巴布韦"
 
 msgid "차단된 사용자"
-msgstr "Blocked users"
+msgstr "被屏蔽的用户"
 
 msgid "차드"
-msgstr "Chad"
+msgstr "乍得"
 
 msgid "처리 대기 중"
-msgstr "Waiting for processing"
+msgstr "正在等待处理"
 
 msgid "처리 배정됨"
-msgstr "Assigned"
+msgstr "待处理内容已分配"
 
 msgid "처리 실패"
-msgstr "Process failed"
+msgstr "处理失败"
 
 msgid "처리 완료"
-msgstr "Process success"
+msgstr "处理完成"
 
 msgid "처리 중"
-msgstr "Processing"
+msgstr "正在处理中"
 
 msgid "처리 취소됨"
-msgstr "Cancelled"
+msgstr "已成功取消"
 
 msgid "첨부 파일에 문제가 있어 표시할 수 없습니다."
-msgstr "There is a problem with the attachment and cannot be displayed."
+msgstr "附件出现问题，无法正常显示。"
 
 msgid "첨부 파일을 처리 중입니다. 잠시 후 다시 시도해보세요."
-msgstr "The attachment is being processed. Please try again later."
+msgstr "正在处理附件，请稍后再试。"
 
 msgid "체코"
-msgstr "Czech Republic"
+msgstr "提克"
 
 msgid "초점거리"
-msgstr "Focal Distance"
+msgstr "焦距"
 
 msgid "최근 업로드"
-msgstr "Recent posts"
+msgstr "最近上传"
 
 msgid "최근 작품"
-msgstr "Recent Work"
+msgstr "最近作品"
 
 msgid "추가"
-msgstr "Add"
+msgstr "添加"
 
 msgid "추천"
-msgstr "Suggestion"
+msgstr "推荐"
 
 msgid "취소"
-msgstr "Cancel"
+msgstr "取消"
 
 msgid "칠레"
-msgstr "Chile"
+msgstr "智利"
 
 msgid "카리브 네덜란드"
-msgstr "Caribbean Netherlands"
+msgstr "荷兰共和国"
 
 msgid "카메룬"
-msgstr "Cameroon"
+msgstr "喀麦隆"
 
 msgid "카보베르데"
-msgstr "Cape Verde"
+msgstr "佛得角"
 
 msgid "카자흐스탄"
-msgstr "Kazakhstan"
+msgstr "哈萨克斯坦"
 
 msgid "카카오스토리 공유"
-msgstr "Share to Kakaostory"
+msgstr "分享至KakaoStory"
 
 msgid "카카오톡 공유"
-msgstr "Share to Kakaotalk"
+msgstr "分享到Kakao Talk"
 
 msgid "카타르"
-msgstr "Qatar"
+msgstr "卡塔尔"
 
 msgid "카테고리"
-msgstr "Category"
+msgstr "类别"
 
 msgid "캄보디아"
-msgstr "Cambodia"
+msgstr "柬埔寨"
 
 msgid "캐나다"
-msgstr "Canada"
+msgstr "加拿大"
 
 msgid "커미션"
-msgstr "Commission"
+msgstr "需求"
 
 msgid "커버 이미지"
-msgstr "Cover image"
+msgstr "封面"
 
 msgid "커버 이미지를 변경할 수 없습니다: {reason}"
-msgstr "Failed to change cover image: {reason}"
+msgstr "无法更改封面: {reason}"
 
 msgid "케냐"
-msgstr "Kenya"
+msgstr "肯尼亚"
 
 msgid "케이맨 제도"
-msgstr "Cayman Islands"
+msgstr "开曼群岛"
 
 msgid "코모로"
-msgstr "Comoros"
+msgstr "科摩罗"
 
 msgid "코소보"
-msgstr "Kosovo"
+msgstr "科索沃"
 
 msgid "코스타리카"
-msgstr "Costa Rica"
+msgstr "哥斯达黎加"
 
 msgid "코스프레"
-msgstr "Cosplay"
+msgstr "cosplay"
 
 msgid "코코스 제도"
-msgstr "Cocos (Keeling) Islands"
+msgstr "科科斯群岛"
 
 msgid "코트디부아르"
-msgstr "Côte d'Ivoire"
+msgstr "科特迪瓦"
 
 msgid "콜롬비아"
-msgstr "Colombia"
+msgstr "哥伦比亚"
 
 msgid "콩고 공화국"
-msgstr "Congo"
+msgstr "刚果共和国"
 
 msgid "콩고 민주 공화국"
-msgstr "Congo"
+msgstr "刚果人民共和国"
 
 msgid "쿠바"
-msgstr "Cuba"
+msgstr "古巴"
 
 msgid "쿠웨이트"
-msgstr "Kuwait"
+msgstr "科威特"
 
 msgid "쿡 제도"
-msgstr "Cook Islands"
+msgstr "库克群岛"
 
 msgid "퀴라소"
-msgstr "Curaçao"
+msgstr "库拉索"
 
 msgid "크로아티아"
-msgstr "Croatia"
+msgstr "克罗地亚"
 
 msgid "크리스마스 섬"
-msgstr "Christmas Island"
+msgstr "圣诞岛"
 
 msgid "키르기스스탄"
-msgstr "Kyrgyzstan"
+msgstr "吉尔吉斯斯坦"
 
 msgid "키리바시"
-msgstr "Kiribati"
+msgstr "基里巴斯"
 
 msgid "키프로스"
-msgstr "Cyprus"
+msgstr "塞浦路斯"
 
 msgid "타지키스탄"
-msgstr "Tajikistan"
+msgstr "塔吉克斯坦"
 
 msgid "탄생석"
-msgstr "Birthstone"
+msgstr "生辰石"
 
 msgid "탄생석 표시"
-msgstr "Make public my birthstone"
+msgstr "显示生辰石"
 
 msgid "탄자니아"
-msgstr "Tanzania"
+msgstr "坦桑尼亚"
 
 msgid "탈퇴 후에는 어떠한 이유로도 계정을 복구할 수 없습니다."
-msgstr ""
-"After you delete your account, you never will be able to recover it for any "
-"reason."
+msgstr "退出后将无法复原账号。"
 
 msgid "태국"
-msgstr "Thailand"
+msgstr "泰国"
 
 msgid "태그"
-msgstr "Tag"
+msgstr "标签"
 
 msgid "태그 보기"
-msgstr "See tags"
+msgstr "查看标签"
 
 msgid "태그 아이디는 공식 한글명과 동일해야 합니다."
-msgstr "ID tags should be the same as the official hangeulmyeong."
+msgstr "标签ID需要与正式韩文名称一致。"
 
 msgid "태그 연결은 롤백이 불가능하므로 신중하게 결정하세요."
-msgstr "Decide tag connections carefully, as it could not be rolled back."
+msgstr "无法重新上传标签，请慎重决定标签。"
 
 msgid "태그 이름"
-msgstr "Tag Name"
+msgstr "标签名称"
 
 msgid "태그 편집 제한"
-msgstr "Tag Edit Restrictions"
+msgstr "标签编辑权限"
 
 msgid "태그를 더 이상 추가할 수 없습니다."
-msgstr "You cannot add tags any more."
+msgstr "无法再添加标签。"
 
 msgid "태그를 추가하면 포스트를 발견하기 쉬워집니다."
-msgstr "Adding tags makes it easier to discover your post."
+msgstr "添加标签后作品被查看的几率更高。"
 
 msgid "터크스 케이커스 제도"
-msgstr "Turks and Caicos Islands"
+msgstr "特克斯和凯科斯群岛"
 
 msgid "터키"
-msgstr "Turkey"
+msgstr "土耳其"
 
 msgid "터키석"
-msgstr "Turquoise"
+msgstr "绿松石"
 
 msgid "토고"
-msgstr "Togo"
+msgstr "多哥"
 
 msgid "토켈라우"
-msgstr "Tokelau"
+msgstr "托克劳群岛"
 
 msgid "토파즈"
-msgstr "Topaz"
+msgstr "黄玉"
 
 msgid "통가"
-msgstr "Tonga"
+msgstr "汤加"
 
 msgid "투르크메니스탄"
-msgstr "Turkmenistan"
+msgstr "土库曼斯坦"
 
 msgid "투발루"
-msgstr "Tuvalu"
+msgstr "图瓦卢"
 
 msgid "튀니지"
-msgstr "Tunisia"
+msgstr "突尼斯"
 
 msgid "트리니다드 토바고"
-msgstr "Trinidad and Tobago"
+msgstr "特立尼达和多巴哥"
 
 msgid "트위터"
 msgstr "Twitter"
 
 msgid "트위터 공개"
-msgstr "Make public my Twitter"
+msgstr "公开Twitter账号"
 
 msgid "트위터 공유"
-msgstr "Share to Twitter"
+msgstr "分享Twitter"
 
 msgid "트위터로 공유"
-msgstr "Share to Twitter"
+msgstr "分享到Twitter"
 
 msgid "트위터에 게시했습니다."
-msgstr "Succesfully Tweeted."
+msgstr "已上传至Twitter。"
 
 msgid "파나마"
-msgstr "Panama"
+msgstr "巴拿马"
 
 msgid "파라과이"
-msgstr "Paraguay"
+msgstr "巴拉圭"
 
 msgid "파일"
-msgstr "File"
+msgstr "文件"
 
 msgid "파일을 찾을 수 없습니다."
-msgstr "File not found."
+msgstr "未找到文件。"
 
 msgid "파일이 너무 큽니다."
-msgstr "File is too large."
+msgstr "文件过大。"
 
 msgid "파키스탄"
-msgstr "Pakistan"
+msgstr "巴基斯坦"
 
 msgid "파푸아뉴기니"
-msgstr "Papua New Guinea"
+msgstr "巴布亚新几内亚"
 
 msgid "팔라우"
-msgstr "Palau"
+msgstr "帕劳"
 
 msgid "팔레스타인"
-msgstr "Palestine"
+msgstr "巴勒斯坦"
 
 msgid "팔로우"
-msgstr "Follow"
+msgstr "关注"
 
 msgid "팔로우 추천"
-msgstr "Follow suggestions"
+msgstr "推荐的人"
 
 msgid "팔로워"
-msgstr "Followers"
+msgstr "粉丝"
 
 msgid "팔로워가 {count}명 늘었어요."
-msgstr "You have {count} new follower(s)."
+msgstr "新增{count}名粉丝。"
 
 msgid "팔로워가 없습니다."
-msgstr "You do not have any followers."
+msgstr "没有粉丝。"
 
 msgid "팔로잉"
-msgstr "Following"
+msgstr "已关注"
 
 msgid "팔로잉이 없습니다."
-msgstr "You are not following anyone."
+msgstr "没有已关注的用户。"
 
 msgid "페로 제도"
-msgstr "Faroe Islands"
+msgstr "法罗群岛"
 
 msgid "페루"
-msgstr "Peru"
+msgstr "秘鲁"
 
 msgid "페리도트"
-msgstr "Peridot"
+msgstr "橄榄石"
 
 msgid "페이스북"
 msgstr "Facebook"
 
 msgid "페이스북 공유"
-msgstr "Share to Facebook"
+msgstr "分享到Facebook"
 
 msgid "편집"
-msgstr "Edit"
+msgstr "编辑"
 
 msgid "포르투갈"
-msgstr "Portugal"
+msgstr "葡萄牙"
 
 msgid "포스트"
-msgstr "Post"
+msgstr "作品"
 
 msgid "포스트 업로드"
-msgstr "Upload post"
+msgstr "上传作品"
 
 msgid "포스트 활동"
-msgstr "Post Activity"
+msgstr "作品活动"
 
 msgid "포스트가 없습니다."
-msgstr "There are no posts."
+msgstr "没有作品。"
 
 msgid "포클랜드 제도"
-msgstr "Falkland Islands (Malvinas)"
+msgstr "福克兰群岛"
 
 msgid "폴란드"
-msgstr "Poland"
+msgstr "波兰"
 
 msgid "푸에르토리코"
-msgstr "Puerto Rico"
+msgstr "波多黎各"
 
 msgid "프랑스"
-msgstr "France"
+msgstr "法国"
 
 msgid "프랑스령 기아나"
-msgstr "French Guiana"
+msgstr "法属圭亚那"
 
 msgid "프랑스령 남방 및 남극"
-msgstr "French Southern Territories"
+msgstr "法属南部领地"
 
 msgid "프랑스령 폴리네시아"
-msgstr "French Polynesia"
+msgstr "法属波利尼西亚"
 
 msgid "프로필"
-msgstr "Profile"
+msgstr "个人简介"
 
 msgid "프로필 이미지"
-msgstr "Profile Image"
+msgstr "头像"
 
 msgid "피지"
-msgstr "Fiji"
+msgstr "斐济"
 
 msgid "핀란드"
-msgstr "Finland"
+msgstr "芬兰"
 
 msgid "필리핀"
-msgstr "Philippines"
+msgstr "菲律宾"
 
 msgid "핏케언 제도"
-msgstr "Pitcairn"
+msgstr "皮特凯恩群岛"
 
 msgid "한국어"
-msgstr "Korean"
+msgstr "韩语"
 
 msgid "한국어 (Korean)"
-msgstr "한국어 (Korean)"
+msgstr "韩语 (Korean)"
 
 msgid "함께하는 창작, 아트리!"
-msgstr "Create together - Ateli"
+msgstr "共同完成创作，Ateli!"
 
 msgid "허드 맥도널드 제도"
-msgstr "Heard Island and McDonald Islands"
+msgstr "赫德岛和麦克唐纳群岛"
 
 msgid "헝가리"
-msgstr "Hungary"
+msgstr "匈牙利"
 
 msgid "헤더 이미지"
-msgstr "Header image"
+msgstr "个人主页图片"
 
 msgid "현재 이미지 삭제"
-msgstr "Remove current image"
+msgstr "删除当前图片"
 
 msgid "혈석"
-msgstr "Bloodstone"
+msgstr "海蓝宝石"
 
 msgid "혈액형"
-msgstr "Blood Type"
+msgstr "血型"
 
 msgid "호주"
-msgstr "Australia"
+msgstr "澳大利亚"
 
 msgid "홈"
-msgstr "Home"
+msgstr "首页"
 
 msgid "홈에 고정"
-msgstr "Pin to Atelier Home"
+msgstr "固定到首页"
 
 msgid "홈에 고정 취소"
-msgstr "Un-pin to Atelier Home"
+msgstr "取消首页固定"
 
 msgid "홈페이지 주소"
-msgstr "Homepage URL"
+msgstr "首页地址"
 
 msgid "홍콩"
-msgstr "Hong Kong"
+msgstr "香港"
 
 msgid "확인"
-msgstr "Confirm"
+msgstr "确认"
 
 msgid "활동 내역 삭제가 처리되는데 시간이 소요될 수 있습니다."
-msgstr "Deleting activity history may take some time to process."
+msgstr "活动详情页面已被删除，需要一些时间。"
 
 msgid "황수정"
-msgstr "Citrine"
+msgstr "黄水晶"
 
 msgid "회원 탈퇴"
-msgstr "Delete my account"
+msgstr "退出会员"
 
 msgid "회원 탈퇴가 접수되었습니다. 다시 돌아오실 수 있도록 더욱 노력하겠습니다."
-msgstr ""
-"We have received your account removal. We will do our best to make you come "
-"back again."
+msgstr "已成功退出会员，我们会更加努力并期待您再次加入。"
 
 msgid "회원가입"
-msgstr "Sign Up"
+msgstr "加入会员"
 
 #~ msgid "다른 계정으로 진행할 수 없습니다."
-#~ msgstr "You can not proceed with another account."
+#~ msgstr "不能使用其他账号进行。"
 
 #~ msgid "메시지"
-#~ msgstr "Messages"
+#~ msgstr "消息"
 
 #~ msgid "아틀리에의 변화가 없습니다."
-#~ msgstr "There is no change in the atelier."
+#~ msgstr "Atelier没有任何变化。"
 
 #~ msgid "이메일을 보낼 수 없습니다. 잠시 후 다시 시도해주세요."
-#~ msgstr "Failed to send the mail. Please try again later."
+#~ msgstr "邮件发送失败，请稍后重试。"
 
 #~ msgid "커미션 정보를 등록했습니다."
-#~ msgstr "Commission Registered"
+#~ msgstr "需求信息上传成功。"
 
 #~ msgid "댓글 작성 시 자동 트윗하기"
-#~ msgstr "Automatically tweet every time you post a comment"
+#~ msgstr "自动上传评论至Twitter"
 
 #~ msgid "오류가 발생하여 트위터에 게시하지 못했습니다."
-#~ msgstr "Failed to post to Twitter due to an error."
+#~ msgstr "Twitter上传失败。"
 
 #~ msgid "부분 일치"
-#~ msgstr "Partial match"
+#~ msgstr "部分一致"
 
 #~ msgid "완전 일치"
-#~ msgstr "Exact match"
+#~ msgstr "完全一致"
 
 #~ msgid "응답 대기 중"
-#~ msgstr "Waiting for a response"
+#~ msgstr "等待回应中"
 
 #~ msgid "응답 완료"
-#~ msgstr "Responded"
+#~ msgstr "已回应"
 
 #~ msgid "일치"
-#~ msgstr "Match"
+#~ msgstr "一致"
 
 #~ msgid "인기 크리에이터"
-#~ msgstr "Popular Creators"
+#~ msgstr "人气作者"
 
 #~ msgid "관련도"
-#~ msgstr "Relevance"
+#~ msgstr "关联度"
 
 #~ msgid "기간"
-#~ msgstr "Term"
+#~ msgstr "期限"
 
 #~ msgid "날짜"
-#~ msgstr "Date"
+#~ msgstr "日期"
 
 #~ msgid "내림차순"
-#~ msgstr "Descending Order"
+#~ msgstr "降序排列"
 
 #~ msgid "내용이 없습니다."
-#~ msgstr "No information to show."
+#~ msgstr "没有任何内容。"
 
 #~ msgid "년간"
-#~ msgstr "Yearly"
+#~ msgstr "年"
 
 #~ msgid "다음 작품"
-#~ msgstr "Next work"
+#~ msgstr "下一个作品"
 
 #~ msgid "만화"
-#~ msgstr "Comic"
+#~ msgstr "漫画"
 
 #~ msgid "모든 종류"
-#~ msgstr "All types"
+#~ msgstr "所有类型"
 
 #~ msgid "불러보았다"
-#~ msgstr "Cover song"
+#~ msgstr "翻唱"
 
 #~ msgid "새로운 <a href=\"{comment_url}\">댓글</a> {comment_count}개가 있습니다."
-#~ msgstr "You have {comment_count} new <a href=\"{comment_url}\">comment(s)</a>."
+#~ msgstr "您有{comment_count}个新<a href=\"{comment_url}\">评论</a>。"
 
 #~ msgid "새로운 <a href=\"{favorite_url}\">찜</a> {favorite_count}개가 있습니다."
-#~ msgstr ""
-#~ "You have {favorite_count} new <a href=\"{favorite_url}\">favorite(s)</a>."
+#~ msgstr "您有{favorite_count}个新<a href=\"{favorite_url}\">点赞</a>。"
 
-#~ msgid ""
-#~ "새로운 <a href=\"{favorite_url}\">찜</a> {favorite_count}개와 <a href="
-#~ "\"{comment_url}\">댓글</a> {comment_count}개가 있습니다."
-#~ msgstr ""
-#~ "You have {favorite_count} new <a href=\"{favorite_url}\">favorite(s)</a>, "
-#~ "{comment_count} new <a href=\"{comment_url}\">comment(s)</a>."
+#~ msgid "새로운 <a href=\"{favorite_url}\">찜</a> {favorite_count}개와 <a href=\"{comment_url}\">댓글</a> {comment_count}개가 있습니다."
+#~ msgstr "您有{favorite_count}个新<a href=\"{favorite_url}\">点赞</a>和{comment_count}个新<a href=\"{comment_url}\">评论</a>。"
 
 #~ msgid "새로운 <a href=\"{url}\">팔로워</a>가 {count}명 있습니다."
-#~ msgstr "You have {count} new <a href=\"{url}\">follower(s)</a>."
+#~ msgstr "您有{count}个新<a href=\"{url}\">粉丝</a>。"
 
 #~ msgid "애니메이션"
-#~ msgstr "Animation"
+#~ msgstr "动漫"
 
 #~ msgid "없음"
-#~ msgstr "None"
+#~ msgstr "无"
 
 #~ msgid "여러 장"
-#~ msgstr "Several images"
+#~ msgstr "多张"
 
 #~ msgid "연주해보았다"
-#~ msgstr "Instrument"
+#~ msgstr "演奏"
 
 #~ msgid "열기"
-#~ msgstr "Open"
+#~ msgstr "打开"
 
 #~ msgid "오래된 인터넷 익스플로러를 사용하고 있습니다."
-#~ msgstr "You are using an outdated version of Internet Explorer."
+#~ msgstr "Internet Explorer版本过旧。"
 
 #~ msgid "월간"
-#~ msgstr "Monthly"
+#~ msgstr "月"
 
 #~ msgid "일간"
-#~ msgstr "Daily"
+#~ msgstr "日"
 
 #~ msgid "작업 슬롯"
 #~ msgstr "Slots"
 
 #~ msgid "작품을 처리하는 중입니다. 완료되면 바로 업로드됩니다."
-#~ msgstr ""
-#~ "We are currently processing your work. It will be uploaded as soon as this "
-#~ "is done."
+#~ msgstr "正在处理中，完成后作品即上传成功。"
 
 #~ msgid "작품이 정상적으로 재생되지 않을 수 있습니다."
-#~ msgstr "This work might not be played normally."
+#~ msgstr "作品有可能无法正常生成。"
 
 #~ msgid "정렬"
-#~ msgstr "Sort"
+#~ msgstr "分类"
 
 #~ msgid "정말 찜을 취소할까요?"
-#~ msgstr "Are you sure you want to undo your favorite?"
+#~ msgstr "确定取消点赞？"
 
 #~ msgid "정말 찜할까요?"
-#~ msgstr "Are you sure you want to favorite this post?"
+#~ msgstr "确定要点赞？"
 
 #~ msgid "조회수"
-#~ msgstr "Views"
+#~ msgstr "浏览次数"
 
 #~ msgid "찜"
-#~ msgstr "Favorites"
+#~ msgstr "点赞数"
 
 #~ msgid "찜 취소"
-#~ msgstr "Unfavorite"
+#~ msgstr "取消点赞"
 
 #~ msgid "찜이 없습니다."
-#~ msgstr "You have no favorites."
+#~ msgstr "没有点赞。"
 
 #~ msgid "찜하기"
-#~ msgstr "Favorite"
+#~ msgstr "点赞"
 
 #~ msgid "찜한 사람"
-#~ msgstr "Favorited users"
+#~ msgstr "喜欢的用户"
 
 #~ msgid "찜한 사람이 없습니다."
-#~ msgstr "You have not favorited anyone."
+#~ msgstr "没有喜欢的用户。"
 
 #~ msgid "최신 버전의 브라우저를 설치하여 아트리를 쾌적하게 이용해보세요!"
-#~ msgstr ""
-#~ "Install the latest version of your browser to browse through Ateli more "
-#~ "conveniently!"
+#~ msgstr "安装最新版本的浏览器，更加流畅地使用Ateli吧！"
 
 #~ msgid "추천 아틀리에 보기"
-#~ msgstr "View recommended Ateliers"
+#~ msgstr "查看推荐Ateliers"
 
 #~ msgid "춤춰보았다"
-#~ msgstr "Dance"
+#~ msgstr "舞蹈"
 
 #~ msgid "캘리그래피"
-#~ msgstr "Calligraphy"
+#~ msgstr "美术字体"
 
 #~ msgid "커미션 문의"
-#~ msgstr "Commission Inquiry"
+#~ msgstr "需求咨询"
 
 #~ msgid "커미션 주소"
-#~ msgstr "Commission address"
+#~ msgstr "需求地址"
 
 #~ msgid "태그 변경이 제한되어 있습니다."
-#~ msgstr "Tag editing is restricted."
+#~ msgstr "更改标签有限制。"
 
 #~ msgid "태그가 없습니다."
-#~ msgstr "There are no tags."
+#~ msgstr "没有标签。"
 
 #~ msgid "튀김"
-#~ msgstr "Fry"
+#~ msgstr "油炸"
 
 #~ msgid "필수"
-#~ msgstr "Required"
+#~ msgstr "必须"
 
 #~ msgid "필터"
-#~ msgstr "Filter"
+#~ msgstr "滤色镜"
 
 #~ msgid "현재 섹션에서 검색"
-#~ msgstr "Search from current section"
+#~ msgstr "按当前条件搜索"
 
 #~ msgid "현재 아틀리에에서 검색"
-#~ msgstr "Search from this Atelier"
+#~ msgstr "在当前用户中搜索"
 
 #~ msgid "현재 페이지"
-#~ msgstr "Current Page"
+#~ msgstr "当前页面"
 
 #~ msgid "\"{name}\" 태그를 삭제할까요?"
-#~ msgstr "Delete the tag \"{name}\"?"
+#~ msgstr "确定删除标签\"{name}\"?"
 
-#~ msgid ""
-#~ "<a href=\"{url}\">{name}</a>님이 <a href=\"{webclap_url}\">웹 박수</a>에 답장"
-#~ "했습니다."
-#~ msgstr ""
-#~ "<a href=\"{url}\">{name}</a> replied to your <a href=\"{webclap_url}\">Web "
-#~ "clap</a>."
+#~ msgid "<a href=\"{url}\">{name}</a>님이 <a href=\"{webclap_url}\">웹 박수</a>에 답장했습니다."
+#~ msgstr "<a href=\"{url}\">{name}</a> 回复了 <a href=\"{webclap_url}\">鼓掌</a>."
 
 #~ msgid "공통"
-#~ msgstr "Common"
+#~ msgstr "共同"
 
 #~ msgid "그림 커미션"
-#~ msgstr "Illustration Commission"
+#~ msgstr "绘图需求"
 
 #~ msgid "동시 진행 작업 수, 의뢰 비용, 저작권 귀속 및 상업적 이용 가능 여부"
-#~ msgstr ""
-#~ "The number of simultaneous ongoing operations, commission fee, copyright "
-#~ "attribution and commercial availability."
+#~ msgstr "可同时进行项目数量、外包费用、著作权所属及是否可以商业化"
 
 #~ msgid "랭킹 집계 중입니다. 잠시 후 다시 확인해주세요."
-#~ msgstr "Currently summing up the rankings. Please check again later."
+#~ msgstr "排行榜正在合计中，请稍后确认。"
 
 #~ msgid "런타임, 장르 제한, 보컬 정보 등"
-#~ msgstr "Runtime, genre restrictions, vocals information, etc."
+#~ msgstr "Runtime、体裁限制、歌手信息等"
 
 #~ msgid "본체/렌즈 기종, 스튜디오 정보 등"
-#~ msgstr "Camera/lens model, studio information, etc."
+#~ msgstr "相机/镜头型号、工作室信息等"
 
 #~ msgid "새로운 <a href=\"{url}\">웹 박수</a>가 {count}개 있습니다."
-#~ msgstr "You have {count} new <a href=\"{url}\">web clap(s)</a>."
+#~ msgstr "有{count}个新<a href=\"{url}\">鼓掌</a>."
 
 #~ msgid "쓰기"
-#~ msgstr "Write"
+#~ msgstr "编辑"
 
 #~ msgid "아직 응답되지 않았습니다."
-#~ msgstr "It has not yet been responded."
+#~ msgstr "还未收到回复。"
 
 #~ msgid "업로드 상태"
-#~ msgstr "Upload status"
+#~ msgstr "上传情况"
 
 #~ msgid "웹 박수의 내용, 응원한 사용자는 아틀리에 구성원만 확인할 수 있습니다."
-#~ msgstr "The contents of the web clap can only be viewed by atelier members."
+#~ msgstr "鼓掌详细内容、应援的用户只有Atelier成员可以查看。"
 
 #~ msgid "응답"
-#~ msgstr "Response"
+#~ msgstr "回复"
 
 #~ msgid "응답 내용은 모든 사용자에게 공개됩니다!"
-#~ msgstr "Responses are visible to everyone!"
+#~ msgstr "向所有用户公开回复内容！"
 
 #~ msgid "응답까지 같이 삭제됩니다!"
-#~ msgstr "The response will also be deleted!"
+#~ msgstr "连同回复一起删除!"
 
 #~ msgid "작업 슬롯 관리를 사용하지 않으려면 0을 입력해주세요."
-#~ msgstr "If you do not want to use the slots, please enter \"0.\""
+#~ msgstr "若您不想使用slots，请输入“0”。"
 
 #~ msgid "작품 감상 페이지에서 편집할 수 있습니다."
-#~ msgstr "You can also edit tags in the viewing page."
+#~ msgstr "作品查看页面也可以编辑标签。"
 
 #~ msgid "최대 슬롯"
-#~ msgstr "Maximum slots"
+#~ msgstr "最大slots"
 
 #~ msgid "커버 이미지 삭제"
-#~ msgstr "Remove cover image"
+#~ msgstr "删除封面"
 
 #~ msgid "크기, 해상도, 색상 모드, 배경 작업 여부, 제약 사항 등"
-#~ msgstr "Size, resolution, color space, background, restrictions, etc."
+#~ msgstr "尺寸、分辨率、色彩模式、是否需要背景处理、特殊要求等"
 
-#~ msgid ""
-#~ "태그는 최대 30자로 총 5개 입력할 수 있습니다. 나중에 더 추가하거나 편집할 수 "
-#~ "있습니다."
-#~ msgstr ""
-#~ "You can add up to 5 tags with up to 30 characters each. You can also add or "
-#~ "edit them later."
+#~ msgid "태그는 최대 30자로 총 5개 입력할 수 있습니다. 나중에 더 추가하거나 편집할 수 있습니다."
+#~ msgstr "标签最多可输入30个字，最多可输入5个标签。设置成功后可以另外添加或编辑标签。"
 
 #~ msgid "트위터, 홈페이지, 이메일 주소가 자동으로 표시됩니다."
-#~ msgstr ""
-#~ "Your Twitter account, website address, and e-mail address will be displayed "
-#~ "automatically."
+#~ msgstr "将自动显示您的Twitter账号、首页地址及邮箱地址。"
 
 #~ msgid "해상도, 런타임, 장르 제한, 제약 사항 등"
-#~ msgstr "Resolution, runtime, genre limitations, restrictions, etc."
+#~ msgstr "分辨率、runtime、体裁限制、签约事项等"
 
 #~ msgid "헤더 이미지 삭제"
-#~ msgstr "Remove header image"
+#~ msgstr "删除个人主页图片"
 
 #~ msgid "현재​ 슬롯"
-#~ msgstr "Current Slots"
+#~ msgstr "当前Slots"
 
 #~ msgid "회원"
-#~ msgstr "User"
+#~ msgstr "会员"
 
 #~ msgid "회원 설정"
-#~ msgstr "User Settings"
+#~ msgstr "会员设置"
 
 #~ msgid "그림"
-#~ msgstr "Illustration"
+#~ msgstr "插图"
 
 #~ msgid "커미션 정보 등록"
-#~ msgstr "Register a Commission"
+#~ msgstr "发布需求"
 
 #~ msgid "커미션이 없습니다."
-#~ msgstr "There are no commissions."
+#~ msgstr "没有需求。"
 
 #~ msgid "Hello! 아트리"
 #~ msgstr "Hello! Ateli"
