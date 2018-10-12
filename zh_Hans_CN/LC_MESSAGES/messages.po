@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-11 00:14+0900\n"
-"PO-Revision-Date: 2018-10-11 00:18+0900\n"
+"POT-Creation-Date: 2018-10-12 15:19+0900\n"
+"PO-Revision-Date: 2018-10-12 16:01+0900\n"
 "Last-Translator: \n"
 "Language: zh_CN\n"
 "Language-Team: en <LL@li.org>\n"
@@ -180,6 +180,9 @@ msgstr "公开"
 msgid "공개된 정보가 없어요…"
 msgstr "没有公开信息…"
 
+msgid "공식 트위터를 팔로우했습니다. 원하지 않으시면 언제든지 취소해주세요."
+msgstr "已为您关注了官方Twitter。若不需要可以随时取消关注。"
+
 msgid "공유"
 msgstr "分享"
 
@@ -319,7 +322,7 @@ msgid "다른 사람의 작품을 허락 없이 퍼오거나 편집하면 안돼
 msgstr "未经他人允许，禁止随意使用和编辑他人作品！"
 
 msgid "다른 사람이 댓글을 쓸 수 없도록 합니다."
-msgstr ""
+msgstr "设置为其他人无法评论。"
 
 msgid "다른 사람이 태그를 편집할 수 없게 설정합니다."
 msgstr "设置成其他人无法修改标签。"
@@ -352,7 +355,7 @@ msgid "댓글"
 msgstr "评论"
 
 msgid "댓글 작성 제한"
-msgstr ""
+msgstr "评论权限"
 
 msgid "댓글 활동"
 msgstr "历史评论"
@@ -514,7 +517,7 @@ msgid "모잠비크"
 msgstr "莫桑比克"
 
 msgid "목록"
-msgstr ""
+msgstr "目录"
 
 msgid "몬테네그로"
 msgstr "蒙特内格罗"
@@ -928,7 +931,7 @@ msgid "앤티가 바부다"
 msgstr "安提瓜和巴布达"
 
 msgid "앨범"
-msgstr ""
+msgstr "专辑"
 
 msgid "앵귈라"
 msgstr "安圭拉"
