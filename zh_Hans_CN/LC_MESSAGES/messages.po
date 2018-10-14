@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-12 15:19+0900\n"
-"PO-Revision-Date: 2018-10-12 18:50+0900\n"
+"POT-Creation-Date: 2018-10-15 01:49+0900\n"
+"PO-Revision-Date: 2018-10-15 02:01+0900\n"
 "Last-Translator: \n"
 "Language: zh_CN\n"
 "Language-Team: en <LL@li.org>\n"
@@ -1050,6 +1050,9 @@ msgstr "乌克兰"
 msgid "월-일 공개"
 msgstr "周一至周日 公开"
 
+msgid "월간"
+msgstr "月度"
+
 msgid "월장석"
 msgstr "月光石"
 
@@ -1844,9 +1847,6 @@ msgstr "加入会员"
 
 #~ msgid "오래된 인터넷 익스플로러를 사용하고 있습니다."
 #~ msgstr "Internet Explorer版本过旧。"
-
-#~ msgid "월간"
-#~ msgstr "月"
 
 #~ msgid "일간"
 #~ msgstr "日"

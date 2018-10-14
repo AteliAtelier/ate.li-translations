@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-12 15:19+0900\n"
-"PO-Revision-Date: 2018-10-12 15:26+0900\n"
+"POT-Creation-Date: 2018-10-15 01:49+0900\n"
+"PO-Revision-Date: 2018-10-15 01:56+0900\n"
 "Last-Translator: \n"
 "Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
@@ -1050,6 +1050,9 @@ msgstr "ウクライナ"
 msgid "월-일 공개"
 msgstr "月日を公開"
 
+msgid "월간"
+msgstr "月間"
+
 msgid "월장석"
 msgstr "ムーンストーン"
 
@@ -1955,9 +1958,6 @@ msgstr "会員登録"
 
 #~ msgid "오래된 인터넷 익스플로러를 사용하고 있습니다."
 #~ msgstr "古いバージョンのインターネットエクスプローラーを使用しています。"
-
-#~ msgid "월간"
-#~ msgstr "月刊"
 
 #~ msgid "일간"
 #~ msgstr "日刊"
