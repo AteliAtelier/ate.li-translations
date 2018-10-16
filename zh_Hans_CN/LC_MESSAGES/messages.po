@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-15 01:49+0900\n"
-"PO-Revision-Date: 2018-10-15 02:01+0900\n"
+"POT-Creation-Date: 2018-10-17 05:23+0900\n"
+"PO-Revision-Date: 2018-10-17 05:29+0900\n"
 "Last-Translator: \n"
 "Language: zh_CN\n"
 "Language-Team: en <LL@li.org>\n"
@@ -137,6 +137,9 @@ msgstr "加蓬"
 
 msgid "가이아나"
 msgstr "圭亚那"
+
+msgid "가입일"
+msgstr "注册日期"
 
 msgid "감광속도"
 msgstr "ISO"
@@ -1275,6 +1278,9 @@ msgstr "朝鲜"
 msgid "조지아"
 msgstr "格鲁吉亚行政区划"
 
+msgid "조회수"
+msgstr "浏览次数"
+
 msgid "좋아요"
 msgstr "点赞"
 
@@ -1538,6 +1544,9 @@ msgstr "黄玉"
 
 msgid "통가"
 msgstr "汤加"
+
+msgid "통계"
+msgstr "统计"
 
 msgid "투르크메니스탄"
 msgstr "土库曼斯坦"
@@ -1868,9 +1877,6 @@ msgstr "加入会员"
 
 #~ msgid "정말 찜할까요?"
 #~ msgstr "确定要点赞？"
-
-#~ msgid "조회수"
-#~ msgstr "浏览次数"
 
 #~ msgid "찜"
 #~ msgstr "点赞数"

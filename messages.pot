@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-15 01:49+0900\n"
+"POT-Creation-Date: 2018-10-17 05:23+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -130,6 +130,9 @@ msgid "가봉"
 msgstr ""
 
 msgid "가이아나"
+msgstr ""
+
+msgid "가입일"
 msgstr ""
 
 msgid "감광속도"
@@ -1263,6 +1266,9 @@ msgstr ""
 msgid "조지아"
 msgstr ""
 
+msgid "조회수"
+msgstr ""
+
 msgid "좋아요"
 msgstr ""
 
@@ -1525,6 +1531,9 @@ msgid "토파즈"
 msgstr ""
 
 msgid "통가"
+msgstr ""
+
+msgid "통계"
 msgstr ""
 
 msgid "투르크메니스탄"

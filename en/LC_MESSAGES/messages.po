@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-15 01:49+0900\n"
-"PO-Revision-Date: 2018-10-15 02:02+0900\n"
+"POT-Creation-Date: 2018-10-17 05:23+0900\n"
+"PO-Revision-Date: 2018-10-17 05:25+0900\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
@@ -137,6 +137,9 @@ msgstr "Gabon"
 
 msgid "가이아나"
 msgstr "Guyana"
+
+msgid "가입일"
+msgstr "Joined"
 
 msgid "감광속도"
 msgstr "ISO"
@@ -1275,6 +1278,9 @@ msgstr "North Korea"
 msgid "조지아"
 msgstr "Georgia"
 
+msgid "조회수"
+msgstr "Views"
+
 msgid "좋아요"
 msgstr "Like"
 
@@ -1538,6 +1544,9 @@ msgstr "Topaz"
 
 msgid "통가"
 msgstr "Tonga"
+
+msgid "통계"
+msgstr "Stats"
 
 msgid "투르크메니스탄"
 msgstr "Turkmenistan"
@@ -1868,9 +1877,6 @@ msgstr "Sign Up"
 
 #~ msgid "정말 찜할까요?"
 #~ msgstr "Are you sure you want to favorite this post?"
-
-#~ msgid "조회수"
-#~ msgstr "Views"
 
 #~ msgid "찜"
 #~ msgstr "Favorites"
