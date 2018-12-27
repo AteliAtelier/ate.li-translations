@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-17 05:23+0900\n"
-"PO-Revision-Date: 2018-10-17 05:27+0900\n"
+"POT-Creation-Date: 2018-12-27 19:03+0900\n"
+"PO-Revision-Date: 2018-12-27 19:07+0900\n"
 "Last-Translator: \n"
 "Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
@@ -65,6 +65,9 @@ msgstr "@AteliJP"
 
 msgid "English (영어)"
 msgstr "English (英語)"
+
+msgid "URL이 의심될 경우 취소를 눌러 이동을 중단하세요."
+msgstr "URLが疑われる場合は、移動をキャンセルしてください。"
 
 msgid "[아트리] 비밀번호 재설정"
 msgstr "[アトリ] パスワードリセット"
@@ -1029,6 +1032,9 @@ msgstr "正しいアドレスじゃありません。"
 msgid "왈리스 퓌튀나"
 msgstr "ウォリス・フツナ"
 
+msgid "외부 링크"
+msgstr "外部リンク"
+
 msgid "요르단"
 msgstr "ヨルダン"
 
@@ -1070,6 +1076,9 @@ msgstr "web拍手の返事"
 
 msgid "위키피디아"
 msgstr "ウィキペディア"
+
+msgid "위험한 URL로 확인되어 차단되었습니다."
+msgstr "危険なURLと確認されブロックしました。"
 
 msgid "음악"
 msgstr "音楽"
