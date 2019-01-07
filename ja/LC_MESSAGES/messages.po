@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-12-27 19:03+0900\n"
-"PO-Revision-Date: 2018-12-27 19:07+0900\n"
+"POT-Creation-Date: 2019-01-07 18:28+0900\n"
+"PO-Revision-Date: 2019-01-07 18:38+0900\n"
 "Last-Translator: \n"
 "Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
@@ -597,6 +597,9 @@ msgstr "バングラデシュ"
 msgid "버뮤다"
 msgstr "バミューダ"
 
+msgid "번역 보기"
+msgstr "翻訳を見る"
+
 msgid "베냉"
 msgstr "ベナン"
 
@@ -849,6 +852,9 @@ msgstr "アルメニア"
 msgid "아르헨티나"
 msgstr "アルゼンチン"
 
+msgid "아마존"
+msgstr "アマゾン"
+
 msgid "아메리칸사모아"
 msgstr "アメリカ領サモア"
 
@@ -1055,6 +1061,9 @@ msgstr "ウズベキスタン"
 
 msgid "우크라이나"
 msgstr "ウクライナ"
+
+msgid "원본 보기"
+msgstr "原文を見る"
 
 msgid "월-일 공개"
 msgstr "月日を公開"
@@ -1403,6 +1412,9 @@ msgstr "カーボベルデ"
 
 msgid "카자흐스탄"
 msgstr "カザフスタン"
+
+msgid "카카오"
+msgstr "カカオ"
 
 msgid "카카오스토리 공유"
 msgstr "Kakaostoryでシェア"

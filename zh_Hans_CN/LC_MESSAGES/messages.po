@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-17 05:23+0900\n"
-"PO-Revision-Date: 2018-10-18 18:22+0900\n"
+"POT-Creation-Date: 2019-01-07 18:28+0900\n"
+"PO-Revision-Date: 2019-01-07 19:15+0900\n"
 "Last-Translator: \n"
 "Language: zh_CN\n"
 "Language-Team: en <LL@li.org>\n"
@@ -594,6 +594,9 @@ msgstr "孟加拉国"
 msgid "버뮤다"
 msgstr "百慕大群岛"
 
+msgid "번역 보기"
+msgstr "查看翻译"
+
 msgid "베냉"
 msgstr "贝宁"
 
@@ -846,6 +849,9 @@ msgstr "亚美尼亚"
 msgid "아르헨티나"
 msgstr "阿根廷"
 
+msgid "아마존"
+msgstr "Amazon"
+
 msgid "아메리칸사모아"
 msgstr "美属萨摩亚"
 
@@ -1028,6 +1034,9 @@ msgstr "地址错误。"
 
 msgid "왈리스 퓌튀나"
 msgstr "瓦利斯和富图纳"
+
+msgid "외부 링크"
+msgstr "External link"
 
 msgid "요르단"
 msgstr "约旦"
@@ -1394,6 +1403,9 @@ msgstr "佛得角"
 
 msgid "카자흐스탄"
 msgstr "哈萨克斯坦"
+
+msgid "카카오"
+msgstr "Kakao"
 
 msgid "카카오스토리 공유"
 msgstr "分享至KakaoStory"
