@@ -1,21 +1,21 @@
 # Translations template for PROJECT.
-# Copyright (C) 2019 ORGANIZATION
+# Copyright (C) 2025 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-01-07 18:28+0900\n"
+"POT-Creation-Date: 2025-04-24 16:37+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Generated-By: Babel 2.16.0\n"
 
 msgid "\"{body}\" 댓글을 {like_count}명이 좋아했어요."
 msgstr ""
@@ -57,7 +57,7 @@ msgstr ""
 msgid "@AteliKR"
 msgstr ""
 
-msgid "English (영어)"
+msgid "AI 생성 콘텐츠는 정중히 거절하고 있습니다. 업로드 할 경우 비공개/삭제 될 수 있습니다."
 msgstr ""
 
 msgid "URL이 의심될 경우 취소를 눌러 이동을 중단하세요."
@@ -120,12 +120,6 @@ msgstr ""
 msgid "♓ 물고기자리"
 msgstr ""
 
-msgid "中文-简体 (중국어 간체)"
-msgstr ""
-
-msgid "日本語 (일본어)"
-msgstr ""
-
 msgid "가나"
 msgstr ""
 
@@ -180,9 +174,6 @@ msgstr ""
 msgid "공개된 정보가 없어요…"
 msgstr ""
 
-msgid "공식 트위터를 팔로우했습니다. 원하지 않으시면 언제든지 취소해주세요."
-msgstr ""
-
 msgid "공유"
 msgstr ""
 
@@ -211,6 +202,9 @@ msgid "광고가 차단되었습니다."
 msgstr ""
 
 msgid "괜찮아요, 그냥 올릴게요."
+msgstr ""
+
+msgid "구글"
 msgstr ""
 
 msgid "구글+ 공유"
@@ -331,6 +325,9 @@ msgid "다른 사용자에 의해 삭제됨"
 msgstr ""
 
 msgid "다시 보내기"
+msgstr ""
+
+msgid "다운로드"
 msgstr ""
 
 msgid "다음"
@@ -846,9 +843,6 @@ msgstr ""
 msgid "아르헨티나"
 msgstr ""
 
-msgid "아마존"
-msgstr ""
-
 msgid "아메리칸사모아"
 msgstr ""
 
@@ -1140,6 +1134,9 @@ msgstr ""
 msgid "이용약관"
 msgstr ""
 
+msgid "이용약관에 위반하는 포스트는 비공개, 삭제될 수 있습니다."
+msgstr ""
+
 msgid "이전"
 msgstr ""
 
@@ -1374,9 +1371,6 @@ msgstr ""
 msgid "최근 업로드"
 msgstr ""
 
-msgid "최근 작품"
-msgstr ""
-
 msgid "추가"
 msgstr ""
 
@@ -1399,9 +1393,6 @@ msgid "카보베르데"
 msgstr ""
 
 msgid "카자흐스탄"
-msgstr ""
-
-msgid "카카오"
 msgstr ""
 
 msgid "카카오스토리 공유"
@@ -1641,12 +1632,6 @@ msgstr ""
 msgid "페리도트"
 msgstr ""
 
-msgid "페이스북"
-msgstr ""
-
-msgid "페이스북 공유"
-msgstr ""
-
 msgid "편집"
 msgstr ""
 
@@ -1705,9 +1690,6 @@ msgid "핏케언 제도"
 msgstr ""
 
 msgid "한국어"
-msgstr ""
-
-msgid "한국어 (Korean)"
 msgstr ""
 
 msgid "함께하는 창작, 아트리!"

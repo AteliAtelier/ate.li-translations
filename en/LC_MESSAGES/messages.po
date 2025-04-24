@@ -7,17 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-01-07 18:28+0900\n"
-"PO-Revision-Date: 2019-01-07 19:15+0900\n"
+"POT-Creation-Date: 2025-04-24 16:37+0000\n"
+"PO-Revision-Date: 2025-04-25 01:46+0900\n"
 "Last-Translator: \n"
-"Language: en\n"
 "Language-Team: en <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
-"X-Generator: Poedit 2.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.16.0\n"
+"X-Generator: Poedit 3.6\n"
 
 msgid "\"{body}\" 댓글을 {like_count}명이 좋아했어요."
 msgstr "{like_count} people liked \"{body}\"."
@@ -63,8 +63,8 @@ msgstr ""
 msgid "@AteliKR"
 msgstr "@AteliAtelier"
 
-msgid "English (영어)"
-msgstr "English"
+msgid "AI 생성 콘텐츠는 정중히 거절하고 있습니다. 업로드 할 경우 비공개/삭제 될 수 있습니다."
+msgstr "We politely decline AI-generated content. If uploaded, it may be set to private or deleted."
 
 msgid "URL이 의심될 경우 취소를 눌러 이동을 중단하세요."
 msgstr "If you think the URL is unsafe, please select Cancel."
@@ -126,12 +126,6 @@ msgstr "♒ Aquarius"
 msgid "♓ 물고기자리"
 msgstr "♓ Pisces"
 
-msgid "中文-简体 (중국어 간체)"
-msgstr "中文-简体 (Simplified Chinese)"
-
-msgid "日本語 (일본어)"
-msgstr "日本語 (Japanese)"
-
 msgid "가나"
 msgstr "Ghana"
 
@@ -186,9 +180,6 @@ msgstr "Public"
 msgid "공개된 정보가 없어요…"
 msgstr "No public information"
 
-msgid "공식 트위터를 팔로우했습니다. 원하지 않으시면 언제든지 취소해주세요."
-msgstr "The official Twitter account was followed. Please don't hesitate to unfollow us."
-
 msgid "공유"
 msgstr "Share"
 
@@ -218,6 +209,9 @@ msgstr "Ads have been blocked."
 
 msgid "괜찮아요, 그냥 올릴게요."
 msgstr "No, thanks. I'll just upload it."
+
+msgid "구글"
+msgstr "Google"
 
 msgid "구글+ 공유"
 msgstr "Share to Google+"
@@ -338,6 +332,9 @@ msgstr "Deleted by another user"
 
 msgid "다시 보내기"
 msgstr "Send again"
+
+msgid "다운로드"
+msgstr "Download"
 
 msgid "다음"
 msgstr "Next"
@@ -852,9 +849,6 @@ msgstr "Armenia"
 msgid "아르헨티나"
 msgstr "Argentina"
 
-msgid "아마존"
-msgstr "Amazon"
-
 msgid "아메리칸사모아"
 msgstr "American Samoa"
 
@@ -1152,6 +1146,9 @@ msgstr "Israel"
 msgid "이용약관"
 msgstr "Terms of Service"
 
+msgid "이용약관에 위반하는 포스트는 비공개, 삭제될 수 있습니다."
+msgstr "Posts that violate the terms of service may be made private or deleted."
+
 msgid "이전"
 msgstr "Previous"
 
@@ -1386,9 +1383,6 @@ msgstr "Focal Distance"
 msgid "최근 업로드"
 msgstr "Recent posts"
 
-msgid "최근 작품"
-msgstr "Recent Work"
-
 msgid "추가"
 msgstr "Add"
 
@@ -1412,9 +1406,6 @@ msgstr "Cape Verde"
 
 msgid "카자흐스탄"
 msgstr "Kazakhstan"
-
-msgid "카카오"
-msgstr "Kakao"
 
 msgid "카카오스토리 공유"
 msgstr "Share to Kakaostory"
@@ -1653,12 +1644,6 @@ msgstr "Peru"
 msgid "페리도트"
 msgstr "Peridot"
 
-msgid "페이스북"
-msgstr "Facebook"
-
-msgid "페이스북 공유"
-msgstr "Share to Facebook"
-
 msgid "편집"
 msgstr "Edit"
 
@@ -1718,9 +1703,6 @@ msgstr "Pitcairn"
 
 msgid "한국어"
 msgstr "Korean"
-
-msgid "한국어 (Korean)"
-msgstr "한국어 (Korean)"
 
 msgid "함께하는 창작, 아트리!"
 msgstr "Create together - Ateli"
@@ -2054,3 +2036,33 @@ msgstr "Sign Up"
 
 #~ msgid "Hello! 아트리"
 #~ msgstr "Hello! Ateli"
+
+#~ msgid "English (영어)"
+#~ msgstr "English"
+
+#~ msgid "中文-简体 (중국어 간체)"
+#~ msgstr "中文-简体 (Simplified Chinese)"
+
+#~ msgid "日本語 (일본어)"
+#~ msgstr "日本語 (Japanese)"
+
+#~ msgid "공식 트위터를 팔로우했습니다. 원하지 않으시면 언제든지 취소해주세요."
+#~ msgstr "The official Twitter account was followed. Please don't hesitate to unfollow us."
+
+#~ msgid "아마존"
+#~ msgstr "Amazon"
+
+#~ msgid "최근 작품"
+#~ msgstr "Recent Work"
+
+#~ msgid "카카오"
+#~ msgstr "Kakao"
+
+#~ msgid "페이스북"
+#~ msgstr "Facebook"
+
+#~ msgid "페이스북 공유"
+#~ msgstr "Share to Facebook"
+
+#~ msgid "한국어 (Korean)"
+#~ msgstr "한국어 (Korean)"
